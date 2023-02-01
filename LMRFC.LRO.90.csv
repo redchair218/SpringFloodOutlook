@@ -1,225 +1,225 @@
 lid,name,lat,lon,wfo,rfc,wrr,state,minor,moderate,major,code,date_produced,obj_or_subj,interval
-ACML1,Black River at Acme,31.267778,91.830833,JAN,LMRFC,Lower Mississippi Region,LA,0.530000,0.400000,0.190000,2,1/24/2023,obj,JFM
-AEXL1,Red River at Alexandria,31.308889,92.439167,LCH,LMRFC,Lower Mississippi Region,LA,0.150000,0.120000,0.110000,1,1/24/2023,obj,JFM
-AKDA4,Ouachita River at Arkadelphia,34.121111,93.046111,LZK,LMRFC,Lower Mississippi Region,AR,0.620000,0.050000,0.050000,2,1/24/2023,obj,JFM
-ALGL1,Boeuf River near Alto,32.373801,91.880754,JAN,LMRFC,Lower Mississippi Region,LA,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-ALYM7,Jacks Fork at Alley Spring,37.148170,91.443080,SGF,LMRFC,Arkansas-White-Red Region,MO,0.080000,0.050000,0.050000,1,1/24/2023,obj,JFM
-AMIL1,Tangipahoa River near Amite,30.728889,90.484167,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-ANGM6,Big Sunflower River near Anguilla,32.971700,90.777000,JAN,LMRFC,Lower Mississippi Region,MS,0.210000,0.080000,0.050000,1,1/24/2023,obj,JFM
-ANNM7,Black River near Annapolis,37.336111,90.788611,LSX,LMRFC,Arkansas-White-Red Region,MO,0.430000,0.100000,0.050000,1,1/24/2023,obj,JFM
-ARLT1,Loosahatchie River at Arlington,35.310833,89.639444,MEG,LMRFC,Lower Mississippi Region,TN,0.320000,0.120000,0.050000,1,1/24/2023,obj,JFM
-ARSA4,Mississippi River near Arkansas City,33.551500,91.238400,JAN,LMRFC,Lower Mississippi Region,AR,0.150000,0.080000,0.050000,1,1/24/2023,obj,JFM
-ARTT1,Powell River near Arthur,36.541667,83.630278,MRX,LMRFC,Tennessee Region,TN,0.490000,0.070000,0.060000,1,1/24/2023,obj,JFM
-AUGA4,White River near Augusta,35.294444,91.394167,LZK,LMRFC,Arkansas-White-Red Region,AR,0.950000,0.140000,0.050000,2,1/24/2023,obj,JFM
-AVLN7,French Broad River at Asheville,35.608889,82.578056,GSP,LMRFC,Tennessee Region,NC,0.080000,0.050000,0.050000,1,1/24/2023,obj,JFM
-BAGA4,White River at Batesville,35.760278,91.641111,LZK,LMRFC,Arkansas-White-Red Region,AR,0.170000,0.120000,0.050000,1,1/24/2023,obj,JFM
-BDCL1,Bayou Des Cannes near Eunice,30.482778,92.490556,LCH,LMRFC,Lower Mississippi Region,LA,0.870000,0.320000,0.050000,2,1/24/2023,obj,JFM
-BELM6,Yazoo River at Belzoni,33.164710,90.494310,JAN,LMRFC,Lower Mississippi Region,MS,0.310000,0.180000,0.110000,1,1/24/2023,obj,JFM
-BHTA4,Little Missouri River (AR) near Boughton,33.875556,93.304444,LZK,LMRFC,Lower Mississippi Region,AR,0.360000,0.050000,0.050000,1,1/24/2023,obj,JFM
-BIRN7,Oconaluftee River at Birdtown,35.461389,83.353611,GSP,LMRFC,Tennessee Region,NC,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-BKDL1,Bundick Creek at Bundick Lake,30.726667,93.095000,LCH,LMRFC,Lower Mississippi Region,LA,0.880000,0.200000,0.110000,2,1/24/2023,obj,JFM
-BKNM6,Black Creek near Brooklyn,31.051900,89.204200,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.250000,0.050000,0.050000,1,1/24/2023,obj,JFM
-BKRA4,Black River at Black Rock,36.102500,91.097778,LZK,LMRFC,Arkansas-White-Red Region,AR,0.950000,0.150000,0.050000,2,1/24/2023,obj,JFM
-BLAN7,French Broad River at Blantyre,35.299167,82.623889,GSP,LMRFC,Tennessee Region,NC,0.680000,0.070000,0.050000,2,1/24/2023,obj,JFM
-BLTN7,Swannanoa River at Biltmore,35.568333,82.544722,GSP,LMRFC,Tennessee Region,NC,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-BNAA1,Big Nance Creek (AL) at Courtland,34.670000,87.317222,HUN,LMRFC,Tennessee Region,AL,0.680000,0.600000,0.120000,3,1/24/2023,obj,JFM
-BOGT1,Obion River near Bogota,36.135000,89.431667,MEG,LMRFC,Lower Mississippi Region,TN,0.060000,0.050000,0.050000,1,1/24/2023,obj,JFM
-BOVM6,Big Black River near Bovina,32.347770,90.696940,JAN,LMRFC,Lower Mississippi Region,MS,0.950000,0.070000,0.050000,2,1/24/2023,obj,JFM
-BRCM6,Skuna River at Bruce,33.973611,89.347778,MEG,LMRFC,Lower Mississippi Region,MS,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-BRYA4,Kings River near Berryville,36.427222,93.620833,TSA,LMRFC,Arkansas-White-Red Region,AR,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-BSBA1,Flint River (AL) at Brownsboro,34.749167,86.446667,HUN,LMRFC,Tennessee Region,AL,0.710000,0.530000,0.050000,3,1/24/2023,obj,JFM
-BSHL1,Bogue Chitto River near Bush,30.629167,89.897222,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.900000,0.140000,0.060000,2,1/24/2023,obj,JFM
-BSLL1,Bayou Nezpique at Basile,30.480556,92.631667,LCH,LMRFC,Lower Mississippi Region,LA,0.790000,0.440000,0.050000,2,1/24/2023,obj,JFM
-BTAM6,Big Black River near Bentonia,32.603055,90.363880,JAN,LMRFC,Lower Mississippi Region,MS,0.950000,0.900000,0.050000,3,1/24/2023,obj,JFM
-BTNA4,Saline River at Benton,34.567778,92.610278,LZK,LMRFC,Lower Mississippi Region,AR,0.590000,0.080000,0.050000,2,1/24/2023,obj,JFM
-BVCL1,Bayou Vermilion near Carencro,30.368056,91.987500,LCH,LMRFC,Lower Mississippi Region,LA,0.490000,0.200000,0.050000,1,1/24/2023,obj,JFM
-BVRT1,Hatchie River near Bolivar,35.275278,88.976667,MEG,LMRFC,Lower Mississippi Region,TN,0.150000,0.050000,0.050000,1,1/24/2023,obj,JFM
-BXAL1,Pearl River near Bogalusa,30.793056,89.820833,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.950000,0.540000,0.050000,3,1/24/2023,obj,JFM
-BYML1,Amite River at Bayou Manchac Point,30.347778,90.896944,LIX,LMRFC,Lower Mississippi Region,LA,0.440000,0.150000,0.050000,1,1/24/2023,obj,JFM
-CAMA4,Ouachita River at Camden,33.596389,92.818056,LZK,LMRFC,Lower Mississippi Region,AR,0.800000,0.440000,0.060000,2,1/24/2023,obj,JFM
-CARM6,Pearl River near Carthage,32.707222,89.526389,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.880000,0.150000,0.050000,2,1/24/2023,obj,JFM
-CCTM6,Yalobusha River at Calhoun City,33.838611,89.315556,MEG,LMRFC,Lower Mississippi Region,MS,0.110000,0.070000,0.050000,1,1/24/2023,obj,JFM
-CGSL1,Bogue Falaya River near Camp Covington,30.556667,90.146111,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.170000,0.060000,0.050000,1,1/24/2023,obj,JFM
-CHKT1,S. Chickamauga Creek near Chickamauga,35.013611,85.210556,MRX,LMRFC,Tennessee Region,TN,0.680000,0.150000,0.060000,2,1/24/2023,obj,JFM
-CHSA1,Flint River (AL) near Chase,34.822778,86.483056,HUN,LMRFC,Tennessee Region,AL,0.430000,0.050000,0.050000,1,1/24/2023,obj,JFM
-CIRI2,Ohio River at Cairo,37.000000,89.162500,PAH,LMRFC,Ohio Region,IL,0.750000,0.310000,0.120000,2,1/24/2023,obj,JFM
-CKYM6,Chunky River near Chunky,32.326100,88.909200,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.190000,0.050000,0.050000,1,1/24/2023,obj,JFM
-CLDA4,White River at Clarendon,34.685556,91.315278,LZK,LMRFC,Lower Mississippi Region,AR,0.580000,0.100000,0.050000,2,1/24/2023,obj,JFM
-CLMM6,Pearl River near Columbia,31.237778,89.846944,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.800000,0.170000,0.050000,2,1/24/2023,obj,JFM
-CLRA4,White River at Calico Rock,36.116111,92.143056,LZK,LMRFC,Arkansas-White-Red Region,AR,0.100000,0.050000,0.050000,1,1/24/2023,obj,JFM
-CLSM6,Leaf River near Collins,31.706900,89.406900,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.230000,0.060000,0.050000,1,1/24/2023,obj,JFM
-CLVV2,Clinch River at Cleveland,36.944722,82.155000,MRX,LMRFC,Tennessee Region,VA,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-CMTL1,Comite River near Comite Joor Rd.,30.512500,91.073611,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.560000,0.280000,0.050000,2,1/24/2023,obj,JFM
-CNVT1,Duck River at Centerville,35.784167,87.460000,OHX,LMRFC,Tennessee Region,TN,0.630000,0.490000,0.050000,2,1/24/2023,obj,JFM
-COGL1,Bayou Macon near Como,32.092800,91.592500,JAN,LMRFC,Lower Mississippi Region,LA,0.250000,0.110000,0.060000,1,1/24/2023,obj,JFM
-COLT1,Duck River at Columbia,35.618056,87.032500,OHX,LMRFC,Tennessee Region,TN,0.560000,0.140000,0.100000,2,1/24/2023,obj,JFM
-COPT2,South Sulphur River near Cooper,33.356389,95.594722,FWD,LMRFC,Arkansas-White-Red Region,TX,0.630000,0.220000,0.050000,2,1/24/2023,obj,JFM
-CPGM7,Mississippi River at Cape Girardeau,37.301944,89.518056,PAH,LMRFC,Upper Mississippi Region,MO,0.310000,0.070000,0.050000,1,1/24/2023,obj,JFM
-CPPT2,North Sulphur River near Cooper,33.474722,95.587500,FWD,LMRFC,Arkansas-White-Red Region,TX,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-CREM6,East Hobolochitto Creek near Caesar,30.571389,89.594722,LIX,LMRFC,South Atlantic-Gulf Region,MS,0.580000,0.180000,0.080000,2,1/24/2023,obj,JFM
-CRGA4,Black River at Corning,36.401944,90.541389,LZK,LMRFC,Arkansas-White-Red Region,AR,0.060000,0.050000,0.050000,1,1/24/2023,obj,JFM
-CRTM7,Mississippi River at Caruthersville,36.194722,89.653611,MEG,LMRFC,Lower Mississippi Region,MO,0.540000,0.080000,0.050000,2,1/24/2023,obj,JFM
-CSHL1,Red River at Coushatta,32.012778,93.353056,SHV,LMRFC,Arkansas-White-Red Region,LA,0.060000,0.050000,0.050000,1,1/24/2023,obj,JFM
-CUSL1,Tchefuncte River near Covington,30.494444,90.169444,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.580000,0.060000,0.050000,2,1/24/2023,obj,JFM
-CVEL1,Bogue Falaya River at Boston Street,30.476389,90.089444,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.520000,0.060000,0.050000,2,1/24/2023,obj,JFM
-CYNL1,Tensas River at Clayton,31.724600,91.544300,JAN,LMRFC,Lower Mississippi Region,LA,0.100000,0.060000,0.050000,1,1/24/2023,obj,JFM
-DARL1,Amite River near Darlington,30.888889,90.844444,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-DENL1,Amite River at Denham Springs,30.463889,90.990278,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.490000,0.050000,0.050000,1,1/24/2023,obj,JFM
-DIBM6,Tchoutacabouffa River near D Iberville,30.476111,88.893611,LIX,LMRFC,South Atlantic-Gulf Region,MS,0.390000,0.050000,0.050000,1,1/24/2023,obj,JFM
-DLAM6,Strong River at D&#039;lo,31.977770,89.897500,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.540000,0.100000,0.050000,2,1/24/2023,obj,JFM
-DNZM7,Current River at Doniphan,36.621944,90.847500,PAH,LMRFC,Arkansas-White-Red Region,MO,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-DSCA4,White River at Des Arc,34.976667,91.492500,LZK,LMRFC,Lower Mississippi Region,AR,0.380000,0.180000,0.060000,1,1/24/2023,obj,JFM
-DYET1,North Fork Forked Deer River at Dyersburg,36.029722,89.386944,MEG,LMRFC,Lower Mississippi Region,TN,0.110000,0.050000,0.050000,1,1/24/2023,obj,JFM
-EMBT1,Nolichucky River at Embreeville,36.176389,82.457500,MRX,LMRFC,Tennessee Region,TN,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-EMCM7,Jacks Fork at Eminence,37.154170,91.358060,SGF,LMRFC,Arkansas-White-Red Region,MO,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-ENBM6,Pearl River at Edinburg,32.798889,89.335000,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.840000,0.050000,0.050000,2,1/24/2023,obj,JFM
-ENGG1,Lookout Creek near New England,34.897500,85.463056,FFC,LMRFC,Tennessee Region,GA,0.780000,0.070000,0.050000,2,1/24/2023,obj,JFM
-ENSM6,Chickasawhay River at Enterprise,32.175800,88.819700,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.700000,0.350000,0.050000,2,1/24/2023,obj,JFM
-ETAM6,Little Tallahatchie River at Etta,34.482500,89.224444,MEG,LMRFC,Lower Mississippi Region,MS,0.870000,0.160000,0.060000,2,1/24/2023,obj,JFM
-FLCN7,French Broad River at Fletcher,35.428889,82.552778,GSP,LMRFC,Tennessee Region,NC,0.140000,0.050000,0.050000,1,1/24/2023,obj,JFM
-FLSL1,Tchefuncte River near Folsom,30.615833,90.248611,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.340000,0.220000,0.090000,1,1/24/2023,obj,JFM
-FRNL1,Bogue Chitto River at Franklinton,30.842778,90.161944,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.590000,0.230000,0.050000,2,1/24/2023,obj,JFM
-FSKM7,St. Francis River at Fisk,36.790278,90.200833,PAH,LMRFC,Lower Mississippi Region,MO,0.130000,0.120000,0.090000,1,1/24/2023,obj,JFM
-FYTT1,Elk River (TN) near Fayetteville,35.134444,86.539722,HUN,LMRFC,Tennessee Region,TN,0.470000,0.410000,0.050000,1,1/24/2023,obj,JFM
-GATV2,North Fork Holston River near Gate City,36.608611,82.568056,MRX,LMRFC,Tennessee Region,VA,0.130000,0.050000,0.050000,1,1/24/2023,obj,JFM
-GDHM6,Pearl River near Lena,32.667220,89.646110,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.460000,0.050000,0.050000,1,1/24/2023,obj,JFM
-GEEM6,Mississippi River near Greenville,33.287110,91.153930,JAN,LMRFC,Lower Mississippi Region,MS,0.200000,0.130000,0.050000,1,1/24/2023,obj,JFM
-GEOA4,White River at Georgetown,35.128889,91.449722,LZK,LMRFC,Lower Mississippi Region,AR,0.400000,0.120000,0.050000,1,1/24/2023,obj,JFM
-GERT1,Wolf River at Germantown,35.116389,89.801389,MEG,LMRFC,Lower Mississippi Region,TN,0.140000,0.100000,0.050000,1,1/24/2023,obj,JFM
-GLFM6,Wolf River above Gulfport,30.393333,89.206389,LIX,LMRFC,South Atlantic-Gulf Region,MS,0.440000,0.050000,0.050000,1,1/24/2023,obj,JFM
-GLML1,Calcasieu River near Glenmora,30.995833,92.673611,LCH,LMRFC,Lower Mississippi Region,LA,0.950000,0.520000,0.200000,3,1/24/2023,obj,JFM
-GLNM7,James River (MO) at Galena,36.805278,93.461667,SGF,LMRFC,Arkansas-White-Red Region,MO,0.170000,0.050000,0.050000,1,1/24/2023,obj,JFM
-GREL1,Red River at Grand Ecore,31.818220,93.084890,SHV,LMRFC,Arkansas-White-Red Region,LA,0.070000,0.060000,0.050000,1,1/24/2023,obj,JFM
-GREM6,Yazoo River at Greenwood,33.522540,90.180830,JAN,LMRFC,Lower Mississippi Region,MS,0.240000,0.230000,0.080000,1,1/24/2023,obj,JFM
-HATM6,Leaf River at Hattiesburg,31.343100,89.280300,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.260000,0.120000,0.060000,1,1/24/2023,obj,JFM
-HBGM6,Bouie Creek near Hattiesburg,31.425800,89.414700,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.210000,0.070000,0.050000,1,1/24/2023,obj,JFM
-HDYA4,Spring River (AR) at Hardy,36.313611,91.482778,LZK,LMRFC,Arkansas-White-Red Region,AR,0.190000,0.070000,0.070000,1,1/24/2023,obj,JFM
-HEEA4,Mississippi River at Helena,34.515833,90.584167,MEG,LMRFC,Lower Mississippi Region,AR,0.140000,0.050000,0.050000,1,1/24/2023,obj,JFM
-HLST1,South Fork Forked Deer River near Halls,35.929444,89.389722,MEG,LMRFC,Lower Mississippi Region,TN,0.510000,0.190000,0.050000,2,1/24/2023,obj,JFM
-HMLT1,Duck River near Hurricane Mills,35.930063,87.743079,OHX,LMRFC,Tennessee Region,TN,0.190000,0.060000,0.050000,1,1/24/2023,obj,JFM
-HOLL1,Tickfaw River at Holden,30.503611,90.677222,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.390000,0.050000,0.050000,1,1/24/2023,obj,JFM
-HSPN7,French Broad River near Hot Springs,35.889722,82.821111,GSP,LMRFC,Tennessee Region,NC,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-IMBA4,Spring River (AR) at Imboden,36.205278,91.171944,LZK,LMRFC,Arkansas-White-Red Region,AR,0.270000,0.110000,0.050000,1,1/24/2023,obj,JFM
-IRCT1,Shoal Creek near Iron City,35.024167,87.578889,OHX,LMRFC,Tennessee Region,TN,0.330000,0.090000,0.050000,1,1/24/2023,obj,JFM
-JACM6,Pearl River at Jackson,32.281380,90.178880,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.730000,0.200000,0.050000,2,1/24/2023,obj,JFM
-JAMM7,James River (MO) near Boaz,37.006670,93.364720,SGF,LMRFC,Arkansas-White-Red Region,MO,0.140000,0.050000,0.050000,1,1/24/2023,obj,JFM
-JEFT2,Black Cypress Bayou near Jefferson,32.777778,94.357222,SHV,LMRFC,Arkansas-White-Red Region,TX,0.820000,0.110000,0.050000,2,1/24/2023,obj,JFM
-JFET2,Big Cypress Creek above Jefferson,32.749444,94.498611,SHV,LMRFC,Arkansas-White-Red Region,TX,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-JFFT2,Little Cypress Creek near Jefferson,32.712778,94.345833,SHV,LMRFC,Arkansas-White-Red Region,TX,0.400000,0.110000,0.050000,1,1/24/2023,obj,JFM
-JKNT1,South Fork Forked Deer River at Jackson,35.617500,88.852222,MEG,LMRFC,Lower Mississippi Region,TN,0.310000,0.050000,0.050000,1,1/24/2023,obj,JFM
-JNSV2,Powell River near Jonesville,36.661944,83.095000,MRX,LMRFC,Tennessee Region,VA,0.080000,0.050000,0.050000,1,1/24/2023,obj,JFM
-JUDA4,Little Red River at Judsonia,35.267778,91.639444,LZK,LMRFC,Arkansas-White-Red Region,AR,0.190000,0.100000,0.050000,1,1/24/2023,obj,JFM
-KDRL1,Calcasieu River near Kinder,30.502500,92.915556,LCH,LMRFC,Lower Mississippi Region,LA,0.800000,0.230000,0.050000,2,1/24/2023,obj,JFM
-KENL1,Tangipahoa River near Kentwood,30.937500,90.490278,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.090000,0.050000,0.050000,1,1/24/2023,obj,JFM
-KLNM6,Jourdan River at Kiln,30.387222,89.441389,LIX,LMRFC,South Atlantic-Gulf Region,MS,0.060000,0.050000,0.050000,1,1/24/2023,obj,JFM
-KSCM6,Yockanookany River near Kosciusko,33.032222,89.577778,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.550000,0.050000,0.050000,2,1/24/2023,obj,JFM
-LBBL1,Bayou Bodcau at Bayou Bodcau Lake,32.702370,93.510450,SHV,LMRFC,Arkansas-White-Red Region,LA,0.770000,0.120000,0.050000,2,1/24/2023,obj,JFM
-LBUL1,Bayou Dorcheat at Lake Bistineau,32.328300,93.431100,SHV,LMRFC,Arkansas-White-Red Region,LA,0.630000,0.200000,0.060000,2,1/24/2023,obj,JFM
-LBVT1,Buffalo River near Lobelville,35.812222,87.778889,OHX,LMRFC,Tennessee Region,TN,0.330000,0.110000,0.050000,1,1/24/2023,obj,JFM
-LCAL1,Bayou D'Arbonne at Lake Claiborne,32.740800,92.903100,SHV,LMRFC,Lower Mississippi Region,LA,0.290000,0.120000,0.050000,1,1/24/2023,obj,JFM
-LCHL1,Calcasieu River at Saltwater Barrier,30.253611,93.218056,LCH,LMRFC,Lower Mississippi Region,LA,0.930000,0.060000,0.050000,2,1/24/2023,obj,JFM
-LCOL1,Big Cypress Creek at Mooringsport (Caddo Lake),32.697778,93.957778,SHV,LMRFC,Arkansas-White-Red Region,LA,0.190000,0.050000,0.050000,1,1/24/2023,obj,JFM
-LCRA4,St. Francis River at Lake City,35.820833,90.432500,MEG,LMRFC,Lower Mississippi Region,AR,0.210000,0.050000,0.050000,1,1/24/2023,obj,JFM
-LDBL1,Bayou D'Arbonne at Lake D&#039;Arbonne,32.713290,92.340760,SHV,LMRFC,Lower Mississippi Region,LA,0.420000,0.290000,0.070000,1,1/24/2023,obj,JFM
-LEKM6,Chickasawhay River at Leakesville,31.148611,88.548056,MOB,LMRFC,South Atlantic-Gulf Region,MS,0.950000,0.340000,0.070000,2,1/24/2023,obj,JFM
-LMGM6,Tallahatchie River near Lambert,34.180556,90.215278,MEG,LMRFC,Lower Mississippi Region,MS,0.120000,0.050000,0.050000,1,1/24/2023,obj,JFM
-LOGM6,Tallahatchie River at Locopolis,33.975833,90.257778,MEG,LMRFC,Lower Mississippi Region,MS,0.750000,0.140000,0.050000,2,1/24/2023,obj,JFM
-LPOL1,Tickfaw River at Liverpool,30.930556,90.673333,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.400000,0.050000,0.050000,1,1/24/2023,obj,JFM
-LURM6,Tallahala Creek at Laurel,31.680800,89.115500,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.900000,0.420000,0.100000,2,1/24/2023,obj,JFM
-LYMM6,Biloxi River near Lyman,30.488333,89.035833,LIX,LMRFC,South Atlantic-Gulf Region,MS,0.690000,0.140000,0.050000,2,1/24/2023,obj,JFM
-MAGL1,Amite River at Magnolia,30.534722,90.980556,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-MARN7,French Broad River near Marshall,35.786389,82.660833,GSP,LMRFC,Tennessee Region,NC,0.100000,0.050000,0.050000,1,1/24/2023,obj,JFM
-MCLM6,Leaf River near McLain,31.107414,88.808333,MOB,LMRFC,South Atlantic-Gulf Region,MS,0.890000,0.530000,0.110000,3,1/24/2023,obj,JFM
-MEMT1,Mississippi River at Memphis,35.123056,90.077500,MEG,LMRFC,Lower Mississippi Region,TN,0.150000,0.050000,0.050000,1,1/24/2023,obj,JFM
-MHOM6,Mississippi River at Tunica Mhoon Landing,34.736390,90.448330,MEG,LMRFC,Lower Mississippi Region,MS,0.260000,0.150000,0.050000,1,1/24/2023,obj,JFM
-MKSM6,Coldwater River at Marks,34.261111,90.266944,MEG,LMRFC,Lower Mississippi Region,MS,0.230000,0.140000,0.050000,1,1/24/2023,obj,JFM
-MLUL1,Ouachita River at Monroe,32.500278,92.119722,SHV,LMRFC,Lower Mississippi Region,LA,0.720000,0.660000,0.510000,4,1/24/2023,obj,JFM
-MNEL1,Bayou Dorcheat at Dixie Inn,32.597400,93.331900,SHV,LMRFC,Arkansas-White-Red Region,LA,0.750000,0.240000,0.060000,2,1/24/2023,obj,JFM
-MNLM6,West Hobolochitto Creek near McNeill,30.662222,89.686111,LIX,LMRFC,South Atlantic-Gulf Region,MS,0.820000,0.470000,0.220000,2,1/24/2023,obj,JFM
-MONL1,Tickfaw River at Montpelier,30.686111,90.643056,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.350000,0.050000,0.050000,1,1/24/2023,obj,JFM
-MRML1,Mermentau River at Mermentau,30.190000,92.590556,LCH,LMRFC,Lower Mississippi Region,LA,0.820000,0.160000,0.050000,2,1/24/2023,obj,JFM
-MRRM6,Pascagoula River at Merrill,30.978056,88.726944,MOB,LMRFC,South Atlantic-Gulf Region,MS,0.820000,0.360000,0.050000,2,1/24/2023,obj,JFM
-MSNA4,St. Francis River at Madison,35.013056,90.719167,MEG,LMRFC,Lower Mississippi Region,AR,0.140000,0.090000,0.050000,1,1/24/2023,obj,JFM
-MTCM6,Pearl River near Monticello,31.553330,90.088050,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.840000,0.730000,0.050000,3,1/24/2023,obj,JFM
-MTTL1,Whisky Chitto Creek near Mittie,30.698611,92.893889,LCH,LMRFC,Lower Mississippi Region,LA,0.680000,0.140000,0.050000,2,1/24/2023,obj,JFM
-MYVT1,Little River (TN) near Maryville,35.786111,83.884444,MRX,LMRFC,Tennessee Region,TN,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-NECL1,Boeuf River near Fort Necessity,32.070800,91.928100,JAN,LMRFC,Lower Mississippi Region,LA,0.550000,0.190000,0.090000,2,1/24/2023,obj,JFM
-NLGL1,Tensas River near Newlight,32.089167,91.489722,JAN,LMRFC,Lower Mississippi Region,LA,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-NMDM7,Mississippi River at New Madrid,36.583060,89.532220,PAH,LMRFC,Lower Mississippi Region,MO,0.260000,0.110000,0.050000,1,1/24/2023,obj,JFM
-NOMT1,Obion River near Martin,36.405278,88.854722,MEG,LMRFC,Lower Mississippi Region,TN,0.120000,0.090000,0.070000,1,1/24/2023,obj,JFM
-NPTA4,White River at Newport,35.605278,91.288889,LZK,LMRFC,Arkansas-White-Red Region,AR,0.340000,0.250000,0.140000,1,1/24/2023,obj,JFM
-NRBL1,Natalbany River at Baptist,30.504167,90.545833,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.080000,0.050000,0.050000,1,1/24/2023,obj,JFM
-NWPT1,French Broad River near Newport,35.981667,83.161111,MRX,LMRFC,Tennessee Region,TN,0.100000,0.050000,0.050000,1,1/24/2023,obj,JFM
-OAKT1,Emory River at Oakdale,35.983056,84.558056,MRX,LMRFC,Tennessee Region,TN,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-OARM6,Okatibbee Creek at Arundel,32.298333,88.753611,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-OBCL1,Calcasieu River near Oberlin,30.639722,92.814444,LCH,LMRFC,Lower Mississippi Region,LA,0.890000,0.780000,0.240000,3,1/24/2023,obj,JFM
-OBNT1,Obion River near Obion,36.240760,89.217575,MEG,LMRFC,Lower Mississippi Region,TN,0.310000,0.050000,0.050000,1,1/24/2023,obj,JFM
-OFAM6,Yockanookany River near Ofahoma,32.706110,89.671940,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.790000,0.080000,0.050000,2,1/24/2023,obj,JFM
-OKDL1,Calcasieu River near Oakdale,30.822500,92.685000,LCH,LMRFC,Lower Mississippi Region,LA,0.750000,0.180000,0.050000,2,1/24/2023,obj,JFM
-OLMI2,Ohio River at Olmsted Lock and Dam Headwater,37.179167,89.058333,PAH,LMRFC,Ohio Region,IL,0.750000,0.390000,0.200000,2,1/24/2023,obj,JFM
-OLVL1,Comite River near Olive Branch,30.756389,91.043889,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-OLVM6,Coldwater River at Olive Branch,34.907500,89.753333,MEG,LMRFC,Lower Mississippi Region,MS,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-ORAM6,Escatawpa River above Orange Grove,30.458611,88.451944,LIX,LMRFC,South Atlantic-Gulf Region,MS,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-OSGA4,Mississippi River at Osceola,35.660556,89.933056,MEG,LMRFC,Lower Mississippi Region,AR,0.150000,0.110000,0.050000,1,1/24/2023,obj,JFM
-OSYM6,Tangipahoa River at Osyka,31.012222,90.461111,LIX,LMRFC,South Atlantic-Gulf Region,MS,0.470000,0.050000,0.050000,1,1/24/2023,obj,JFM
-OXDM6,Yocona River near Oxford,34.272778,89.521389,MEG,LMRFC,Lower Mississippi Region,MS,0.070000,0.050000,0.050000,1,1/24/2023,obj,JFM
-PAHK2,Ohio River at Paducah,37.089444,88.594444,PAH,LMRFC,Ohio Region,KY,0.490000,0.360000,0.080000,1,1/24/2023,obj,JFM
-PAZM7,St. Francis River at Patterson,37.194444,90.503333,PAH,LMRFC,Lower Mississippi Region,MO,0.290000,0.070000,0.050000,1,1/24/2023,obj,JFM
-PERL1,Pearl River near Pearl River,30.385000,89.736667,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.950000,0.640000,0.230000,3,1/24/2023,obj,JFM
-PFAA4,Arkansas River at Pendleton,33.978611,91.384444,LZK,LMRFC,Lower Mississippi Region,AR,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-PGFM6,Pascagoula River at Graham Ferry,30.610556,88.641389,LIX,LMRFC,South Atlantic-Gulf Region,MS,0.600000,0.100000,0.050000,2,1/24/2023,obj,JFM
-PLAM6,Pearl River near Philadelphia/at Burnside,32.841400,89.097800,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.950000,0.220000,0.050000,2,1/24/2023,obj,JFM
-PLGA4,L'Anguille River at Palestine,34.972778,90.884722,MEG,LMRFC,Lower Mississippi Region,AR,0.110000,0.050000,0.050000,1,1/24/2023,obj,JFM
-PLKT1,Richland Creek near Pulaski,35.195000,87.063889,OHX,LMRFC,Tennessee Region,TN,0.180000,0.050000,0.050000,1,1/24/2023,obj,JFM
-POCA4,Black River at Pocahontas,36.254167,90.970278,LZK,LMRFC,Arkansas-White-Red Region,AR,0.340000,0.140000,0.050000,1,1/24/2023,obj,JFM
-PPBM7,Black River at Poplar Bluff,36.759722,90.388056,PAH,LMRFC,Arkansas-White-Red Region,MO,0.230000,0.080000,0.050000,1,1/24/2023,obj,JFM
-PSPT1,Elk River near Prospect,35.014167,86.994722,OHX,LMRFC,Tennessee Region,TN,0.130000,0.050000,0.050000,1,1/24/2023,obj,JFM
-PTTA4,Cache River at Patterson,35.269722,91.236389,LZK,LMRFC,Lower Mississippi Region,AR,0.950000,0.220000,0.070000,2,1/24/2023,obj,JFM
-PVLL1,Amite River at Port Vincent,30.332500,90.851944,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.410000,0.060000,0.050000,1,1/24/2023,obj,JFM
-PWDM7,Current River above Powder Mill,37.185500,91.177900,SGF,LMRFC,Missouri Region,MO,0.240000,0.050000,0.050000,1,1/24/2023,obj,JFM
-RATM6,Pearl River at Ratliff&#039;s Ferry,32.594160,89.840550,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.340000,0.050000,0.050000,1,1/24/2023,obj,JFM
-RHLL1,Little River of Louisiana near Rochelle,31.754167,92.344444,SHV,LMRFC,Lower Mississippi Region,LA,0.870000,0.250000,0.060000,2,1/24/2023,obj,JFM
-RIGA4,Right Hand Chute Little River at Rivervale,35.671667,90.338056,MEG,LMRFC,Lower Mississippi Region,AR,0.420000,0.110000,0.060000,1,1/24/2023,obj,JFM
-RLRV2,Clinch River near Richlands,37.086111,81.781111,RNK,LMRFC,Tennessee Region,VA,0.080000,0.050000,0.050000,1,1/24/2023,obj,JFM
-RLTT1,Hatchie River at Rialto,35.637222,89.609444,MEG,LMRFC,Lower Mississippi Region,TN,0.060000,0.050000,0.050000,1,1/24/2023,obj,JFM
-RNTM6,Tallahala Creek near Runnelstown,31.332778,89.112500,MOB,LMRFC,South Atlantic-Gulf Region,MS,0.320000,0.050000,0.050000,1,1/24/2023,obj,JFM
-ROBL1,Tangipahoa River at Robert,30.506389,90.361667,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.880000,0.350000,0.080000,2,1/24/2023,obj,JFM
-ROCM6,Pearl River at Rockport,31.790830,90.142500,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.850000,0.090000,0.050000,2,1/24/2023,obj,JFM
-ROST1,Wolf River at Rossville,35.054167,89.540833,MEG,LMRFC,Lower Mississippi Region,TN,0.160000,0.110000,0.050000,1,1/24/2023,obj,JFM
-RSAM6,Homochitto River at Rosetta,31.324700,91.109400,JAN,LMRFC,Lower Mississippi Region,MS,0.190000,0.050000,0.050000,1,1/24/2023,obj,JFM
-RVSA4,Eleven Point River at Ravenden Springs,36.346389,91.114167,LZK,LMRFC,Arkansas-White-Red Region,AR,0.190000,0.130000,0.060000,1,1/24/2023,obj,JFM
-RYEA4,Saline River at Rye,33.700833,92.025833,LZK,LMRFC,Lower Mississippi Region,AR,0.140000,0.050000,0.050000,1,1/24/2023,obj,JFM
-SALV2,North Fork Holston River at Saltville,36.896667,81.746389,RNK,LMRFC,Tennessee Region,VA,0.070000,0.050000,0.050000,1,1/24/2023,obj,JFM
-SARM6,Coldwater River near Sarah,34.575556,90.224444,MEG,LMRFC,Lower Mississippi Region,MS,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-SCKG1,South Chickamauga Creek at Ringgold,34.918944,85.125722,FFC,LMRFC,South Atlantic-Gulf Region,GA,0.220000,0.050000,0.050000,1,1/24/2023,obj,JFM
-SEVT1,Little Pigeon River above Sevierville,35.878333,83.577778,MRX,LMRFC,Tennessee Region,TN,0.120000,0.050000,0.050000,1,1/24/2023,obj,JFM
-SFRA4,St. Francis River at St. Francis,36.455833,90.137778,MEG,LMRFC,Lower Mississippi Region,AR,0.370000,0.050000,0.050000,1,1/24/2023,obj,JFM
-SFYV2,Clinch River near Speers Ferry,36.648611,82.750556,MRX,LMRFC,Tennessee Region,VA,0.100000,0.050000,0.050000,1,1/24/2023,obj,JFM
-SHBM6,Chickasawhay River at Shubuta,31.857575,88.686906,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.150000,0.050000,0.050000,1,1/24/2023,obj,JFM
-SHVT1,Duck River near Shelbyville,35.480278,86.499167,OHX,LMRFC,Tennessee Region,TN,0.570000,0.490000,0.090000,2,1/24/2023,obj,JFM
-SJOA4,Buffalo River near St Joe,35.983056,92.747222,LZK,LMRFC,Arkansas-White-Red Region,AR,0.060000,0.050000,0.050000,1,1/24/2023,obj,JFM
-SMFV2,Middle Fork Holston River at Seven Mile Ford,36.807222,81.622222,RNK,LMRFC,Tennessee Region,VA,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-SMLI2,Ohio River at Smithland Lock and Dam,37.158333,88.426111,PAH,LMRFC,Ohio Region,IL,0.380000,0.090000,0.050000,1,1/24/2023,obj,JFM
-SPHL1,Bayou Dorcheat near Springhill,32.994444,93.396389,SHV,LMRFC,Arkansas-White-Red Region,LA,0.950000,0.110000,0.050000,2,1/24/2023,obj,JFM
-SUNM6,Big Sunflower River at Sunflower,33.547222,90.543056,JAN,LMRFC,Lower Mississippi Region,MS,0.710000,0.180000,0.150000,2,1/24/2023,obj,JFM
-SVPL1,Red River at Shreveport,32.515278,93.740278,SHV,LMRFC,Arkansas-White-Red Region,LA,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-SWNM6,Tallahatchie River near Swan Lake,33.860556,90.276667,MEG,LMRFC,Lower Mississippi Region,MS,0.740000,0.050000,0.050000,2,1/24/2023,obj,JFM
-TAZT1,Clinch River above Tazewell,36.425000,83.398333,MRX,LMRFC,Tennessee Region,TN,0.150000,0.050000,0.050000,1,1/24/2023,obj,JFM
-TDGL1,Tensas River at Tendal,32.431944,91.366667,JAN,LMRFC,Lower Mississippi Region,LA,0.300000,0.240000,0.180000,1,1/24/2023,obj,JFM
-THBI2,Mississippi River at Thebes,37.221667,89.463056,PAH,LMRFC,Upper Mississippi Region,IL,0.240000,0.060000,0.050000,1,1/24/2023,obj,JFM
-TKSN7,Tuckasegee River at Bryson City,35.427500,83.446944,GSP,LMRFC,Tennessee Region,NC,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-TLCT2,Sulphur River near Talco,33.386200,95.132200,SHV,LMRFC,Arkansas-White-Red Region,TX,0.860000,0.170000,0.050000,2,1/24/2023,obj,JFM
-TNZM7,North Fork White River near Tecumseh,36.623056,92.248056,SGF,LMRFC,Arkansas-White-Red Region,MO,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-TPTM7,Mississippi River above Tiptonville,36.412438,89.537728,MEG,LMRFC,Lower Mississippi Region,MO,0.370000,0.050000,0.050000,1,1/24/2023,obj,JFM
-TYTM6,Bogue Chitto River near Tylertown,31.176944,90.280000,LIX,LMRFC,South Atlantic-Gulf Region,MS,0.850000,0.570000,0.250000,3,1/24/2023,obj,JFM
-VCKM6,Mississippi River at Vicksburg,32.315000,90.905833,JAN,LMRFC,Lower Mississippi Region,MS,0.210000,0.120000,0.070000,1,1/24/2023,obj,JFM
-VNBM7,Current River at Van Buren,36.991389,91.013611,PAH,LMRFC,Arkansas-White-Red Region,MO,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
-WCKG1,West Chickamauga Creek at GA 146 near Lakeview,34.957222,85.205556,FFC,LMRFC,Tennessee Region,GA,0.560000,0.050000,0.050000,2,1/24/2023,obj,JFM
-WDVA1,Paint Rock River (AL) near Woodville,34.624167,86.306389,HUN,LMRFC,Tennessee Region,AL,0.900000,0.460000,0.050000,2,1/24/2023,obj,JFM
-WHTT1,Sequatchie River near Whitwell,35.206389,85.497222,MRX,LMRFC,Tennessee Region,TN,0.710000,0.050000,0.050000,2,1/24/2023,obj,JFM
-WOCT2,White Oak Creek near Talco,33.322222,95.092500,SHV,LMRFC,Arkansas-White-Red Region,TX,0.900000,0.050000,0.050000,2,1/24/2023,obj,JFM
-WSTM6,Big Black River at West,33.194400,89.771100,JAN,LMRFC,Lower Mississippi Region,MS,0.950000,0.660000,0.050000,3,1/24/2023,obj,JFM
-WTGM6,Tuscolameta Creek at Walnut Grove,32.588300,89.465000,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.770000,0.050000,0.050000,2,1/24/2023,obj,JFM
-WYNM6,Chickasawhay River near Waynesboro,31.682480,88.683500,MOB,LMRFC,South Atlantic-Gulf Region,MS,0.180000,0.050000,0.050000,1,1/24/2023,obj,JFM
-YWGM6,Yalobusha River at Whaley,33.631400,90.109100,JAN,LMRFC,Lower Mississippi Region,MS,0.690000,0.250000,0.050000,2,1/24/2023,obj,JFM
-YZOM6,Yazoo River at Yazoo City,32.857900,90.436800,JAN,LMRFC,Lower Mississippi Region,MS,0.760000,0.150000,0.050000,2,1/24/2023,obj,JFM
+ACML1,Black River at Acme,31.267778,-91.830833,JAN,LMRFC,Lower Mississippi Region,LA,0.530000,0.400000,0.190000,2,1/24/2023,obj,JFM
+AEXL1,Red River at Alexandria,31.308889,-92.439167,LCH,LMRFC,Lower Mississippi Region,LA,0.150000,0.120000,0.110000,1,1/24/2023,obj,JFM
+AKDA4,Ouachita River at Arkadelphia,34.121111,-93.046111,LZK,LMRFC,Lower Mississippi Region,AR,0.620000,0.050000,0.050000,2,1/24/2023,obj,JFM
+ALGL1,Boeuf River near Alto,32.373801,-91.880754,JAN,LMRFC,Lower Mississippi Region,LA,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+ALYM7,Jacks Fork at Alley Spring,37.148170,-91.443080,SGF,LMRFC,Arkansas-White-Red Region,MO,0.080000,0.050000,0.050000,1,1/24/2023,obj,JFM
+AMIL1,Tangipahoa River near Amite,30.728889,-90.484167,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+ANGM6,Big Sunflower River near Anguilla,32.971700,-90.777000,JAN,LMRFC,Lower Mississippi Region,MS,0.210000,0.080000,0.050000,1,1/24/2023,obj,JFM
+ANNM7,Black River near Annapolis,37.336111,-90.788611,LSX,LMRFC,Arkansas-White-Red Region,MO,0.430000,0.100000,0.050000,1,1/24/2023,obj,JFM
+ARLT1,Loosahatchie River at Arlington,35.310833,-89.639444,MEG,LMRFC,Lower Mississippi Region,TN,0.320000,0.120000,0.050000,1,1/24/2023,obj,JFM
+ARSA4,Mississippi River near Arkansas City,33.551500,-91.238400,JAN,LMRFC,Lower Mississippi Region,AR,0.150000,0.080000,0.050000,1,1/24/2023,obj,JFM
+ARTT1,Powell River near Arthur,36.541667,-83.630278,MRX,LMRFC,Tennessee Region,TN,0.490000,0.070000,0.060000,1,1/24/2023,obj,JFM
+AUGA4,White River near Augusta,35.294444,-91.394167,LZK,LMRFC,Arkansas-White-Red Region,AR,0.950000,0.140000,0.050000,2,1/24/2023,obj,JFM
+AVLN7,French Broad River at Asheville,35.608889,-82.578056,GSP,LMRFC,Tennessee Region,NC,0.080000,0.050000,0.050000,1,1/24/2023,obj,JFM
+BAGA4,White River at Batesville,35.760278,-91.641111,LZK,LMRFC,Arkansas-White-Red Region,AR,0.170000,0.120000,0.050000,1,1/24/2023,obj,JFM
+BDCL1,Bayou Des Cannes near Eunice,30.482778,-92.490556,LCH,LMRFC,Lower Mississippi Region,LA,0.870000,0.320000,0.050000,2,1/24/2023,obj,JFM
+BELM6,Yazoo River at Belzoni,33.164710,-90.494310,JAN,LMRFC,Lower Mississippi Region,MS,0.310000,0.180000,0.110000,1,1/24/2023,obj,JFM
+BHTA4,Little Missouri River (AR) near Boughton,33.875556,-93.304444,LZK,LMRFC,Lower Mississippi Region,AR,0.360000,0.050000,0.050000,1,1/24/2023,obj,JFM
+BIRN7,Oconaluftee River at Birdtown,35.461389,-83.353611,GSP,LMRFC,Tennessee Region,NC,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+BKDL1,Bundick Creek at Bundick Lake,30.726667,-93.095000,LCH,LMRFC,Lower Mississippi Region,LA,0.880000,0.200000,0.110000,2,1/24/2023,obj,JFM
+BKNM6,Black Creek near Brooklyn,31.051900,-89.204200,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.250000,0.050000,0.050000,1,1/24/2023,obj,JFM
+BKRA4,Black River at Black Rock,36.102500,-91.097778,LZK,LMRFC,Arkansas-White-Red Region,AR,0.950000,0.150000,0.050000,2,1/24/2023,obj,JFM
+BLAN7,French Broad River at Blantyre,35.299167,-82.623889,GSP,LMRFC,Tennessee Region,NC,0.680000,0.070000,0.050000,2,1/24/2023,obj,JFM
+BLTN7,Swannanoa River at Biltmore,35.568333,-82.544722,GSP,LMRFC,Tennessee Region,NC,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+BNAA1,Big Nance Creek (AL) at Courtland,34.670000,-87.317222,HUN,LMRFC,Tennessee Region,AL,0.680000,0.600000,0.120000,3,1/24/2023,obj,JFM
+BOGT1,Obion River near Bogota,36.135000,-89.431667,MEG,LMRFC,Lower Mississippi Region,TN,0.060000,0.050000,0.050000,1,1/24/2023,obj,JFM
+BOVM6,Big Black River near Bovina,32.347770,-90.696940,JAN,LMRFC,Lower Mississippi Region,MS,0.950000,0.070000,0.050000,2,1/24/2023,obj,JFM
+BRCM6,Skuna River at Bruce,33.973611,-89.347778,MEG,LMRFC,Lower Mississippi Region,MS,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+BRYA4,Kings River near Berryville,36.427222,-93.620833,TSA,LMRFC,Arkansas-White-Red Region,AR,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+BSBA1,Flint River (AL) at Brownsboro,34.749167,-86.446667,HUN,LMRFC,Tennessee Region,AL,0.710000,0.530000,0.050000,3,1/24/2023,obj,JFM
+BSHL1,Bogue Chitto River near Bush,30.629167,-89.897222,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.900000,0.140000,0.060000,2,1/24/2023,obj,JFM
+BSLL1,Bayou Nezpique at Basile,30.480556,-92.631667,LCH,LMRFC,Lower Mississippi Region,LA,0.790000,0.440000,0.050000,2,1/24/2023,obj,JFM
+BTAM6,Big Black River near Bentonia,32.603055,-90.363880,JAN,LMRFC,Lower Mississippi Region,MS,0.950000,0.900000,0.050000,3,1/24/2023,obj,JFM
+BTNA4,Saline River at Benton,34.567778,-92.610278,LZK,LMRFC,Lower Mississippi Region,AR,0.590000,0.080000,0.050000,2,1/24/2023,obj,JFM
+BVCL1,Bayou Vermilion near Carencro,30.368056,-91.987500,LCH,LMRFC,Lower Mississippi Region,LA,0.490000,0.200000,0.050000,1,1/24/2023,obj,JFM
+BVRT1,Hatchie River near Bolivar,35.275278,-88.976667,MEG,LMRFC,Lower Mississippi Region,TN,0.150000,0.050000,0.050000,1,1/24/2023,obj,JFM
+BXAL1,Pearl River near Bogalusa,30.793056,-89.820833,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.950000,0.540000,0.050000,3,1/24/2023,obj,JFM
+BYML1,Amite River at Bayou Manchac Point,30.347778,-90.896944,LIX,LMRFC,Lower Mississippi Region,LA,0.440000,0.150000,0.050000,1,1/24/2023,obj,JFM
+CAMA4,Ouachita River at Camden,33.596389,-92.818056,LZK,LMRFC,Lower Mississippi Region,AR,0.800000,0.440000,0.060000,2,1/24/2023,obj,JFM
+CARM6,Pearl River near Carthage,32.707222,-89.526389,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.880000,0.150000,0.050000,2,1/24/2023,obj,JFM
+CCTM6,Yalobusha River at Calhoun City,33.838611,-89.315556,MEG,LMRFC,Lower Mississippi Region,MS,0.110000,0.070000,0.050000,1,1/24/2023,obj,JFM
+CGSL1,Bogue Falaya River near Camp Covington,30.556667,-90.146111,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.170000,0.060000,0.050000,1,1/24/2023,obj,JFM
+CHKT1,S. Chickamauga Creek near Chickamauga,35.013611,-85.210556,MRX,LMRFC,Tennessee Region,TN,0.680000,0.150000,0.060000,2,1/24/2023,obj,JFM
+CHSA1,Flint River (AL) near Chase,34.822778,-86.483056,HUN,LMRFC,Tennessee Region,AL,0.430000,0.050000,0.050000,1,1/24/2023,obj,JFM
+CIRI2,Ohio River at Cairo,37.000000,-89.162500,PAH,LMRFC,Ohio Region,IL,0.750000,0.310000,0.120000,2,1/24/2023,obj,JFM
+CKYM6,Chunky River near Chunky,32.326100,-88.909200,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.190000,0.050000,0.050000,1,1/24/2023,obj,JFM
+CLDA4,White River at Clarendon,34.685556,-91.315278,LZK,LMRFC,Lower Mississippi Region,AR,0.580000,0.100000,0.050000,2,1/24/2023,obj,JFM
+CLMM6,Pearl River near Columbia,31.237778,-89.846944,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.800000,0.170000,0.050000,2,1/24/2023,obj,JFM
+CLRA4,White River at Calico Rock,36.116111,-92.143056,LZK,LMRFC,Arkansas-White-Red Region,AR,0.100000,0.050000,0.050000,1,1/24/2023,obj,JFM
+CLSM6,Leaf River near Collins,31.706900,-89.406900,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.230000,0.060000,0.050000,1,1/24/2023,obj,JFM
+CLVV2,Clinch River at Cleveland,36.944722,-82.155000,MRX,LMRFC,Tennessee Region,VA,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+CMTL1,Comite River near Comite Joor Rd.,30.512500,-91.073611,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.560000,0.280000,0.050000,2,1/24/2023,obj,JFM
+CNVT1,Duck River at Centerville,35.784167,-87.460000,OHX,LMRFC,Tennessee Region,TN,0.630000,0.490000,0.050000,2,1/24/2023,obj,JFM
+COGL1,Bayou Macon near Como,32.092800,-91.592500,JAN,LMRFC,Lower Mississippi Region,LA,0.250000,0.110000,0.060000,1,1/24/2023,obj,JFM
+COLT1,Duck River at Columbia,35.618056,-87.032500,OHX,LMRFC,Tennessee Region,TN,0.560000,0.140000,0.100000,2,1/24/2023,obj,JFM
+COPT2,South Sulphur River near Cooper,33.356389,-95.594722,FWD,LMRFC,Arkansas-White-Red Region,TX,0.630000,0.220000,0.050000,2,1/24/2023,obj,JFM
+CPGM7,Mississippi River at Cape Girardeau,37.301944,-89.518056,PAH,LMRFC,Upper Mississippi Region,MO,0.310000,0.070000,0.050000,1,1/24/2023,obj,JFM
+CPPT2,North Sulphur River near Cooper,33.474722,-95.587500,FWD,LMRFC,Arkansas-White-Red Region,TX,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+CREM6,East Hobolochitto Creek near Caesar,30.571389,-89.594722,LIX,LMRFC,South Atlantic-Gulf Region,MS,0.580000,0.180000,0.080000,2,1/24/2023,obj,JFM
+CRGA4,Black River at Corning,36.401944,-90.541389,LZK,LMRFC,Arkansas-White-Red Region,AR,0.060000,0.050000,0.050000,1,1/24/2023,obj,JFM
+CRTM7,Mississippi River at Caruthersville,36.194722,-89.653611,MEG,LMRFC,Lower Mississippi Region,MO,0.540000,0.080000,0.050000,2,1/24/2023,obj,JFM
+CSHL1,Red River at Coushatta,32.012778,-93.353056,SHV,LMRFC,Arkansas-White-Red Region,LA,0.060000,0.050000,0.050000,1,1/24/2023,obj,JFM
+CUSL1,Tchefuncte River near Covington,30.494444,-90.169444,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.580000,0.060000,0.050000,2,1/24/2023,obj,JFM
+CVEL1,Bogue Falaya River at Boston Street,30.476389,-90.089444,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.520000,0.060000,0.050000,2,1/24/2023,obj,JFM
+CYNL1,Tensas River at Clayton,31.724600,-91.544300,JAN,LMRFC,Lower Mississippi Region,LA,0.100000,0.060000,0.050000,1,1/24/2023,obj,JFM
+DARL1,Amite River near Darlington,30.888889,-90.844444,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+DENL1,Amite River at Denham Springs,30.463889,-90.990278,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.490000,0.050000,0.050000,1,1/24/2023,obj,JFM
+DIBM6,Tchoutacabouffa River near D Iberville,30.476111,-88.893611,LIX,LMRFC,South Atlantic-Gulf Region,MS,0.390000,0.050000,0.050000,1,1/24/2023,obj,JFM
+DLAM6,Strong River at D&#039;lo,31.977770,-89.897500,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.540000,0.100000,0.050000,2,1/24/2023,obj,JFM
+DNZM7,Current River at Doniphan,36.621944,-90.847500,PAH,LMRFC,Arkansas-White-Red Region,MO,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+DSCA4,White River at Des Arc,34.976667,-91.492500,LZK,LMRFC,Lower Mississippi Region,AR,0.380000,0.180000,0.060000,1,1/24/2023,obj,JFM
+DYET1,North Fork Forked Deer River at Dyersburg,36.029722,-89.386944,MEG,LMRFC,Lower Mississippi Region,TN,0.110000,0.050000,0.050000,1,1/24/2023,obj,JFM
+EMBT1,Nolichucky River at Embreeville,36.176389,-82.457500,MRX,LMRFC,Tennessee Region,TN,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+EMCM7,Jacks Fork at Eminence,37.154170,-91.358060,SGF,LMRFC,Arkansas-White-Red Region,MO,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+ENBM6,Pearl River at Edinburg,32.798889,-89.335000,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.840000,0.050000,0.050000,2,1/24/2023,obj,JFM
+ENGG1,Lookout Creek near New England,34.897500,-85.463056,FFC,LMRFC,Tennessee Region,GA,0.780000,0.070000,0.050000,2,1/24/2023,obj,JFM
+ENSM6,Chickasawhay River at Enterprise,32.175800,-88.819700,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.700000,0.350000,0.050000,2,1/24/2023,obj,JFM
+ETAM6,Little Tallahatchie River at Etta,34.482500,-89.224444,MEG,LMRFC,Lower Mississippi Region,MS,0.870000,0.160000,0.060000,2,1/24/2023,obj,JFM
+FLCN7,French Broad River at Fletcher,35.428889,-82.552778,GSP,LMRFC,Tennessee Region,NC,0.140000,0.050000,0.050000,1,1/24/2023,obj,JFM
+FLSL1,Tchefuncte River near Folsom,30.615833,-90.248611,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.340000,0.220000,0.090000,1,1/24/2023,obj,JFM
+FRNL1,Bogue Chitto River at Franklinton,30.842778,-90.161944,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.590000,0.230000,0.050000,2,1/24/2023,obj,JFM
+FSKM7,St. Francis River at Fisk,36.790278,-90.200833,PAH,LMRFC,Lower Mississippi Region,MO,0.130000,0.120000,0.090000,1,1/24/2023,obj,JFM
+FYTT1,Elk River (TN) near Fayetteville,35.134444,-86.539722,HUN,LMRFC,Tennessee Region,TN,0.470000,0.410000,0.050000,1,1/24/2023,obj,JFM
+GATV2,North Fork Holston River near Gate City,36.608611,-82.568056,MRX,LMRFC,Tennessee Region,VA,0.130000,0.050000,0.050000,1,1/24/2023,obj,JFM
+GDHM6,Pearl River near Lena,32.667220,-89.646110,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.460000,0.050000,0.050000,1,1/24/2023,obj,JFM
+GEEM6,Mississippi River near Greenville,33.287110,-91.153930,JAN,LMRFC,Lower Mississippi Region,MS,0.200000,0.130000,0.050000,1,1/24/2023,obj,JFM
+GEOA4,White River at Georgetown,35.128889,-91.449722,LZK,LMRFC,Lower Mississippi Region,AR,0.400000,0.120000,0.050000,1,1/24/2023,obj,JFM
+GERT1,Wolf River at Germantown,35.116389,-89.801389,MEG,LMRFC,Lower Mississippi Region,TN,0.140000,0.100000,0.050000,1,1/24/2023,obj,JFM
+GLFM6,Wolf River above Gulfport,30.393333,-89.206389,LIX,LMRFC,South Atlantic-Gulf Region,MS,0.440000,0.050000,0.050000,1,1/24/2023,obj,JFM
+GLML1,Calcasieu River near Glenmora,30.995833,-92.673611,LCH,LMRFC,Lower Mississippi Region,LA,0.950000,0.520000,0.200000,3,1/24/2023,obj,JFM
+GLNM7,James River (MO) at Galena,36.805278,-93.461667,SGF,LMRFC,Arkansas-White-Red Region,MO,0.170000,0.050000,0.050000,1,1/24/2023,obj,JFM
+GREL1,Red River at Grand Ecore,31.818220,-93.084890,SHV,LMRFC,Arkansas-White-Red Region,LA,0.070000,0.060000,0.050000,1,1/24/2023,obj,JFM
+GREM6,Yazoo River at Greenwood,33.522540,-90.180830,JAN,LMRFC,Lower Mississippi Region,MS,0.240000,0.230000,0.080000,1,1/24/2023,obj,JFM
+HATM6,Leaf River at Hattiesburg,31.343100,-89.280300,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.260000,0.120000,0.060000,1,1/24/2023,obj,JFM
+HBGM6,Bouie Creek near Hattiesburg,31.425800,-89.414700,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.210000,0.070000,0.050000,1,1/24/2023,obj,JFM
+HDYA4,Spring River (AR) at Hardy,36.313611,-91.482778,LZK,LMRFC,Arkansas-White-Red Region,AR,0.190000,0.070000,0.070000,1,1/24/2023,obj,JFM
+HEEA4,Mississippi River at Helena,34.515833,-90.584167,MEG,LMRFC,Lower Mississippi Region,AR,0.140000,0.050000,0.050000,1,1/24/2023,obj,JFM
+HLST1,South Fork Forked Deer River near Halls,35.929444,-89.389722,MEG,LMRFC,Lower Mississippi Region,TN,0.510000,0.190000,0.050000,2,1/24/2023,obj,JFM
+HMLT1,Duck River near Hurricane Mills,35.930063,-87.743079,OHX,LMRFC,Tennessee Region,TN,0.190000,0.060000,0.050000,1,1/24/2023,obj,JFM
+HOLL1,Tickfaw River at Holden,30.503611,-90.677222,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.390000,0.050000,0.050000,1,1/24/2023,obj,JFM
+HSPN7,French Broad River near Hot Springs,35.889722,-82.821111,GSP,LMRFC,Tennessee Region,NC,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+IMBA4,Spring River (AR) at Imboden,36.205278,-91.171944,LZK,LMRFC,Arkansas-White-Red Region,AR,0.270000,0.110000,0.050000,1,1/24/2023,obj,JFM
+IRCT1,Shoal Creek near Iron City,35.024167,-87.578889,OHX,LMRFC,Tennessee Region,TN,0.330000,0.090000,0.050000,1,1/24/2023,obj,JFM
+JACM6,Pearl River at Jackson,32.281380,-90.178880,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.730000,0.200000,0.050000,2,1/24/2023,obj,JFM
+JAMM7,James River (MO) near Boaz,37.006670,-93.364720,SGF,LMRFC,Arkansas-White-Red Region,MO,0.140000,0.050000,0.050000,1,1/24/2023,obj,JFM
+JEFT2,Black Cypress Bayou near Jefferson,32.777778,-94.357222,SHV,LMRFC,Arkansas-White-Red Region,TX,0.820000,0.110000,0.050000,2,1/24/2023,obj,JFM
+JFET2,Big Cypress Creek above Jefferson,32.749444,-94.498611,SHV,LMRFC,Arkansas-White-Red Region,TX,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+JFFT2,Little Cypress Creek near Jefferson,32.712778,-94.345833,SHV,LMRFC,Arkansas-White-Red Region,TX,0.400000,0.110000,0.050000,1,1/24/2023,obj,JFM
+JKNT1,South Fork Forked Deer River at Jackson,35.617500,-88.852222,MEG,LMRFC,Lower Mississippi Region,TN,0.310000,0.050000,0.050000,1,1/24/2023,obj,JFM
+JNSV2,Powell River near Jonesville,36.661944,-83.095000,MRX,LMRFC,Tennessee Region,VA,0.080000,0.050000,0.050000,1,1/24/2023,obj,JFM
+JUDA4,Little Red River at Judsonia,35.267778,-91.639444,LZK,LMRFC,Arkansas-White-Red Region,AR,0.190000,0.100000,0.050000,1,1/24/2023,obj,JFM
+KDRL1,Calcasieu River near Kinder,30.502500,-92.915556,LCH,LMRFC,Lower Mississippi Region,LA,0.800000,0.230000,0.050000,2,1/24/2023,obj,JFM
+KENL1,Tangipahoa River near Kentwood,30.937500,-90.490278,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.090000,0.050000,0.050000,1,1/24/2023,obj,JFM
+KLNM6,Jourdan River at Kiln,30.387222,-89.441389,LIX,LMRFC,South Atlantic-Gulf Region,MS,0.060000,0.050000,0.050000,1,1/24/2023,obj,JFM
+KSCM6,Yockanookany River near Kosciusko,33.032222,-89.577778,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.550000,0.050000,0.050000,2,1/24/2023,obj,JFM
+LBBL1,Bayou Bodcau at Bayou Bodcau Lake,32.702370,-93.510450,SHV,LMRFC,Arkansas-White-Red Region,LA,0.770000,0.120000,0.050000,2,1/24/2023,obj,JFM
+LBUL1,Bayou Dorcheat at Lake Bistineau,32.328300,-93.431100,SHV,LMRFC,Arkansas-White-Red Region,LA,0.630000,0.200000,0.060000,2,1/24/2023,obj,JFM
+LBVT1,Buffalo River near Lobelville,35.812222,-87.778889,OHX,LMRFC,Tennessee Region,TN,0.330000,0.110000,0.050000,1,1/24/2023,obj,JFM
+LCAL1,Bayou D'Arbonne at Lake Claiborne,32.740800,-92.903100,SHV,LMRFC,Lower Mississippi Region,LA,0.290000,0.120000,0.050000,1,1/24/2023,obj,JFM
+LCHL1,Calcasieu River at Saltwater Barrier,30.253611,-93.218056,LCH,LMRFC,Lower Mississippi Region,LA,0.930000,0.060000,0.050000,2,1/24/2023,obj,JFM
+LCOL1,Big Cypress Creek at Mooringsport (Caddo Lake),32.697778,-93.957778,SHV,LMRFC,Arkansas-White-Red Region,LA,0.190000,0.050000,0.050000,1,1/24/2023,obj,JFM
+LCRA4,St. Francis River at Lake City,35.820833,-90.432500,MEG,LMRFC,Lower Mississippi Region,AR,0.210000,0.050000,0.050000,1,1/24/2023,obj,JFM
+LDBL1,Bayou D'Arbonne at Lake D&#039;Arbonne,32.713290,-92.340760,SHV,LMRFC,Lower Mississippi Region,LA,0.420000,0.290000,0.070000,1,1/24/2023,obj,JFM
+LEKM6,Chickasawhay River at Leakesville,31.148611,-88.548056,MOB,LMRFC,South Atlantic-Gulf Region,MS,0.950000,0.340000,0.070000,2,1/24/2023,obj,JFM
+LMGM6,Tallahatchie River near Lambert,34.180556,-90.215278,MEG,LMRFC,Lower Mississippi Region,MS,0.120000,0.050000,0.050000,1,1/24/2023,obj,JFM
+LOGM6,Tallahatchie River at Locopolis,33.975833,-90.257778,MEG,LMRFC,Lower Mississippi Region,MS,0.750000,0.140000,0.050000,2,1/24/2023,obj,JFM
+LPOL1,Tickfaw River at Liverpool,30.930556,-90.673333,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.400000,0.050000,0.050000,1,1/24/2023,obj,JFM
+LURM6,Tallahala Creek at Laurel,31.680800,-89.115500,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.900000,0.420000,0.100000,2,1/24/2023,obj,JFM
+LYMM6,Biloxi River near Lyman,30.488333,-89.035833,LIX,LMRFC,South Atlantic-Gulf Region,MS,0.690000,0.140000,0.050000,2,1/24/2023,obj,JFM
+MAGL1,Amite River at Magnolia,30.534722,-90.980556,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+MARN7,French Broad River near Marshall,35.786389,-82.660833,GSP,LMRFC,Tennessee Region,NC,0.100000,0.050000,0.050000,1,1/24/2023,obj,JFM
+MCLM6,Leaf River near McLain,31.107414,-88.808333,MOB,LMRFC,South Atlantic-Gulf Region,MS,0.890000,0.530000,0.110000,3,1/24/2023,obj,JFM
+MEMT1,Mississippi River at Memphis,35.123056,-90.077500,MEG,LMRFC,Lower Mississippi Region,TN,0.150000,0.050000,0.050000,1,1/24/2023,obj,JFM
+MHOM6,Mississippi River at Tunica Mhoon Landing,34.736390,-90.448330,MEG,LMRFC,Lower Mississippi Region,MS,0.260000,0.150000,0.050000,1,1/24/2023,obj,JFM
+MKSM6,Coldwater River at Marks,34.261111,-90.266944,MEG,LMRFC,Lower Mississippi Region,MS,0.230000,0.140000,0.050000,1,1/24/2023,obj,JFM
+MLUL1,Ouachita River at Monroe,32.500278,-92.119722,SHV,LMRFC,Lower Mississippi Region,LA,0.720000,0.660000,0.510000,4,1/24/2023,obj,JFM
+MNEL1,Bayou Dorcheat at Dixie Inn,32.597400,-93.331900,SHV,LMRFC,Arkansas-White-Red Region,LA,0.750000,0.240000,0.060000,2,1/24/2023,obj,JFM
+MNLM6,West Hobolochitto Creek near McNeill,30.662222,-89.686111,LIX,LMRFC,South Atlantic-Gulf Region,MS,0.820000,0.470000,0.220000,2,1/24/2023,obj,JFM
+MONL1,Tickfaw River at Montpelier,30.686111,-90.643056,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.350000,0.050000,0.050000,1,1/24/2023,obj,JFM
+MRML1,Mermentau River at Mermentau,30.190000,-92.590556,LCH,LMRFC,Lower Mississippi Region,LA,0.820000,0.160000,0.050000,2,1/24/2023,obj,JFM
+MRRM6,Pascagoula River at Merrill,30.978056,-88.726944,MOB,LMRFC,South Atlantic-Gulf Region,MS,0.820000,0.360000,0.050000,2,1/24/2023,obj,JFM
+MSNA4,St. Francis River at Madison,35.013056,-90.719167,MEG,LMRFC,Lower Mississippi Region,AR,0.140000,0.090000,0.050000,1,1/24/2023,obj,JFM
+MTCM6,Pearl River near Monticello,31.553330,-90.088050,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.840000,0.730000,0.050000,3,1/24/2023,obj,JFM
+MTTL1,Whisky Chitto Creek near Mittie,30.698611,-92.893889,LCH,LMRFC,Lower Mississippi Region,LA,0.680000,0.140000,0.050000,2,1/24/2023,obj,JFM
+MYVT1,Little River (TN) near Maryville,35.786111,-83.884444,MRX,LMRFC,Tennessee Region,TN,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+NECL1,Boeuf River near Fort Necessity,32.070800,-91.928100,JAN,LMRFC,Lower Mississippi Region,LA,0.550000,0.190000,0.090000,2,1/24/2023,obj,JFM
+NLGL1,Tensas River near Newlight,32.089167,-91.489722,JAN,LMRFC,Lower Mississippi Region,LA,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+NMDM7,Mississippi River at New Madrid,36.583060,-89.532220,PAH,LMRFC,Lower Mississippi Region,MO,0.260000,0.110000,0.050000,1,1/24/2023,obj,JFM
+NOMT1,Obion River near Martin,36.405278,-88.854722,MEG,LMRFC,Lower Mississippi Region,TN,0.120000,0.090000,0.070000,1,1/24/2023,obj,JFM
+NPTA4,White River at Newport,35.605278,-91.288889,LZK,LMRFC,Arkansas-White-Red Region,AR,0.340000,0.250000,0.140000,1,1/24/2023,obj,JFM
+NRBL1,Natalbany River at Baptist,30.504167,-90.545833,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.080000,0.050000,0.050000,1,1/24/2023,obj,JFM
+NWPT1,French Broad River near Newport,35.981667,-83.161111,MRX,LMRFC,Tennessee Region,TN,0.100000,0.050000,0.050000,1,1/24/2023,obj,JFM
+OAKT1,Emory River at Oakdale,35.983056,-84.558056,MRX,LMRFC,Tennessee Region,TN,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+OARM6,Okatibbee Creek at Arundel,32.298333,-88.753611,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+OBCL1,Calcasieu River near Oberlin,30.639722,-92.814444,LCH,LMRFC,Lower Mississippi Region,LA,0.890000,0.780000,0.240000,3,1/24/2023,obj,JFM
+OBNT1,Obion River near Obion,36.240760,-89.217575,MEG,LMRFC,Lower Mississippi Region,TN,0.310000,0.050000,0.050000,1,1/24/2023,obj,JFM
+OFAM6,Yockanookany River near Ofahoma,32.706110,-89.671940,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.790000,0.080000,0.050000,2,1/24/2023,obj,JFM
+OKDL1,Calcasieu River near Oakdale,30.822500,-92.685000,LCH,LMRFC,Lower Mississippi Region,LA,0.750000,0.180000,0.050000,2,1/24/2023,obj,JFM
+OLMI2,Ohio River at Olmsted Lock and Dam Headwater,37.179167,-89.058333,PAH,LMRFC,Ohio Region,IL,0.750000,0.390000,0.200000,2,1/24/2023,obj,JFM
+OLVL1,Comite River near Olive Branch,30.756389,-91.043889,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+OLVM6,Coldwater River at Olive Branch,34.907500,-89.753333,MEG,LMRFC,Lower Mississippi Region,MS,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+ORAM6,Escatawpa River above Orange Grove,30.458611,-88.451944,LIX,LMRFC,South Atlantic-Gulf Region,MS,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+OSGA4,Mississippi River at Osceola,35.660556,-89.933056,MEG,LMRFC,Lower Mississippi Region,AR,0.150000,0.110000,0.050000,1,1/24/2023,obj,JFM
+OSYM6,Tangipahoa River at Osyka,31.012222,-90.461111,LIX,LMRFC,South Atlantic-Gulf Region,MS,0.470000,0.050000,0.050000,1,1/24/2023,obj,JFM
+OXDM6,Yocona River near Oxford,34.272778,-89.521389,MEG,LMRFC,Lower Mississippi Region,MS,0.070000,0.050000,0.050000,1,1/24/2023,obj,JFM
+PAHK2,Ohio River at Paducah,37.089444,-88.594444,PAH,LMRFC,Ohio Region,KY,0.490000,0.360000,0.080000,1,1/24/2023,obj,JFM
+PAZM7,St. Francis River at Patterson,37.194444,-90.503333,PAH,LMRFC,Lower Mississippi Region,MO,0.290000,0.070000,0.050000,1,1/24/2023,obj,JFM
+PERL1,Pearl River near Pearl River,30.385000,-89.736667,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.950000,0.640000,0.230000,3,1/24/2023,obj,JFM
+PFAA4,Arkansas River at Pendleton,33.978611,-91.384444,LZK,LMRFC,Lower Mississippi Region,AR,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+PGFM6,Pascagoula River at Graham Ferry,30.610556,-88.641389,LIX,LMRFC,South Atlantic-Gulf Region,MS,0.600000,0.100000,0.050000,2,1/24/2023,obj,JFM
+PLAM6,Pearl River near Philadelphia/at Burnside,32.841400,-89.097800,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.950000,0.220000,0.050000,2,1/24/2023,obj,JFM
+PLGA4,L'Anguille River at Palestine,34.972778,-90.884722,MEG,LMRFC,Lower Mississippi Region,AR,0.110000,0.050000,0.050000,1,1/24/2023,obj,JFM
+PLKT1,Richland Creek near Pulaski,35.195000,-87.063889,OHX,LMRFC,Tennessee Region,TN,0.180000,0.050000,0.050000,1,1/24/2023,obj,JFM
+POCA4,Black River at Pocahontas,36.254167,-90.970278,LZK,LMRFC,Arkansas-White-Red Region,AR,0.340000,0.140000,0.050000,1,1/24/2023,obj,JFM
+PPBM7,Black River at Poplar Bluff,36.759722,-90.388056,PAH,LMRFC,Arkansas-White-Red Region,MO,0.230000,0.080000,0.050000,1,1/24/2023,obj,JFM
+PSPT1,Elk River near Prospect,35.014167,-86.994722,OHX,LMRFC,Tennessee Region,TN,0.130000,0.050000,0.050000,1,1/24/2023,obj,JFM
+PTTA4,Cache River at Patterson,35.269722,-91.236389,LZK,LMRFC,Lower Mississippi Region,AR,0.950000,0.220000,0.070000,2,1/24/2023,obj,JFM
+PVLL1,Amite River at Port Vincent,30.332500,-90.851944,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.410000,0.060000,0.050000,1,1/24/2023,obj,JFM
+PWDM7,Current River above Powder Mill,37.185500,-91.177900,SGF,LMRFC,Missouri Region,MO,0.240000,0.050000,0.050000,1,1/24/2023,obj,JFM
+RATM6,Pearl River at Ratliff&#039;s Ferry,32.594160,-89.840550,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.340000,0.050000,0.050000,1,1/24/2023,obj,JFM
+RHLL1,Little River of Louisiana near Rochelle,31.754167,-92.344444,SHV,LMRFC,Lower Mississippi Region,LA,0.870000,0.250000,0.060000,2,1/24/2023,obj,JFM
+RIGA4,Right Hand Chute Little River at Rivervale,35.671667,-90.338056,MEG,LMRFC,Lower Mississippi Region,AR,0.420000,0.110000,0.060000,1,1/24/2023,obj,JFM
+RLRV2,Clinch River near Richlands,37.086111,-81.781111,RNK,LMRFC,Tennessee Region,VA,0.080000,0.050000,0.050000,1,1/24/2023,obj,JFM
+RLTT1,Hatchie River at Rialto,35.637222,-89.609444,MEG,LMRFC,Lower Mississippi Region,TN,0.060000,0.050000,0.050000,1,1/24/2023,obj,JFM
+RNTM6,Tallahala Creek near Runnelstown,31.332778,-89.112500,MOB,LMRFC,South Atlantic-Gulf Region,MS,0.320000,0.050000,0.050000,1,1/24/2023,obj,JFM
+ROBL1,Tangipahoa River at Robert,30.506389,-90.361667,LIX,LMRFC,South Atlantic-Gulf Region,LA,0.880000,0.350000,0.080000,2,1/24/2023,obj,JFM
+ROCM6,Pearl River at Rockport,31.790830,-90.142500,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.850000,0.090000,0.050000,2,1/24/2023,obj,JFM
+ROST1,Wolf River at Rossville,35.054167,-89.540833,MEG,LMRFC,Lower Mississippi Region,TN,0.160000,0.110000,0.050000,1,1/24/2023,obj,JFM
+RSAM6,Homochitto River at Rosetta,31.324700,-91.109400,JAN,LMRFC,Lower Mississippi Region,MS,0.190000,0.050000,0.050000,1,1/24/2023,obj,JFM
+RVSA4,Eleven Point River at Ravenden Springs,36.346389,-91.114167,LZK,LMRFC,Arkansas-White-Red Region,AR,0.190000,0.130000,0.060000,1,1/24/2023,obj,JFM
+RYEA4,Saline River at Rye,33.700833,-92.025833,LZK,LMRFC,Lower Mississippi Region,AR,0.140000,0.050000,0.050000,1,1/24/2023,obj,JFM
+SALV2,North Fork Holston River at Saltville,36.896667,-81.746389,RNK,LMRFC,Tennessee Region,VA,0.070000,0.050000,0.050000,1,1/24/2023,obj,JFM
+SARM6,Coldwater River near Sarah,34.575556,-90.224444,MEG,LMRFC,Lower Mississippi Region,MS,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+SCKG1,South Chickamauga Creek at Ringgold,34.918944,-85.125722,FFC,LMRFC,South Atlantic-Gulf Region,GA,0.220000,0.050000,0.050000,1,1/24/2023,obj,JFM
+SEVT1,Little Pigeon River above Sevierville,35.878333,-83.577778,MRX,LMRFC,Tennessee Region,TN,0.120000,0.050000,0.050000,1,1/24/2023,obj,JFM
+SFRA4,St. Francis River at St. Francis,36.455833,-90.137778,MEG,LMRFC,Lower Mississippi Region,AR,0.370000,0.050000,0.050000,1,1/24/2023,obj,JFM
+SFYV2,Clinch River near Speers Ferry,36.648611,-82.750556,MRX,LMRFC,Tennessee Region,VA,0.100000,0.050000,0.050000,1,1/24/2023,obj,JFM
+SHBM6,Chickasawhay River at Shubuta,31.857575,-88.686906,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.150000,0.050000,0.050000,1,1/24/2023,obj,JFM
+SHVT1,Duck River near Shelbyville,35.480278,-86.499167,OHX,LMRFC,Tennessee Region,TN,0.570000,0.490000,0.090000,2,1/24/2023,obj,JFM
+SJOA4,Buffalo River near St Joe,35.983056,-92.747222,LZK,LMRFC,Arkansas-White-Red Region,AR,0.060000,0.050000,0.050000,1,1/24/2023,obj,JFM
+SMFV2,Middle Fork Holston River at Seven Mile Ford,36.807222,-81.622222,RNK,LMRFC,Tennessee Region,VA,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+SMLI2,Ohio River at Smithland Lock and Dam,37.158333,-88.426111,PAH,LMRFC,Ohio Region,IL,0.380000,0.090000,0.050000,1,1/24/2023,obj,JFM
+SPHL1,Bayou Dorcheat near Springhill,32.994444,-93.396389,SHV,LMRFC,Arkansas-White-Red Region,LA,0.950000,0.110000,0.050000,2,1/24/2023,obj,JFM
+SUNM6,Big Sunflower River at Sunflower,33.547222,-90.543056,JAN,LMRFC,Lower Mississippi Region,MS,0.710000,0.180000,0.150000,2,1/24/2023,obj,JFM
+SVPL1,Red River at Shreveport,32.515278,-93.740278,SHV,LMRFC,Arkansas-White-Red Region,LA,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+SWNM6,Tallahatchie River near Swan Lake,33.860556,-90.276667,MEG,LMRFC,Lower Mississippi Region,MS,0.740000,0.050000,0.050000,2,1/24/2023,obj,JFM
+TAZT1,Clinch River above Tazewell,36.425000,-83.398333,MRX,LMRFC,Tennessee Region,TN,0.150000,0.050000,0.050000,1,1/24/2023,obj,JFM
+TDGL1,Tensas River at Tendal,32.431944,-91.366667,JAN,LMRFC,Lower Mississippi Region,LA,0.300000,0.240000,0.180000,1,1/24/2023,obj,JFM
+THBI2,Mississippi River at Thebes,37.221667,-89.463056,PAH,LMRFC,Upper Mississippi Region,IL,0.240000,0.060000,0.050000,1,1/24/2023,obj,JFM
+TKSN7,Tuckasegee River at Bryson City,35.427500,-83.446944,GSP,LMRFC,Tennessee Region,NC,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+TLCT2,Sulphur River near Talco,33.386200,-95.132200,SHV,LMRFC,Arkansas-White-Red Region,TX,0.860000,0.170000,0.050000,2,1/24/2023,obj,JFM
+TNZM7,North Fork White River near Tecumseh,36.623056,-92.248056,SGF,LMRFC,Arkansas-White-Red Region,MO,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+TPTM7,Mississippi River above Tiptonville,36.412438,-89.537728,MEG,LMRFC,Lower Mississippi Region,MO,0.370000,0.050000,0.050000,1,1/24/2023,obj,JFM
+TYTM6,Bogue Chitto River near Tylertown,31.176944,-90.280000,LIX,LMRFC,South Atlantic-Gulf Region,MS,0.850000,0.570000,0.250000,3,1/24/2023,obj,JFM
+VCKM6,Mississippi River at Vicksburg,32.315000,-90.905833,JAN,LMRFC,Lower Mississippi Region,MS,0.210000,0.120000,0.070000,1,1/24/2023,obj,JFM
+VNBM7,Current River at Van Buren,36.991389,-91.013611,PAH,LMRFC,Arkansas-White-Red Region,MO,0.050000,0.050000,0.050000,1,1/24/2023,obj,JFM
+WCKG1,West Chickamauga Creek at GA 146 near Lakeview,34.957222,-85.205556,FFC,LMRFC,Tennessee Region,GA,0.560000,0.050000,0.050000,2,1/24/2023,obj,JFM
+WDVA1,Paint Rock River (AL) near Woodville,34.624167,-86.306389,HUN,LMRFC,Tennessee Region,AL,0.900000,0.460000,0.050000,2,1/24/2023,obj,JFM
+WHTT1,Sequatchie River near Whitwell,35.206389,-85.497222,MRX,LMRFC,Tennessee Region,TN,0.710000,0.050000,0.050000,2,1/24/2023,obj,JFM
+WOCT2,White Oak Creek near Talco,33.322222,-95.092500,SHV,LMRFC,Arkansas-White-Red Region,TX,0.900000,0.050000,0.050000,2,1/24/2023,obj,JFM
+WSTM6,Big Black River at West,33.194400,-89.771100,JAN,LMRFC,Lower Mississippi Region,MS,0.950000,0.660000,0.050000,3,1/24/2023,obj,JFM
+WTGM6,Tuscolameta Creek at Walnut Grove,32.588300,-89.465000,JAN,LMRFC,South Atlantic-Gulf Region,MS,0.770000,0.050000,0.050000,2,1/24/2023,obj,JFM
+WYNM6,Chickasawhay River near Waynesboro,31.682480,-88.683500,MOB,LMRFC,South Atlantic-Gulf Region,MS,0.180000,0.050000,0.050000,1,1/24/2023,obj,JFM
+YWGM6,Yalobusha River at Whaley,33.631400,-90.109100,JAN,LMRFC,Lower Mississippi Region,MS,0.690000,0.250000,0.050000,2,1/24/2023,obj,JFM
+YZOM6,Yazoo River at Yazoo City,32.857900,-90.436800,JAN,LMRFC,Lower Mississippi Region,MS,0.760000,0.150000,0.050000,2,1/24/2023,obj,JFM
