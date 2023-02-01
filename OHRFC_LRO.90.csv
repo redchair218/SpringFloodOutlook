@@ -1,0 +1,441 @@
+lid,lat,lon,rfc,minor,moderate,major,code,date_produced,name,wfo,wrr,state,obj_or_subj,interval
+BEDI3,38.7703,-86.4097,OHRFC,0.62,0.05,0.05,2,1/10/2023,East Fork White River at Rivervale,IND,Upper Mississippi Region,IN,obj,JFM
+CARI2,38.092222,-88.156111,OHRFC,0.67,0.38,0.17,2,1/10/2023,Little Wabash River at Carmi,PAH,Souris-Red-Rainy Region,IL,obj,JFM
+CLAI2,38.63477,-88.297266,OHRFC,0.95,0.19,0.05,2,1/27/2023,Little Wabash River below Clay City,ILX,Upper Mississippi Region,IL,obj,JFM
+CLKW2,39.238702,-80.358979,OHRFC,0.51,0.35,0.26,2,1/27/2023,West Fork River near Clarksburg,RLX,Upper Mississippi Region,WV,obj,JFM
+CSHO1,40.248333,-81.873056,OHRFC,0.51,0.05,0.05,2,1/27/2023,Muskingum River below Coshocton,PBZ,Upper Mississippi Region,OH,obj,JFM
+CVGI3,40.14,-87.406667,OHRFC,0.74,0.09,0.05,2,1/27/2023,Wabash River at Covington,IND,Upper Mississippi Region,IN,obj,JFM
+DUNK2,37.5475,-86.721667,OHRFC,0.59,0.4,0.05,2,1/27/2023,Rough River near Dundee,LMK,Upper Mississippi Region,KY,obj,JFM
+ELLI3,39.0275,-86.966944,OHRFC,0.79,0.14,0.05,2,1/27/2023,White River (IN) at Elliston,IND,Upper Mississippi Region,IN,obj,JFM
+FREI3,38.806667,-87.246111,OHRFC,0.8,0.13,0.05,2,1/27/2023,White River (IN) at Edwardsport,IND,Upper Mississippi Region,IN,obj,JFM
+HAZI3,38.489722,-87.545833,OHRFC,0.84,0.14,0.05,2,1/27/2023,White River (IN) at Hazleton,IND,Souris-Red-Rainy Region,IN,obj,JFM
+HLDK2,37.553056,-83.769167,OHRFC,0.51,0.12,0.05,2,1/27/2023,Kentucky River at Heidelberg,JKL,Great Lakes Region,KY,obj,JFM
+HUTI2,39.134167,-87.658056,OHRFC,0.9,0.05,0.05,2,1/27/2023,Wabash River near Hutsonville,IND,Great Lakes Region,IL,obj,JFM
+KILO1,40.481454,-81.98598,OHRFC,0.73,0.19,0.05,2,1/27/2023,Killbuck Creek at Killbuck,CLE,Upper Mississippi Region,OH,obj,JFM
+LAFI3,40.4219,-86.8969,OHRFC,0.76,0.17,0.05,2,1/27/2023,Wabash River at Lafayette,IND,Upper Mississippi Region,IN,obj,JFM
+LAWI2,38.723611,-87.664444,OHRFC,0.63,0.06,0.05,2,1/27/2023,Embarras River (IL) at Lawrenceville,ILX,Upper Mississippi Region,IL,obj,JFM
+MCRI2,38.3983,-87.7564,OHRFC,0.77,0.2,0.05,2,1/27/2023,Wabash River at Mount Carmel,IND,Upper Mississippi Region,IL,obj,JFM
+MTVI3,37.928611,-87.895556,OHRFC,0.78,0.06,0.05,2,1/27/2023,Ohio River at Mount Vernon,PAH,Upper Mississippi Region,IN,obj,JFM
+MTZI3,39.7925,-87.373889,OHRFC,0.87,0.06,0.05,2,1/27/2023,Wabash River at Montezuma,IND,Upper Mississippi Region,IN,obj,JFM
+NBGI3,37.928333,-87.375,OHRFC,0.86,0.05,0.05,2,1/27/2023,Ohio River at Newburgh Lock and Dam,PAH,Upper Mississippi Region,IN,obj,JFM
+NHRI3,38.130833,-87.941389,OHRFC,0.77,0.12,0.05,2,1/27/2023,Wabash River at New Harmony,PAH,Upper Mississippi Region,IN,obj,JFM
+NVLI3,41.385328,-84.801626,OHRFC,0.6,0.15,0.05,2,1/27/2023,St. Joseph River (OH/IN) near Newville,IWX,Great Lakes Region,IN,obj,JFM
+NWBI3,38.9281,-87.0193,OHRFC,0.64,0.14,0.05,2,1/27/2023,White River (IN) at Newberry,IND,Upper Mississippi Region,IN,obj,JFM
+PKTO1,39.07006,-83.019722,OHRFC,0.51,0.21,0.05,2,1/27/2023,Scioto River at Piketon,ILN,Upper Mississippi Region,OH,obj,JFM
+PNTI3,38.390278,-87.548889,OHRFC,0.69,0.45,0.08,2,1/27/2023,Patoka River at Princeton,PAH,Upper Mississippi Region,IN,obj,JFM
+PRDK2,37.263889,-86.977778,OHRFC,0.84,0.32,0.05,2,1/27/2023,Green River (KY) at Paradise,PAH,Great Lakes Region,KY,obj,JFM
+PTRI3,38.510882,-87.289458,OHRFC,0.87,0.18,0.05,2,1/27/2023,White River (IN) at Petersburg,IND,Souris-Red-Rainy Region,IN,obj,JFM
+RAVK2,37.678333,-83.948333,OHRFC,0.69,0.42,0.12,2,1/27/2023,Kentucky River near Ravenna,JKL,Upper Mississippi Region,KY,obj,JFM
+RCHK2,37.215667,-86.893556,OHRFC,0.75,0.08,0.05,2,1/27/2023,Green River (KY) at Rochester,LMK,Upper Mississippi Region,KY,obj,JFM
+RVTI3,39.020278,-87.568611,OHRFC,0.9,0.06,0.05,2,1/27/2023,Wabash River at Riverton,IND,Upper Mississippi Region,IN,obj,JFM
+SERI3,38.9825,-85.8992,OHRFC,0.8,0.15,0.05,2,1/27/2023,East Fork White River near Seymour,IND,Great Lakes Region,IN,obj,JFM
+SHNI2,37.691944,-88.133333,OHRFC,0.85,0.26,0.05,2,1/27/2023,Ohio River at Shawneetown,PAH,Upper Mississippi Region,IL,obj,JFM
+SPNI3,39.281111,-86.762222,OHRFC,0.51,0.08,0.05,2,1/27/2023,White River (IN) at Spencer,IND,Great Lakes Region,IN,obj,JFM
+STRO1,41.5045,-84.4298,OHRFC,0.93,0.16,0.06,2,1/27/2023,Tiffin River at Stryker,IWX,Upper Mississippi Region,OH,obj,JFM
+TELI3,37.953611,-86.775278,OHRFC,0.64,0.12,0.05,2,1/27/2023,Ohio River at Tell City,LMK,Upper Mississippi Region,IN,obj,JFM
+TERI3,39.46577,-87.41982,OHRFC,0.84,0.05,0.05,2,1/27/2023,Wabash River at Terre Haute...US Hwy 150 Eastbound,IND,Upper Mississippi Region,IN,obj,JFM
+UNWK2,37.783333,-87.979444,OHRFC,0.83,0.06,0.05,2,1/27/2023,Ohio River at J.T. Myers Lock and Dam,PAH,Upper Mississippi Region,IN,obj,JFM
+VCNI3,38.6814,-87.535278,OHRFC,0.56,0.05,0.05,2,1/27/2023,Wabash River at Vincennes,IND,Upper Mississippi Region,IN,obj,JFM
+WDHK2,37.182222,-86.63,OHRFC,0.82,0.15,0.08,2,1/27/2023,Green River (KY) above Woodbury,LMK,Upper Mississippi Region,KY,obj,JFM
+WLBK2,36.743333,-84.156111,OHRFC,0.65,0.3,0.15,2,1/27/2023,Cumberland River at Williamsburg,JKL,Souris-Red-Rainy Region,KY,obj,JFM
+WTNW2,39.029167,-80.473889,OHRFC,0.7,0.2,0.12,2,1/27/2023,West Fork River at Weston,RLX,Upper Mississippi Region,WV,obj,JFM
+WUNO1,38.803611,-83.421111,OHRFC,0.59,0.07,0.05,2,1/27/2023,Ohio Brush Creek near West Union,ILN,Upper Mississippi Region,OH,obj,JFM
+ABTI3,39.732548,-84.959684,OHRFC,0.05,0.05,0.05,1,1/27/2023,East Fork Whitewater River at Abington,ILN,Upper Mississippi Region,IN,obj,JFM
+ACIT1,36.270556,-87.076111,OHRFC,0.05,0.05,0.05,1,1/27/2023,Cumberland River at Ashland City,OHX,Great Lakes Region,TN,obj,JFM
+ACMP1,40.536111,-79.815,OHRFC,0.05,0.05,0.05,1,1/27/2023,Allegheny River at C.W. Bill Young Lock and Dam,PBZ,Great Lakes Region,PA,obj,JFM
+ALDW2,37.724167,-80.641667,OHRFC,0.24,0.1,0.05,1,1/27/2023,Greenbrier River at Alderson,RNK,Great Lakes Region,WV,obj,JFM
+ALPI3,39.574333,-85.155889,OHRFC,0.12,0.05,0.05,1,1/27/2023,West Fork Whitewater River near Alpine,ILN,Great Lakes Region,IN,obj,JFM
+ALSV2,36.9375,-80.745833,OHRFC,0.26,0.05,0.05,1,1/27/2023,New River at Allisonia,RNK,Great Lakes Region,VA,obj,JFM
+ALVK2,36.895278,-86.380556,OHRFC,0.35,0.05,0.05,1,1/27/2023,Drakes Creek near Alvaton,LMK,Upper Mississippi Region,KY,obj,JFM
+ANDI3,40.1053,-85.6714,OHRFC,0.17,0.05,0.05,1,1/27/2023,White River (IN) at Anderson,IND,Upper Mississippi Region,IN,obj,JFM
+ANTT1,36.081667,-86.680556,OHRFC,0.1,0.05,0.05,1,1/27/2023,Mill Creek at Antioch,OHX,Great Lakes Region,TN,obj,JFM
+ASHK2,38.481192,-82.63655,OHRFC,0.23,0.09,0.05,1,1/27/2023,Ohio River at Ashland,RLX,Upper Mississippi Region,KY,obj,JFM
+ATHO1,39.328962,-82.087644,OHRFC,0.11,0.06,0.05,1,1/27/2023,Hocking River at Athens,RLX,Upper Mississippi Region,OH,obj,JFM
+BAKI3,39.2,-85.9256,OHRFC,0.21,0.05,0.05,1,1/27/2023,East Fork White River at Columbus,IND,Upper Mississippi Region,IN,obj,JFM
+BBVK2,36.862222,-83.8875,OHRFC,0.3,0.11,0.05,1,1/27/2023,Cumberland River at Barbourville,JKL,Upper Mississippi Region,KY,obj,JFM
+BDDP1,40.3925,-79.860278,OHRFC,0.08,0.06,0.05,1,1/27/2023,Monongahela River at Braddock Lock and Dam,PBZ,Upper Mississippi Region,PA,obj,JFM
+BEAP1,40.763333,-80.315278,OHRFC,0.05,0.05,0.05,1,1/27/2023,Beaver River near Beaver Falls,PBZ,Upper Mississippi Region,PA,obj,JFM
+BELT1,36.054444,-86.928333,OHRFC,0.09,0.05,0.05,1,1/27/2023,Harpeth River at Bellevue,OHX,Upper Mississippi Region,TN,obj,JFM
+BELW2,39.028664,-79.937761,OHRFC,0.44,0.18,0.08,1,1/27/2023,Tygart Valley River at Belington,RLX,Upper Mississippi Region,WV,obj,JFM
+BEVO1,39.544444,-81.640833,OHRFC,0.12,0.05,0.05,1,1/27/2023,Muskingum River at Beverly,RLX,Upper Mississippi Region,OH,obj,JFM
+BEVW2,39.119017,-81.737869,OHRFC,0.22,0.09,0.05,1,1/27/2023,Ohio River at Belleville Lock,RLX,Great Lakes Region,WV,obj,JFM
+BFRI3,38.836111,-86.521389,OHRFC,0.47,0.05,0.05,1,1/27/2023,East Fork White River near Bedford,IND,Great Lakes Region,IN,obj,JFM
+BLFI3,40.742222,-85.171389,OHRFC,0.17,0.05,0.05,1,1/27/2023,Wabash River at Bluffton,IWX,Great Lakes Region,IN,obj,JFM
+BLSK2,38.42,-83.9975,OHRFC,0.33,0.05,0.05,1,1/27/2023,Licking River at Blue Licks Spring,LMK,Upper Mississippi Region,KY,obj,JFM
+BOLI3,39.384,-87.0209,OHRFC,0.36,0.18,0.05,1,1/27/2023,Eel River at Bowling Green,IND,Great Lakes Region,IN,obj,JFM
+BOOK2,37.479842,-83.673272,OHRFC,0.47,0.36,0.17,1,1/27/2023,South Fork Kentucky River at Booneville,JKL,Upper Mississippi Region,KY,obj,JFM
+BRAW2,38.220923,-82.202642,OHRFC,0.05,0.05,0.05,1,1/27/2023,Guyandotte River at Branchland,RLX,Upper Mississippi Region,WV,obj,JFM
+BRKI3,39.407472,-85.012889,OHRFC,0.05,0.05,0.05,1,1/27/2023,Whitewater River at Brookville,ILN,Upper Mississippi Region,IN,obj,JFM
+BRKK2,36.78667,-85.36528,OHRFC,0.1,0.05,0.05,1,1/27/2023,Cumberland River at Burkesville,LMK,Upper Mississippi Region,KY,obj,JFM
+BSNK2,37.767222,-85.703889,OHRFC,0.37,0.06,0.05,1,1/27/2023,Rolling Fork River near Boston,LMK,Upper Mississippi Region,KY,obj,JFM
+BUCW2,38.186209,-80.130008,OHRFC,0.12,0.05,0.05,1,1/27/2023,Greenbrier River at Buckeye,RLX,Upper Mississippi Region,WV,obj,JFM
+BVAW2,38.23344,-81.180942,OHRFC,0.05,0.05,0.05,1,1/27/2023,Gauley River near Belva,RLX,Great Lakes Region,WV,obj,JFM
+BVLO1,39.263676,-83.166852,OHRFC,0.06,0.05,0.05,1,1/27/2023,Paint Creek near Bourneville,ILN,Upper Mississippi Region,OH,obj,JFM
+BWGK2,37.002778,-86.432778,OHRFC,0.16,0.09,0.05,1,1/27/2023,Barren River at Bowling Green,LMK,Upper Mississippi Region,KY,obj,JFM
+BXTK2,36.860556,-83.326944,OHRFC,0.34,0.21,0.09,1,1/27/2023,Cumberland River at Baxter,JKL,Great Lakes Region,KY,obj,JFM
+CALK2,37.533889,-87.263889,OHRFC,0.35,0.28,0.05,1,1/27/2023,Green River (KY) at Calhoun Lock and Dam,PAH,Upper Mississippi Region,KY,obj,JFM
+CATK2,38.710348,-84.310769,OHRFC,0.05,0.05,0.05,1,1/27/2023,Licking River at Catawba,ILN,Upper Mississippi Region,KY,obj,JAS
+CCNO1,39.094504,-84.510498,OHRFC,0.24,0.11,0.05,1,1/27/2023,Ohio River at Cincinnati,ILN,Upper Mississippi Region,OH,obj,JFM
+CDIO1,40.014444,-81.587222,OHRFC,0.11,0.07,0.05,1,1/27/2023,Wills Creek at Cambridge,PBZ,Upper Mississippi Region,OH,obj,JFM
+CENI3,39.485833,-86.418889,OHRFC,0.4,0.05,0.05,1,1/27/2023,White River (IN) at Eagle Valley Power Plant,IND,Upper Mississippi Region,IN,obj,JFM
+CHCO1,39.341389,-82.971111,OHRFC,0.09,0.05,0.05,1,1/27/2023,Scioto River at Chillicothe,ILN,Great Lakes Region,OH,obj,JFM
+CHRP1,40.149444,-79.901667,OHRFC,0.25,0.13,0.05,1,1/27/2023,Monongahela River at Charleroi Lock and Dam,PBZ,Upper Mississippi Region,PA,obj,JFM
+CKVT1,36.541389,-87.367778,OHRFC,0.18,0.05,0.05,1,1/27/2023,Cumberland River at Clarksville,OHX,Upper Mississippi Region,TN,obj,JFM
+CLAT1,36.554167,-85.514444,OHRFC,0.05,0.05,0.05,1,1/27/2023,Cumberland River at Celina,OHX,Upper Mississippi Region,TN,obj,JFM
+CLFI3,38.736667,-85.418056,OHRFC,0.13,0.05,0.05,1,1/27/2023,Ohio River at Clifty Creek,LMK,Souris-Red-Rainy Region,IN,obj,JFM
+CLLP1,40.0175,-79.593889,OHRFC,0.15,0.05,0.05,1,1/27/2023,Youghiogheny River at Connellsville,PBZ,Upper Mississippi Region,PA,obj,JFM
+CLNP1,40.716667,-79.581111,OHRFC,0.05,0.05,0.05,1,1/27/2023,Allegheny River at Clinton Lock and Dam,PBZ,Upper Mississippi Region,PA,obj,JFM
+CLYW2,38.460676,-81.088368,OHRFC,0.1,0.05,0.05,1,1/27/2023,Elk River at Clay,RLX,Great Lakes Region,WV,obj,JFM
+CMBK2,36.973889,-82.993056,OHRFC,0.07,0.05,0.05,1,1/27/2023,Poor Fork Cumberland River at Cumberland,JKL,Upper Mississippi Region,KY,obj,JFM
+CNFP1,39.8275,-79.372778,OHRFC,0.05,0.05,0.05,1,1/27/2023,Youghiogheny River at Confluence,CTP,Upper Mississippi Region,PA,obj,JFM
+CNNI3,37.899444,-86.705556,OHRFC,0.29,0.07,0.05,1,1/27/2023,Ohio River at Cannelton Lock and Dam,LMK,Upper Mississippi Region,IN,obj,JFM
+CNTI3,39.4975,-86.4005,OHRFC,0.39,0.05,0.05,1,1/27/2023,White River (IN) near Centerton,IND,Great Lakes Region,IN,obj,JFM
+COGW2,38.365943,-80.600923,OHRFC,0.05,0.05,0.05,1,1/27/2023,Gauley River at Camden-On-Gauley,RLX,Souris-Red-Rainy Region,WV,obj,JFM
+COKP1,41.330556,-79.209167,OHRFC,0.05,0.05,0.05,1,1/27/2023,Clarion River near Cooksburg,PBZ,Great Lakes Region,PA,obj,JFM
+COLO1,39.909508,-83.009072,OHRFC,0.05,0.05,0.05,1,1/27/2023,Scioto River at Frank Road,ILN,Great Lakes Region,OH,obj,JFM
+CPBO1,41.383056,-84.128611,OHRFC,0.15,0.05,0.05,1,1/27/2023,Maumee River at Napoleon,IWX,Great Lakes Region,OH,obj,JFM
+CPNK2,37.745278,-84.586667,OHRFC,0.19,0.05,0.05,1,1/27/2023,Kentucky River at Camp Nelson,LMK,Upper Mississippi Region,KY,obj,JFM
+CRCO1,39.601451,-82.95518,OHRFC,0.38,0.08,0.05,1,1/27/2023,Scioto River at Circleville,ILN,Upper Mississippi Region,OH,obj,JFM
+CRSW2,38.347222,-81.636389,OHRFC,0.05,0.05,0.05,1,1/27/2023,Kanawha River at South Side Bridge,RLX,Upper Mississippi Region,WV,obj,JFM
+CRWI3,40.0503,-86.9072,OHRFC,0.13,0.08,0.05,1,1/27/2023,Sugar Creek (IN) at Crawfordsville,IND,Upper Mississippi Region,IN,obj,JFM
+CTHT1,36.248056,-85.955278,OHRFC,0.05,0.05,0.05,1,1/27/2023,Cumberland River at Carthage,OHX,Great Lakes Region,TN,obj,JFM
+CYCK2,37.864722,-83.933611,OHRFC,0.33,0.2,0.05,1,1/27/2023,Red River at Clay City,JKL,Upper Mississippi Region,KY,obj,JFM
+CYNK2,38.390833,-84.303056,OHRFC,0.16,0.11,0.07,1,1/27/2023,South Fork Licking River at Cynthiana,LMK,Upper Mississippi Region,KY,obj,JFM
+DBVO1,39.700618,-83.110187,OHRFC,0.05,0.05,0.05,1,1/27/2023,Big Darby Creek at Darbyville,ILN,Upper Mississippi Region,OH,obj,JFM
+DCRI3,40.8481,-84.9377,OHRFC,0.31,0.07,0.05,1,1/27/2023,St. Marys River at Decatur,IWX,Upper Mississippi Region,IN,obj,JFM
+DEFO1,41.279167,-84.386667,OHRFC,0.05,0.05,0.05,1,1/27/2023,Maumee River at Defiance,IWX,Upper Mississippi Region,OH,obj,JFM
+DEPI3,38.804167,-85.673889,OHRFC,0.31,0.12,0.05,1,1/27/2023,Muscatatuck River at Deputy,LMK,Upper Mississippi Region,IN,obj,JFM
+DFCO1,41.23675,-84.399167,OHRFC,0.05,0.05,0.05,1,1/27/2023,Auglaize River near Defiance,IWX,Upper Mississippi Region,OH,obj,JFM
+DLPI3,40.5939,-86.7703,OHRFC,0.19,0.05,0.05,1,1/27/2023,Tippecanoe River near Delphi,IND,Upper Mississippi Region,IN,obj,JFM
+DLYW2,38.909275,-79.881734,OHRFC,0.07,0.05,0.05,1,1/27/2023,Tygart Valley River at Dailey,RLX,Upper Mississippi Region,WV,obj,JFM
+DNVI2,40.10087,-87.597242,OHRFC,0.07,0.05,0.05,1,1/27/2023,Vermilion River (E-IL) near Danville,ILX,Upper Mississippi Region,IL,obj,JFM
+DOVT1,36.490556,-87.838889,OHRFC,0.17,0.05,0.05,1,1/27/2023,Cumberland River at Dover,OHX,Upper Mississippi Region,TN,obj,JFM
+DREI3,39.3392,-85.9864,OHRFC,0.45,0.14,0.05,1,1/27/2023,Driftwood River near Edinburgh,IND,Souris-Red-Rainy Region,IN,obj,JFM
+DSHP1,40.549167,-80.205833,OHRFC,0.05,0.05,0.05,1,1/27/2023,Ohio River at Dashields Lock and Dam,PBZ,Great Lakes Region,PA,obj,JFM
+DTNO1,39.765278,-84.1975,OHRFC,0.05,0.05,0.05,1,1/27/2023,Great Miami River at Dayton,ILN,Upper Mississippi Region,OH,obj,JFM
+ECMP1,40.345833,-78.882778,OHRFC,0.05,0.05,0.05,1,1/27/2023,Little Conemaugh River at East Conemaugh,CTP,Great Lakes Region,PA,obj,JFM
+ELKK2,37.312847,-82.359686,OHRFC,0.05,0.05,0.05,1,1/27/2023,Russell Fork near Elkhorn City,JKL,Souris-Red-Rainy Region,KY,obj,JFM
+ELRO1,41.380324,-82.10459,OHRFC,0.11,0.05,0.05,1,1/27/2023,Black River at Elyria,CLE,Upper Mississippi Region,OH,obj,JFM
+ELRP1,41.963333,-78.386389,OHRFC,0.05,0.05,0.05,1,1/27/2023,Allegheny River at Eldred,CTP,Great Lakes Region,PA,obj,JFM
+ELVO1,40.620278,-80.563333,OHRFC,0.05,0.05,0.05,1,1/27/2023,Ohio River at East Liverpool,PBZ,Great Lakes Region,OH,obj,JFM
+ELZP1,40.262222,-79.901389,OHRFC,0.24,0.09,0.05,1,1/27/2023,Monongahela River at Elizabeth Lock and Dam,PBZ,Upper Mississippi Region,PA,obj,JFM
+ELZW2,39.058969,-81.389564,OHRFC,0.09,0.05,0.05,1,1/27/2023,Little Kanawha River at Elizabeth,RLX,Upper Mississippi Region,WV,obj,JFM
+ENGO1,39.870278,-84.286111,OHRFC,0.05,0.05,0.05,1,1/27/2023,Stillwater River above Englewood,ILN,Great Lakes Region,OH,obj,JFM
+ENTO1,39.565,-82.474722,OHRFC,0.25,0.08,0.05,1,1/27/2023,Hocking River at Enterprise,ILN,Upper Mississippi Region,OH,obj,JFM
+EVVI3,37.972222,-87.576389,OHRFC,0.26,0.05,0.05,1,1/27/2023,Ohio River at Evansville,PAH,Souris-Red-Rainy Region,IN,obj,JFM
+FDLP1,40.285556,-78.920833,OHRFC,0.05,0.05,0.05,1,1/27/2023,Stonycreek River at Ferndale,CTP,Upper Mississippi Region,PA,obj,JFM
+FDYO1,41.055833,-83.688056,OHRFC,0.08,0.05,0.05,1,1/27/2023,Blanchard River at Findlay,CLE,Upper Mississippi Region,OH,obj,JFM
+FFMO1,41.307831,-83.15881,OHRFC,0.05,0.05,0.05,1,1/27/2023,Sandusky River near S Fremont,CLE,Upper Mississippi Region,OH,obj,JFM
+FFTK2,38.201667,-84.881667,OHRFC,0.05,0.05,0.05,1,1/27/2023,Kentucky River at Frankfort Lock,LMK,Upper Mississippi Region,KY,obj,JFM
+FKNO1,39.563056,-84.305,OHRFC,0.05,0.05,0.05,1,1/27/2023,Great Miami River at Franklin,ILN,Great Lakes Region,OH,obj,JFM
+FLCI3,39.235,-85.926667,OHRFC,0.32,0.05,0.05,1,1/27/2023,Flatrock River at Columbus,IND,Upper Mississippi Region,IN,obj,JFM
+FLMK2,38.67823,-84.32804,OHRFC,0.11,0.05,0.05,1,1/27/2023,Licking River at Falmouth,ILN,Upper Mississippi Region,KY,obj,JFM
+FLRK2,38.171111,-82.634722,OHRFC,0.05,0.05,0.05,1,1/27/2023,Big Sandy River (KY) at Fullers Station,RLX,Upper Mississippi Region,KY,obj,JFM
+FODK2,37.894722,-84.262222,OHRFC,0.18,0.05,0.05,1,1/27/2023,Kentucky River at Ford Lock,LMK,Souris-Red-Rainy Region,KY,obj,JFM
+FRAT1,35.920556,-86.865556,OHRFC,0.06,0.05,0.05,1,1/27/2023,Harpeth River at Franklin,OHX,Upper Mississippi Region,TN,obj,JFM
+FRDI3,38.433889,-86.191667,OHRFC,0.26,0.12,0.05,1,1/27/2023,Blue River (IN) at Fredericksburg,LMK,Great Lakes Region,IN,obj,JFM
+FREP1,40.684722,-79.6675,OHRFC,0.05,0.05,0.05,1,1/27/2023,Allegheny River at Freeport Lock and Dam,PBZ,Great Lakes Region,PA,obj,JFM
+FRKP1,41.389444,-79.820556,OHRFC,0.05,0.05,0.05,1,1/27/2023,Allegheny River at Franklin,PBZ,Upper Mississippi Region,PA,obj,JFM
+FTJO1,40.9486,-84.2661,OHRFC,0.18,0.06,0.05,1,1/27/2023,Auglaize River at Ft. Jennings,IWX,Souris-Red-Rainy Region,OH,obj,JFM
+FTWI3,41.0825,-85.115278,OHRFC,0.24,0.07,0.05,1,1/27/2023,Maumee River at Fort Wayne,IWX,Upper Mississippi Region,IN,obj,JFM
+GALW2,38.680278,-82.1875,OHRFC,0.14,0.07,0.05,1,1/27/2023,Ohio River at R C Byrd Lock,RLX,Upper Mississippi Region,WV,obj,JFM
+GAXV2,36.647222,-80.979167,OHRFC,0.12,0.06,0.05,1,1/27/2023,New River at Galax,RNK,Upper Mississippi Region,VA,obj,JFM
+GERO1,39.637778,-84.403889,OHRFC,0.05,0.05,0.05,1,1/27/2023,Twin Creek near Germantown,ILN,Great Lakes Region,OH,obj,JFM
+GLEW2,38.932972,-80.838222,OHRFC,0.12,0.05,0.05,1,1/27/2023,Little Kanawha River at Glenville,RLX,Great Lakes Region,WV,obj,JFM
+GLLV2,37.372778,-80.860833,OHRFC,0.07,0.05,0.05,1,1/27/2023,New River at Glen Lyn,RNK,Upper Mississippi Region,VA,obj,JFM
+GNCK2,38.705,-84.823889,OHRFC,0.22,0.05,0.05,1,1/27/2023,Eagle Creek (KY) near Glencoe,ILN,Upper Mississippi Region,KY,obj,JFM
+GNUK2,38.646667,-82.860556,OHRFC,0.17,0.12,0.05,1,1/27/2023,Ohio River at Lloyd Greenup Lock,RLX,Upper Mississippi Region,KY,obj,JFM
+GOLI2,37.357778,-88.4825,OHRFC,0.39,0.05,0.05,1,1/27/2023,Ohio River at Golconda,PAH,Upper Mississippi Region,IL,obj,JFM
+GRRO1,41.414167,-83.860833,OHRFC,0.05,0.05,0.05,1,1/27/2023,Maumee River at Grand Rapids,CLE,Upper Mississippi Region,OH,obj,JFM
+GRTW2,38.921731,-81.094757,OHRFC,0.12,0.09,0.06,1,1/27/2023,Little Kanawha River at Grantsville,RLX,Great Lakes Region,WV,obj,JFM
+GYLP1,39.825,-79.923056,OHRFC,0.14,0.05,0.05,1,1/27/2023,Monongahela River at Grays Landing Lock and Dam,PBZ,Upper Mississippi Region,PA,obj,JFM
+GYNK2,38.329167,-82.937222,OHRFC,0.34,0.3,0.27,1,1/27/2023,Little Sandy River at Grayson,RLX,Great Lakes Region,KY,obj,JFM
+HAIV2,37.206944,-82.295833,OHRFC,0.05,0.05,0.05,1,1/27/2023,Russell Fork River at Haysi,RLX,Upper Mississippi Region,VA,obj,JFM
+HAMO1,39.391111,-84.572222,OHRFC,0.05,0.05,0.05,1,1/27/2023,Great Miami River at Hamilton,ILN,Upper Mississippi Region,OH,obj,JFM
+HANO1,39.667222,-80.866111,OHRFC,0.05,0.05,0.05,1,1/27/2023,Ohio River at Hannibal Lock and Dam,PBZ,Upper Mississippi Region,OH,obj,JFM
+HAZK2,37.246667,-83.181944,OHRFC,0.21,0.1,0.05,1,1/27/2023,North Fork Kentucky River at Hazard,JKL,Souris-Red-Rainy Region,KY,obj,JFM
+HIBK2,37.829167,-84.723889,OHRFC,0.08,0.05,0.05,1,1/27/2023,Kentucky River at High Bridge Lock,LMK,Great Lakes Region,KY,obj,JFM
+HINW2,37.670278,-80.892778,OHRFC,0.05,0.05,0.05,1,1/27/2023,New River at Hinton,RNK,Great Lakes Region,WV,obj,JFM
+HNTW2,38.413415,-82.500434,OHRFC,0.2,0.05,0.05,1,1/27/2023,Ohio River near Huntington,RLX,Upper Mississippi Region,WV,obj,JFM
+INDI3,39.73714,-86.16969,OHRFC,0.05,0.05,0.05,1,1/27/2023,White River (IN) at Raymond Street in Indianapolis,IND,Great Lakes Region,IN,obj,JFM
+INDO1,41.395278,-81.62985,OHRFC,0.05,0.05,0.05,1,1/27/2023,Cuyahoga River at Independence,CLE,Upper Mississippi Region,OH,obj,JFM
+JHNP1,41.486111,-78.678611,OHRFC,0.08,0.05,0.05,1,1/27/2023,Clarion River at Johnsonburg,CTP,Great Lakes Region,PA,obj,JFM
+JHSP1,40.341389,-78.926111,OHRFC,0.05,0.05,0.05,1,1/27/2023,Conemaugh River at Johnstown,CTP,Upper Mississippi Region,PA,obj,JFM
+JKNK2,37.551383,-83.384725,OHRFC,0.29,0.24,0.06,1,1/27/2023,North Fork Kentucky River at Jackson,JKL,Great Lakes Region,KY,obj,JFM
+KALO1,40.990278,-84.226667,OHRFC,0.1,0.09,0.05,1,1/27/2023,Ottawa River near Kalida,IWX,Great Lakes Region,OH,obj,JFM
+KANW2,38.138056,-81.214444,OHRFC,0.05,0.05,0.05,1,1/27/2023,Kanawha River at Kanawha Falls,RLX,Upper Mississippi Region,WV,obj,JFM
+KIMO1,39.351389,-84.242778,OHRFC,0.11,0.05,0.05,1,1/27/2023,Little Miami River at Kings Mills,ILN,Upper Mississippi Region,OH,obj,JFM
+KINT1,36.121667,-87.098889,OHRFC,0.3,0.14,0.07,1,1/27/2023,Harpeth River near Kingston Springs,OHX,Upper Mississippi Region,TN,obj,JFM
+KRMW2,37.837319,-82.408758,OHRFC,0.05,0.05,0.05,1,1/27/2023,Tug Fork River at Kermit,RLX,Upper Mississippi Region,WV,obj,JFM
+KTTP1,40.820278,-79.531667,OHRFC,0.05,0.05,0.05,1,1/27/2023,Allegheny River at Kittanning Lock and Dam,PBZ,Upper Mississippi Region,PA,obj,JFM
+LARO1,40.571944,-83.384167,OHRFC,0.07,0.05,0.05,1,1/27/2023,Scioto River at Larue,CLE,Great Lakes Region,OH,obj,JFM
+LEAO1,41.239167,-80.880833,OHRFC,0.08,0.05,0.05,1,1/27/2023,Mahoning River at Leavittsburg,CLE,Upper Mississippi Region,OH,obj,JFM
+LGNI3,40.7464,-86.3775,OHRFC,0.05,0.05,0.05,1,1/27/2023,Wabash River at Logansport,IWX,Upper Mississippi Region,IN,obj,JFM
+LITW2,37.479778,-81.838306,OHRFC,0.05,0.05,0.05,1,1/27/2023,Tug Fork River at Litwar,RLX,Upper Mississippi Region,WV,obj,JFM
+LOCO1,40.214444,-84.243889,OHRFC,0.05,0.05,0.05,1,1/27/2023,Loramie Creek near Lockington,ILN,Upper Mississippi Region,OH,obj,JFM
+LOGW2,37.842326,-81.975957,OHRFC,0.05,0.05,0.05,1,1/27/2023,Guyandotte River at Logan,RLX,Souris-Red-Rainy Region,WV,obj,JFM
+LPTK2,38.438889,-84.963333,OHRFC,0.24,0.05,0.05,1,1/27/2023,Kentucky River at Lockport,LMK,Great Lakes Region,KY,obj,JFM
+LYNI3,40.643889,-85.030889,OHRFC,0.3,0.05,0.05,1,1/27/2023,Wabash River at Linn Grove,IWX,Upper Mississippi Region,IN,obj,JFM
+LYTI3,40.440556,-86.829167,OHRFC,0.49,0.09,0.05,1,1/27/2023,Wildcat Creek (IN) near Lafayette,IND,Upper Mississippi Region,IN,obj,JFM
+MAXP1,40.001667,-79.961111,OHRFC,0.07,0.05,0.05,1,1/27/2023,Monongahela River at Maxwell Lock and Dam (lower pool),PBZ,Upper Mississippi Region,PA,obj,JFM
+MCCO1,39.64846,-81.85801,OHRFC,0.11,0.06,0.05,1,1/27/2023,Muskingum River at McConnelsville,RLX,Upper Mississippi Region,OH,obj,JFM
+MDTO1,39.52,-84.412778,OHRFC,0.12,0.05,0.05,1,1/27/2023,Great Miami River at Middletown,ILN,Upper Mississippi Region,OH,obj,JFM
+MEDP1,41.6325,-80.159722,OHRFC,0.05,0.05,0.05,1,1/27/2023,French Creek at Meadville,CLE,Upper Mississippi Region,PA,obj,JFM
+MELO1,38.798333,-84.173056,OHRFC,0.17,0.05,0.05,1,1/27/2023,Ohio River at Meldahl Dam,ILN,Souris-Red-Rainy Region,OH,obj,JFM
+MFVK2,37.269444,-85.888056,OHRFC,0.22,0.05,0.05,1,1/27/2023,Green River (KY) at Munfordville,LMK,Great Lakes Region,KY,obj,JFM
+MGYP1,40.647222,-80.388889,OHRFC,0.05,0.05,0.05,1,1/27/2023,Ohio River at Montgomery Lock and Dam,PBZ,Souris-Red-Rainy Region,PA,obj,JFM
+MIAO1,39.216111,-84.702778,OHRFC,0.29,0.07,0.05,1,1/27/2023,Great Miami River at Miamitown,ILN,Souris-Red-Rainy Region,OH,obj,JFM
+MIEI3,40.2039,-85.3861,OHRFC,0.07,0.05,0.05,1,1/27/2023,White River (IN) at Muncie,IND,Souris-Red-Rainy Region,IN,obj,JFM
+MILO1,41.300885,-82.60823,OHRFC,0.19,0.09,0.05,1,1/27/2023,Huron River at Milan,CLE,Souris-Red-Rainy Region,OH,obj,JFM
+MKBK2,38.599444,-84.267222,OHRFC,0.14,0.05,0.05,1,1/27/2023,Licking River at McKinneysburg,ILN,Great Lakes Region,KY,obj,JFM
+MKLK2,38.774722,-84.9644,OHRFC,0.07,0.05,0.05,1,1/27/2023,Ohio River at Markland Lower,ILN,Souris-Red-Rainy Region,KY,obj,JFM
+MLGO1,39.171389,-84.298056,OHRFC,0.18,0.05,0.05,1,1/27/2023,Little Miami River at Milford,ILN,Upper Mississippi Region,OH,obj,JFM
+MLNO1,40.7875,-81.523056,OHRFC,0.05,0.05,0.05,1,1/27/2023,Tuscarawas River at Massillon,CLE,Upper Mississippi Region,OH,obj,JFM
+MLPK2,38.280278,-85.799167,OHRFC,0.21,0.05,0.05,1,1/27/2023,Ohio River at McAlpine Lower,LMK,Upper Mississippi Region,KY,obj,JFM
+MLUK2,38.265833,-85.768889,OHRFC,0.25,0.05,0.05,1,1/27/2023,Ohio River at McAlpine Upper,LMK,Great Lakes Region,KY,obj,JFM
+MMGO1,39.644444,-84.289722,OHRFC,0.07,0.05,0.05,1,1/27/2023,Great Miami River at Miamisburg,ILN,Great Lakes Region,OH,obj,JFM
+MONO1,41.5896,-84.6123,OHRFC,0.48,0.27,0.05,1,1/27/2023,St. Joseph River (OH/IN) at Montpelier,IWX,Upper Mississippi Region,OH,obj,JFM
+MORW2,39.62,-79.969167,OHRFC,0.05,0.05,0.05,1,1/27/2023,Monongahela River at Morgantown Lock and Dam,PBZ,Upper Mississippi Region,WV,obj,JFM
+MOSP1,40.894444,-79.476389,OHRFC,0.05,0.05,0.05,1,1/27/2023,Allegheny River at Mosgrove Lock and Dam,PBZ,Great Lakes Region,PA,obj,JFM
+MOUW2,39.905278,-80.756389,OHRFC,0.09,0.05,0.05,1,1/27/2023,Ohio River at Moundsville,PBZ,Souris-Red-Rainy Region,WV,obj,JFM
+MRDO1,39.797222,-84.088611,OHRFC,0.05,0.05,0.05,1,1/27/2023,Mad River near Dayton,ILN,Souris-Red-Rainy Region,OH,obj,JFM
+MROI3,40.5764,-85.6595,OHRFC,0.05,0.05,0.05,1,1/27/2023,Mississinewa River at Marion,IWX,Upper Mississippi Region,IN,obj,JFM
+MTAO1,39.409444,-81.457778,OHRFC,0.05,0.05,0.05,1,1/27/2023,Ohio River at Marietta Pumphouse,RLX,Upper Mississippi Region,OH,obj,JFM
+MVEO1,40.405618,-82.49989,OHRFC,0.1,0.08,0.05,1,1/27/2023,Kokosing River at Mt Vernon,CLE,Upper Mississippi Region,OH,obj,JFM
+MYVK2,38.684104,-83.783897,OHRFC,0.22,0.05,0.05,1,1/27/2023,Ohio River at Maysville,ILN,Great Lakes Region,KY,obj,JFM
+NAST1,36.161389,-86.772778,OHRFC,0.11,0.07,0.05,1,1/27/2023,Cumberland River at Nashville,OHX,Upper Mississippi Region,TN,obj,JFM
+NATP1,40.615278,-79.718611,OHRFC,0.05,0.05,0.05,1,1/27/2023,Allegheny River at Natrona Lock and Dam,PBZ,Great Lakes Region,PA,obj,JFM
+NBLI3,40.046944,-86.0172,OHRFC,0.19,0.05,0.05,1,1/27/2023,White River (IN) at Noblesville,IND,Upper Mississippi Region,IN,obj,JFM
+NCSP1,41.017778,-80.362778,OHRFC,0.05,0.05,0.05,1,1/27/2023,Shenango River at New Castle,PBZ,Upper Mississippi Region,PA,obj,JFM
+NCTO1,40.261389,-81.609167,OHRFC,0.05,0.05,0.05,1,1/27/2023,Tuscarawas River at Newcomerstown,PBZ,Upper Mississippi Region,OH,obj,JFM
+NCUW2,40.528056,-80.625833,OHRFC,0.05,0.05,0.05,1,1/27/2023,Ohio River at New Cumberland Lock and Dam,PBZ,Upper Mississippi Region,WV,obj,JFM
+NEAO1,40.059167,-82.339722,OHRFC,0.18,0.07,0.05,1,1/27/2023,Licking River (OH) near Newark (Stadden Bridge),ILN,Upper Mississippi Region,OH,obj,JFM
+NHSO1,40.749722,-81.369444,OHRFC,0.05,0.05,0.05,1,1/27/2023,Nimishillen Creek at North Industry,CLE,Upper Mississippi Region,OH,obj,JFM
+NMCI3,40.994444,-85.7825,OHRFC,0.28,0.05,0.05,1,1/27/2023,Eel River (IN) at North Manchester,IWX,Upper Mississippi Region,IN,obj,JFM
+NMSO1,40.059444,-82.396389,OHRFC,0.06,0.05,0.05,1,1/27/2023,North Fork Licking River (OH) at Newark Main Street,ILN,Upper Mississippi Region,OH,obj,JFM
+NORI3,39.9106,-86.1056,OHRFC,0.21,0.05,0.05,1,1/27/2023,White River (IN) at 82nd Street Bridge near Nora,IND,Souris-Red-Rainy Region,IN,obj,JFM
+NWPO1,40.480833,-81.448333,OHRFC,0.05,0.05,0.05,1,1/27/2023,Tuscarawas River at New Philadelphia,PBZ,Souris-Red-Rainy Region,OH,obj,JFM
+ODAK2,37.268333,-83.651389,OHRFC,0.18,0.06,0.05,1,1/27/2023,South Fork Kentucky River at Oneida,JKL,Upper Mississippi Region,KY,obj,JFM
+OLNN6,42.072222,-78.451944,OHRFC,0.12,0.05,0.05,1,1/27/2023,Allegheny River at Olean,BUF,Upper Mississippi Region,NY,obj,JFM
+OLPO1,41.135611,-81.54706,OHRFC,0.05,0.05,0.05,1,1/27/2023,Cuyahoga River at Old Portage,CLE,Upper Mississippi Region,OH,obj,JFM
+OPLP1,39.870833,-79.493056,OHRFC,0.05,0.05,0.05,1,1/27/2023,Youghiogheny River at Ohiopyle,PBZ,Upper Mississippi Region,PA,obj,JFM
+ORAI3,41.1572,-86.5636,OHRFC,0.11,0.05,0.05,1,1/27/2023,Tippecanoe River near Ora,IWX,Upper Mississippi Region,IN,obj,JFM
+OTTO1,41.017,-84.0469,OHRFC,0.14,0.05,0.05,1,1/27/2023,Blanchard River at Ottawa,IWX,Souris-Red-Rainy Region,OH,obj,JFM
+OWBK2,37.793611,-87.141667,OHRFC,0.37,0.06,0.05,1,1/27/2023,Ohio River at Owensboro,PAH,Upper Mississippi Region,KY,obj,JFM
+PARP1,41.100556,-79.681389,OHRFC,0.05,0.05,0.05,1,1/27/2023,Allegheny River at Parker,PBZ,Upper Mississippi Region,PA,obj,JFM
+PARW2,39.268056,-81.563889,OHRFC,0.08,0.05,0.05,1,1/27/2023,Ohio River at Parkersburg,RLX,Upper Mississippi Region,WV,obj,JFM
+PERO1,39.137222,-84.238056,OHRFC,0.05,0.05,0.05,1,1/27/2023,East Fork Little Miami River at Perintown,ILN,Upper Mississippi Region,OH,obj,JFM
+PHIW2,39.150278,-80.038889,OHRFC,0.19,0.16,0.07,1,1/27/2023,Tygart Valley River at Philippi,RLX,Upper Mississippi Region,WV,obj,JFM
+PINW2,37.581944,-81.536944,OHRFC,0.05,0.05,0.05,1,1/27/2023,Guyandotte River at Pineville,RLX,Great Lakes Region,WV,obj,JFM
+PIQO1,40.150833,-84.228889,OHRFC,0.05,0.05,0.05,1,1/27/2023,Great Miami River at Piqua,ILN,Souris-Red-Rainy Region,OH,obj,JFM
+PKMK2,38.268611,-84.814722,OHRFC,0.47,0.28,0.17,1,1/27/2023,Elkhorn Creek at Peaks Mill,LMK,Upper Mississippi Region,KY,obj,JFM
+PKYK2,37.464167,-82.526389,OHRFC,0.17,0.05,0.05,1,1/27/2023,Levisa Fork at Pikeville,JKL,Upper Mississippi Region,KY,obj,JFM
+PMRP1,39.726944,-79.911667,OHRFC,0.17,0.15,0.1,1,1/27/2023,Monongahela River at Point Marion Lock and Dam (lower pool),PBZ,Upper Mississippi Region,PA,obj,JFM
+PNVO1,41.718889,-81.228056,OHRFC,0.05,0.05,0.05,1,1/27/2023,Grand River at Painesville,CLE,Upper Mississippi Region,OH,obj,JFM
+PNXP1,40.943889,-78.967222,OHRFC,0.05,0.05,0.05,1,1/27/2023,Mahoning Creek at Punxsutawney,PBZ,Upper Mississippi Region,PA,obj,JFM
+POPW2,38.843889,-82.139722,OHRFC,0.27,0.17,0.05,1,1/27/2023,Ohio River at Point Pleasant,RLX,Upper Mississippi Region,WV,obj,JFM
+PORI3,40.427778,-85.038889,OHRFC,0.05,0.05,0.05,1,1/27/2023,Salamonie River at Portland,IWX,Great Lakes Region,IN,obj,JFM
+PORO1,38.728889,-82.973056,OHRFC,0.22,0.05,0.05,1,1/27/2023,Ohio River at Portsmouth,ILN,Upper Mississippi Region,OH,obj,JFM
+PORT1,36.553889,-87.141944,OHRFC,0.3,0.1,0.09,1,1/27/2023,Red River near Port Royal,OHX,Upper Mississippi Region,TN,obj,JFM
+POWO1,39.860556,-80.799444,OHRFC,0.05,0.05,0.05,1,1/27/2023,Ohio River at Powhatan Point,PBZ,Upper Mississippi Region,OH,obj,JFM
+PRGO1,40.419504,-83.19714,OHRFC,0.05,0.05,0.05,1,1/27/2023,Scioto River at Prospect,CLE,Great Lakes Region,OH,obj,JFM
+PRUI3,40.75,-86.066667,OHRFC,0.05,0.05,0.05,1,1/27/2023,Wabash River at Peru,IWX,Upper Mississippi Region,IN,obj,MJJ
+PSNW2,39.121667,-79.675278,OHRFC,0.05,0.05,0.05,1,1/27/2023,Cheat River at Parsons,PBZ,Upper Mississippi Region,WV,obj,JFM
+PSTK2,37.670833,-82.777222,OHRFC,0.05,0.05,0.05,1,1/27/2023,Levisa Fork at Prestonsburg,JKL,Great Lakes Region,KY,obj,JFM
+PTTP1,40.439444,-80.010833,OHRFC,0.06,0.05,0.05,1,1/27/2023,Ohio River at Pittsburgh,PBZ,Upper Mississippi Region,PA,obj,JFM
+PTVK2,37.81553,-82.790675,OHRFC,0.19,0.13,0.06,1,1/27/2023,Levisa Fork at Paintsville,JKL,Upper Mississippi Region,KY,obj,JFM
+PVLK2,36.763889,-83.692778,OHRFC,0.35,0.15,0.05,1,1/27/2023,Cumberland River at Pineville,JKL,Great Lakes Region,KY,obj,JFM
+QUSW2,38.470833,-81.284167,OHRFC,0.11,0.08,0.05,1,1/27/2023,Elk River at Queen Shoals,RLX,Upper Mississippi Region,WV,obj,JFM
+RACW2,38.916667,-81.912222,OHRFC,0.19,0.1,0.05,1,1/27/2023,Ohio River at Racine Lock,RLX,Upper Mississippi Region,WV,obj,JFM
+RDFV2,37.141667,-80.569444,OHRFC,0.11,0.1,0.05,1,1/27/2023,New River at Radford,RNK,Great Lakes Region,VA,obj,JFM
+RDYP1,41.420833,-78.736111,OHRFC,0.05,0.05,0.05,1,1/27/2023,Clarion River at Ridgway,CTP,Upper Mississippi Region,PA,obj,JFM
+RFDO1,40.694722,-84.646667,OHRFC,0.05,0.05,0.05,1,1/27/2023,St. Marys River at Rockford,ILN,Great Lakes Region,OH,obj,JFM
+RMRP1,40.958333,-79.547222,OHRFC,0.05,0.05,0.05,1,1/27/2023,Allegheny River at Rimer Lock and Dam,PBZ,Upper Mississippi Region,PA,obj,JFM
+RNOO1,39.360278,-81.320833,OHRFC,0.05,0.05,0.05,1,1/27/2023,Ohio River at Willow Island Lock,RLX,Upper Mississippi Region,OH,obj,JFM
+ROOI3,41.1675,-85.07417,OHRFC,0.17,0.05,0.05,1,1/27/2023,St. Joseph River (OH/IN) near Fort Wayne,IWX,Souris-Red-Rainy Region,IN,obj,JFM
+ROWW2,39.349763,-79.667919,OHRFC,0.11,0.05,0.05,1,1/27/2023,Cheat River at Rowlesburg,PBZ,Souris-Red-Rainy Region,WV,obj,JFM
+RSSP1,41.938056,-79.133333,OHRFC,0.05,0.05,0.05,1,1/27/2023,Conewango Creek at Russell,CTP,Upper Mississippi Region,PA,obj,JFM
+RVNI3,39.893333,-86.129444,OHRFC,0.35,0.05,0.05,1,1/27/2023,White River (IN) at Ravenswood,IND,Souris-Red-Rainy Region,IN,obj,JFM
+SASI3,40.9878,-85.1119,OHRFC,0.1,0.05,0.05,1,1/27/2023,St. Marys River near Fort Wayne,IWX,Upper Mississippi Region,IN,obj,JFM
+SBVI3,39.529167,-85.7775,OHRFC,0.13,0.08,0.05,1,1/27/2023,Big Blue River (IN) at Shelbyville,IND,Upper Mississippi Region,IN,obj,JFM
+SBVO1,40.358333,-80.611111,OHRFC,0.05,0.05,0.05,1,1/27/2023,Ohio River at Steubenville,PBZ,Upper Mississippi Region,OH,obj,JFM
+SGFO1,39.923056,-83.870278,OHRFC,0.21,0.05,0.05,1,1/27/2023,Mad River near Springfield,ILN,Upper Mississippi Region,OH,obj,JFM
+SHLI3,38.666944,-86.791944,OHRFC,0.21,0.05,0.05,1,1/27/2023,East Fork White River at Shoals,IND,Upper Mississippi Region,IN,obj,JFM
+SHPK2,37.985,-85.7175,OHRFC,0.12,0.08,0.05,1,1/27/2023,Salt River (KY) at Shepherdsville,LMK,Great Lakes Region,KY,obj,JFM
+SHRP1,40.4875,-79.915278,OHRFC,0.05,0.05,0.05,1,1/27/2023,Allegheny River at Sharpsburg Lock and Dam,PBZ,Upper Mississippi Region,PA,obj,JFM
+SIDO1,40.286944,-84.149943,OHRFC,0.25,0.05,0.05,1,1/27/2023,Great Miami River at Sidney,ILN,Great Lakes Region,OH,obj,JFM
+SLMN6,42.156389,-78.715556,OHRFC,0.05,0.05,0.05,1,1/27/2023,Allegheny River at Salamanca,BUF,Great Lakes Region,NY,obj,JFM
+SNCP1,40.994444,-79.394444,OHRFC,0.05,0.05,0.05,1,1/27/2023,Red Bank Creek at St Charles,PBZ,Souris-Red-Rainy Region,PA,obj,JFM
+STMI2,38.936433,-88.022535,OHRFC,0.34,0.12,0.05,1,1/27/2023,Embarras River (IL) at Ste Marie,ILX,Great Lakes Region,IL,obj,JFM
+STSP1,40.240278,-79.806667,OHRFC,0.05,0.05,0.05,1,1/27/2023,Youghiogheny River at Sutersville,PBZ,Great Lakes Region,PA,obj,JFM
+SWDP1,40.419167,-79.026389,OHRFC,0.07,0.05,0.05,1,1/27/2023,Conemaugh River at Seward,PBZ,Upper Mississippi Region,PA,obj,JFM
+TAYO1,39.874502,-84.161885,OHRFC,0.11,0.05,0.05,1,1/27/2023,Great Miami River near Taylorsville,ILN,Great Lakes Region,OH,obj,JFM
+TFFO1,41.114167,-83.179722,OHRFC,0.1,0.05,0.05,1,1/27/2023,Sandusky River at Tiffin,CLE,Upper Mississippi Region,OH,obj,JFM
+TORW2,38.338983,-81.841518,OHRFC,0.28,0.21,0.13,1,1/27/2023,Coal River (WV) at Tornado,RLX,Upper Mississippi Region,WV,obj,JFM
+TRYO1,40.040278,-84.197778,OHRFC,0.12,0.05,0.05,1,1/27/2023,Great Miami River at Troy,ILN,Upper Mississippi Region,OH,obj,JFM
+UPPO1,40.850612,-83.25631,OHRFC,0.05,0.05,0.05,1,1/27/2023,Sandusky River near Upper Sandusky,CLE,Great Lakes Region,OH,obj,JFM
+URVO1,40.390833,-81.347222,OHRFC,0.41,0.08,0.05,1,1/27/2023,Stillwater Creek at Uhrichsville,PBZ,Upper Mississippi Region,OH,obj,JFM
+VERO1,41.38199,-82.31683,OHRFC,0.05,0.05,0.05,1,1/27/2023,Vermilion River near Mill Hollow MP,CLE,Upper Mississippi Region,OH,obj,JFM
+VGFP1,40.604444,-79.552222,OHRFC,0.05,0.05,0.05,1,1/27/2023,Kiskiminetas River at Vandergrift,PBZ,Souris-Red-Rainy Region,PA,obj,JFM
+VRNI3,38.9764,-85.6197,OHRFC,0.15,0.05,0.05,1,1/27/2023,Vernon Fork Muscatatuck River near Vernon,IND,Upper Mississippi Region,IN,obj,JFM
+WABI3,40.7908,-85.8203,OHRFC,0.08,0.05,0.05,1,1/27/2023,Wabash River at Wabash,IWX,Upper Mississippi Region,IN,obj,JFM
+WBNT1,36.117778,-86.718889,OHRFC,0.19,0.05,0.05,1,1/27/2023,Mill Creek at Woodbine,OHX,Upper Mississippi Region,TN,obj,JFM
+WBYO1,41.630833,-81.403333,OHRFC,0.05,0.05,0.05,1,1/27/2023,Chagrin River at Willoughby,CLE,Upper Mississippi Region,OH,obj,JFM
+WDVO1,41.449496,-83.36132,OHRFC,0.11,0.05,0.05,1,1/27/2023,Portage River at Woodville,CLE,Great Lakes Region,OH,obj,JFM
+WELW2,40.275,-80.613611,OHRFC,0.05,0.05,0.05,1,1/27/2023,Ohio River at Wellsburg,PBZ,Upper Mississippi Region,WV,obj,JFM
+WHKP1,41.570833,-79.408056,OHRFC,0.05,0.05,0.05,1,1/27/2023,Allegheny River at West Hickory,PBZ,Upper Mississippi Region,PA,obj,JFM
+WHLW2,40.149722,-80.701667,OHRFC,0.05,0.05,0.05,1,1/27/2023,Ohio River at Pike Island Lock and Dam,PBZ,Upper Mississippi Region,WV,obj,JFM
+WILW2,37.673056,-82.280278,OHRFC,0.06,0.05,0.05,1,1/27/2023,Tug Fork River at Williamson,RLX,Souris-Red-Rainy Region,WV,obj,JFM
+WLGW2,40.057222,-80.728611,OHRFC,0.05,0.05,0.05,1,1/27/2023,Ohio River at Wheeling,PBZ,Upper Mississippi Region,WV,obj,JFM
+WLLI3,38.802222,-86.645556,OHRFC,0.48,0.06,0.05,1,1/27/2023,East Fork White River at Williams,IND,Upper Mississippi Region,IN,obj,JFM
+WLVO1,40.614167,-80.641111,OHRFC,0.05,0.05,0.05,1,1/27/2023,Ohio River at Wellsville,PBZ,Great Lakes Region,OH,obj,JFM
+WMCI3,41.049722,-86.599167,OHRFC,0.07,0.05,0.05,1,1/27/2023,Tippecanoe River at Winamac,IWX,Great Lakes Region,IN,obj,JFM
+WRNI3,40.7125,-85.4536,OHRFC,0.06,0.05,0.05,1,1/27/2023,Salamonie River near Warren,IWX,Upper Mississippi Region,IN,obj,JFM
+WRNO1,41.233889,-80.823333,OHRFC,0.08,0.05,0.05,1,1/27/2023,Mahoning River at Warren,CLE,Great Lakes Region,OH,obj,JFM
+WRRP1,41.843889,-79.15,OHRFC,0.05,0.05,0.05,1,1/27/2023,Allegheny River at Warren,CTP,Great Lakes Region,PA,obj,JFM
+WRTO1,40.110278,-83.031944,OHRFC,0.05,0.05,0.05,1,1/27/2023,Olentangy River near Worthington,ILN,Upper Mississippi Region,OH,obj,JFM
+WTVO1,41.500053,-83.71271,OHRFC,0.1,0.05,0.05,1,1/27/2023,Maumee River at Waterville,CLE,Upper Mississippi Region,OH,obj,JFM
+WYNI2,38.363333,-88.587778,OHRFC,0.34,0.26,0.15,1,1/27/2023,Skillet Fork River at Wayne City,PAH,Upper Mississippi Region,IL,obj,JFM
+YGWO1,41.105058,-80.66258,OHRFC,0.06,0.05,0.05,1,1/27/2023,Mahoning River at Youngstown,CLE,Upper Mississippi Region,OH,obj,JFM
+ZANO1,39.938889,-82.0125,OHRFC,0.05,0.05,0.05,1,1/27/2023,Muskingum River at Zanesville,PBZ,Upper Mississippi Region,OH,obj,JFM
+ZONI3,39.946389,-86.260278,OHRFC,0.2,0.08,0.05,1,1/27/2023,Eagle Creek (IN) at Zionsville,IND,Upper Mississippi Region,IN,obj,JFM
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
