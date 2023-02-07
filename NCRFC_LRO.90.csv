@@ -1,441 +1,443 @@
-lid,lat,lon,rfc,minor,moderate,major,code,date_produced,name,wronglon,wfo,wrr,state,obj_or_subj,interval
-BEAI2,40.016851,-90.438897,NCRFC,0.73,0.42,0.05,2,1/27/2023,Illinois River at Beardstown,90.438897,ILX,Upper Mississippi Region,IL,obj,JFM
-FGON8,46.861111,-96.783333,NCRFC,0.65,0.13,0.05,2,1/27/2023,Red River of the North at Fargo,96.783333,FGF,Souris-Red-Rainy Region,ND,obj,JFM
-HAVI2,40.293152,-90.069412,NCRFC,0.82,0.40,0.10,2,1/27/2023,Illinois River near Havana,90.069412,ILX,Upper Mississippi Region,IL,obj,JFM
-IRQI2,40.823056,-87.581667,NCRFC,0.53,0.05,0.05,2,1/27/2023,Iroquois River at Iroquois,87.581667,LOT,Upper Mississippi Region,IL,obj,JFM
-KCAI2,38.610139,-89.357639,NCRFC,0.75,0.05,0.05,2,1/27/2023,Kaskaskia River at Carlyle,89.357639,LSX,Upper Mississippi Region,IL,obj,JFM
-LSLI2,41.323611,-89.110833,NCRFC,0.55,0.09,0.05,2,1/27/2023,Illinois River near La Salle,89.110833,LOT,Upper Mississippi Region,IL,obj,JFM
-MNTI2,40.030867,-88.588954,NCRFC,0.68,0.05,0.05,2,1/27/2023,Sangamon River at Monticello,88.588954,ILX,Upper Mississippi Region,IL,obj,JFM
-SLLM7,38.158528,-91.108472,NCRFC,0.51,0.07,0.05,2,1/27/2023,Meramec River near Sullivan,91.108472,LSX,Upper Mississippi Region,MO,obj,JFM
-VNDI2,38.959722,-89.088889,NCRFC,0.78,0.25,0.08,2,1/27/2023,Kaskaskia River at Vandalia,89.088889,LSX,Upper Mississippi Region,IL,obj,JFM
-ABRN8,46.470556,-96.781944,NCRFC,0.25,0.12,0.05,1,1/27/2023,Wild Rice River (ND) near Abercrombie,96.781944,FGF,Souris-Red-Rainy Region,ND,obj,JFM
-ADAM4,42.956974,-85.477523,NCRFC,0.05,0.05,0.05,1,1/27/2023,Grand River at Ada,85.477523,GRR,Great Lakes Region,MI,obj,JFM
-ADRM4,41.904167,-83.980556,NCRFC,0.05,0.05,0.05,1,1/27/2023,River Raisin near Adrian,83.980556,DTX,Great Lakes Region,MI,obj,JFM
-AESI4,42.006653,-93.595495,NCRFC,0.05,0.05,0.05,1,1/27/2023,South Skunk River near Ames US 30,93.595495,DMX,Upper Mississippi Region,IA,obj,JFM
-AFBI2,42.161944,-88.293889,NCRFC,0.37,0.11,0.05,1,1/27/2023,Fox River at Algonquin tailwater,88.293889,LOT,Upper Mississippi Region,IL,obj,JFM
-AFTW3,42.613611,-89.071667,NCRFC,0.18,0.05,0.05,1,1/27/2023,Rock River at Afton,89.071667,MKX,Upper Mississippi Region,WI,obj,JFM
-AGNI4,43.08268,-94.230608,NCRFC,0.05,0.05,0.05,1,1/27/2023,East Fork Des Moines River near Algona,94.230608,DMX,Upper Mississippi Region,IA,obj,JFM
-AGSI4,40.7544,-91.275399,NCRFC,0.10,0.07,0.05,1,1/27/2023,Skunk River at Augusta,91.275399,DVN,Upper Mississippi Region,IA,obj,JFM
-AKAM5,45.1916,-93.3944,NCRFC,0.05,0.05,0.05,1,1/27/2023,Mississippi River at Hwy 169 at Champlin,93.3944,MPX,Upper Mississippi Region,MN,obj,JFM
-AKWI4,41.337216,-93.486325,NCRFC,0.05,0.05,0.05,1,1/27/2023,South River (South Central IA) near Ackworth,93.486325,DMX,Upper Mississippi Region,IA,obj,JFM
-ALBW3,42.705833,-89.437778,NCRFC,0.05,0.05,0.05,1,1/27/2023,Sugar River at Albany,89.437778,MKX,Upper Mississippi Region,WI,obj,JFM
-ALMM4,43.379475,-84.655561,NCRFC,0.05,0.05,0.05,1,1/27/2023,Pine River at Alma,84.655561,GRR,Great Lakes Region,MI,obj,JFM
-ALMW3,44.3265,-91.9196,NCRFC,0.05,0.05,0.05,1,1/27/2023,Mississippi River at Alma,91.9196,ARX,Upper Mississippi Region,WI,obj,JFM
-ALNI2,38.866389,-90.146389,NCRFC,0.17,0.05,0.05,1,1/27/2023,Mississippi River at Mel Price (Alton) Lock and Dam,90.146389,LSX,Upper Mississippi Region,IL,obj,JFM
-ALOI4,42.495542,-92.334352,NCRFC,0.07,0.05,0.05,1,1/27/2023,Cedar River at Waterloo,92.334352,DMX,Upper Mississippi Region,IA,obj,JFM
-ALSM4,46.726389,-88.661944,NCRFC,0.07,0.05,0.05,1,1/27/2023,Sturgeon River near Alston,88.661944,MQT,Great Lakes Region,MI,obj,JFM
-ALVM5,48.195,-97.005556,NCRFC,0.05,0.05,0.05,1,1/27/2023,Snake River (NW MN) at Alvarado,97.005556,FGF,Souris-Red-Rainy Region,MN,obj,JFM
-AMEI4,42.066513,-93.620134,NCRFC,0.05,0.05,0.05,1,1/27/2023,South Skunk River near Ames W Riverside Rd,93.620134,DMX,Upper Mississippi Region,IA,obj,JFM
-AMWI4,42.022544,-93.63043,NCRFC,0.05,0.05,0.05,1,1/27/2023,Ioway Creek at Ames Lincoln Way,93.63043,DMX,Upper Mississippi Region,IA,obj,JFM
-ANKM5,45.1288,-93.2993,NCRFC,0.06,0.05,0.05,1,1/27/2023,Mississippi River at Hwy 610 in Brooklyn Park,93.2993,MPX,Upper Mississippi Region,MN,obj,JFM
-ANNM4,42.2875,-83.733333,NCRFC,0.06,0.05,0.05,1,1/27/2023,Huron River at Ann Arbor,83.733333,DTX,Great Lakes Region,MI,obj,JFM
-ANSI4,42.083339,-91.267382,NCRFC,0.05,0.05,0.05,1,1/27/2023,Wapsipinicon River at Anamosa Shaw Rd,91.267382,DVN,Upper Mississippi Region,IA,obj,JFM
-APLW3,44.248056,-88.423056,NCRFC,0.05,0.05,0.05,1,1/27/2023,Fox River (North) at Appleton,88.423056,GRB,Great Lakes Region,WI,obj,JFM
-ARCW3,44.2544,-91.5053,NCRFC,0.05,0.05,0.05,1,1/27/2023,Trempealeau River at Arcadia,91.5053,ARX,Upper Mississippi Region,WI,obj,JFM
-ARNM7,38.456667,-90.360556,NCRFC,0.30,0.05,0.05,1,1/27/2023,Meramec River at Arnold,90.360556,LSX,Upper Mississippi Region,MO,obj,JFM
-ASTM5,43.6558,-92.9708,NCRFC,0.05,0.05,0.05,1,1/27/2023,Cedar River at Austin,92.9708,ARX,Upper Mississippi Region,MN,obj,JFM
-ATKM5,46.540556,-93.707222,NCRFC,0.09,0.05,0.05,1,1/27/2023,Mississippi River near Aitkin,93.707222,DLH,Upper Mississippi Region,MN,obj,JFM
-AVOM5,43.949451,-95.50693,NCRFC,0.05,0.05,0.05,1,1/27/2023,West Fork Des Moines River near Avoca,95.50693,FSD,Upper Mississippi Region,MN,obj,JFM
-BABW3,43.481667,-89.637,NCRFC,0.20,0.05,0.05,1,1/27/2023,Baraboo River near Baraboo,89.637,MKX,Upper Mississippi Region,WI,obj,JFM
-BANN8,48.505556,-100.434444,NCRFC,0.27,0.05,0.05,1,1/27/2023,Souris River near Bantry,100.434444,BIS,Souris-Red-Rainy Region,ND,obj,JFM
-BBCW3,44.302222,-90.1225,NCRFC,0.46,0.08,0.05,1,1/27/2023,Yellow River (WI) at Babcock,90.1225,GRB,Upper Mississippi Region,WI,obj,JFM
-BBOW3,43.470833,-89.759444,NCRFC,0.05,0.05,0.05,1,1/27/2023,Baraboo River at West Baraboo,89.759444,MKX,Upper Mississippi Region,WI,obj,JFM
-BCHW3,42.785556,-89.861111,NCRFC,0.10,0.05,0.05,1,1/27/2023,Pecatonica River near Blanchardville,89.861111,MKX,Upper Mississippi Region,WI,obj,JFM
-BCRM4,42.33143,-85.153603,NCRFC,0.05,0.05,0.05,1,1/27/2023,Battle Creek at Battle Creek,85.153603,GRR,Great Lakes Region,MI,obj,JFM
-BDGM4,43.347241,-85.939498,NCRFC,0.19,0.05,0.05,1,1/27/2023,Muskegon River at Bridgeton,85.939498,GRR,Great Lakes Region,MI,obj,JFM
-BDOW3,46.61022,-90.68713,NCRFC,0.05,0.05,0.05,1,1/27/2023,Bad River (WI) at Odanah,90.68713,DLH,Great Lakes Region,WI,obj,JFM
-BERW3,43.953889,-88.9525,NCRFC,0.05,0.05,0.05,1,1/27/2023,Fox River (North) at Berlin,88.9525,MKX,Great Lakes Region,WI,obj,JFM
-BESM4,46.511389,-90.074444,NCRFC,0.05,0.05,0.05,1,1/27/2023,Black River near Bessemer,90.074444,MQT,Great Lakes Region,MI,obj,JFM
-BLEW3,43.134167,-89.732222,NCRFC,0.05,0.05,0.05,1,1/27/2023,Black Earth Creek at Black Earth,89.732222,MKX,Upper Mississippi Region,WI,obj,JFM
-BLFI4,43.4069,-91.8989,NCRFC,0.05,0.05,0.05,1,1/27/2023,Upper Iowa River at Bluffton,91.8989,ARX,Upper Mississippi Region,IA,obj,JFM
-BLIM4,41.833333,-83.866667,NCRFC,0.15,0.05,0.05,1,1/27/2023,River Raisin at Blissfield,83.866667,DTX,Great Lakes Region,MI,obj,JFM
-BLVI4,42.27278,-90.42111,NCRFC,0.10,0.06,0.05,1,1/27/2023,Mississippi River at Bellevue,90.42111,DVN,Upper Mississippi Region,IA,obj,JFM
-BOIW3,42.49797,-89.0211,NCRFC,0.05,0.05,0.05,1,1/27/2023,Turtle Creek at Beloit,89.0211,MKX,Upper Mississippi Region,WI,obj,JFM
-BOLI2,41.718056,-88.070556,NCRFC,0.06,0.05,0.05,1,1/27/2023,East Branch Du Page River at Bolingbrook,88.070556,LOT,Upper Mississippi Region,IL,obj,JFM
-BRFW3,44.2936,-90.8464,NCRFC,0.38,0.21,0.05,1,1/27/2023,Black River (WI) at Black River Falls,90.8464,ARX,Upper Mississippi Region,WI,obj,JFM
-BRGW3,42.679722,-88.2712,NCRFC,0.17,0.05,0.05,1,1/27/2023,Fox River at Burlington,88.2712,MKX,Upper Mississippi Region,WI,obj,JFM
-BRLI4,40.798056,-91.091667,NCRFC,0.20,0.08,0.06,1,1/27/2023,Mississippi River at Burlington,91.091667,DVN,Upper Mississippi Region,IA,obj,JFM
-BROW3,42.612222,-89.398056,NCRFC,0.29,0.05,0.05,1,1/27/2023,Sugar River at Brodhead,89.398056,MKX,Upper Mississippi Region,WI,obj,JFM
-BSLM5,45.309167,-96.468056,NCRFC,0.05,0.05,0.05,1,1/27/2023,Minnesota River at Big Stone Lake,96.468056,ABR,Upper Mississippi Region,MN,obj,JFM
-BSSI4,41.219002,-92.908533,NCRFC,0.05,0.05,0.05,1,1/27/2023,Cedar Creek (South Central IA) near Bussey,92.908533,DMX,Upper Mississippi Region,IA,obj,JFM
-BTCM4,42.32393,-85.197493,NCRFC,0.05,0.05,0.05,1,1/27/2023,Kalamazoo River at Battle Creek,85.197493,GRR,Great Lakes Region,MI,obj,JFM
-BUCM4,42.902526,-85.762811,NCRFC,0.05,0.05,0.05,1,1/27/2023,Buck Creek at Wilson Avenue at Grandville,85.762811,GRR,Great Lakes Region,MI,obj,JFM
-BURM4,42.103101,-85.079976,NCRFC,0.12,0.05,0.05,1,1/27/2023,St. Joseph River (MI/IN) at Burlington,85.079976,GRR,Great Lakes Region,MI,obj,JFM
-BVDI2,42.256111,-88.863056,NCRFC,0.05,0.05,0.05,1,1/27/2023,Kishwaukee River at Belvidere,88.863056,LOT,Upper Mississippi Region,IL,obj,JFM
-BVTM4,43.879444,-84.473889,NCRFC,0.05,0.05,0.05,1,1/27/2023,Tobacco River at Beaverton,84.473889,APX,Great Lakes Region,MI,obj,JFM
-BYRI2,42.123056,-89.255833,NCRFC,0.08,0.05,0.05,1,1/27/2023,Rock River at Byron,89.255833,LOT,Upper Mississippi Region,IL,obj,JFM
-BYRM7,38.391667,-90.637778,NCRFC,0.34,0.15,0.05,1,1/27/2023,Big River at Byrnesville,90.637778,LSX,Upper Mississippi Region,MO,obj,JFM
-CAGM7,39.000833,-90.6875,NCRFC,0.18,0.05,0.05,1,1/27/2023,Mississippi River at Winfield Lock and Dam 25,90.6875,LSX,Upper Mississippi Region,MO,obj,JFM
-CANM7,40.142395,-91.515031,NCRFC,0.11,0.05,0.05,1,1/27/2023,Mississippi River at Canton Lock and Dam 20,91.515031,LSX,Upper Mississippi Region,MO,obj,JFM
-CCYI4,43.0622,-92.6739,NCRFC,0.05,0.05,0.05,1,1/27/2023,Cedar River at Charles City,92.6739,ARX,Upper Mississippi Region,IA,obj,JFM
-CDLI2,40.064781,-90.151816,NCRFC,0.39,0.10,0.05,1,1/27/2023,Sangamon River near Chandlerville,90.151816,ILX,Upper Mississippi Region,IL,obj,JFM
-CDRW3,43.323056,-87.978333,NCRFC,0.05,0.05,0.05,1,1/27/2023,Cedar Creek at Cedarburg,87.978333,MKX,Great Lakes Region,WI,obj,JFM
-CEBI4,41.787222,-91.31375,NCRFC,0.07,0.05,0.05,1,1/27/2023,Cedar River at Cedar Bluff,91.31375,DVN,Upper Mississippi Region,IA,obj,JFM
-CEDI4,42.537568,-92.443493,NCRFC,0.19,0.05,0.05,1,1/27/2023,Cedar River at Cedar Falls,92.443493,DMX,Upper Mississippi Region,IA,obj,JFM
-CEDW3,43.280278,-87.9425,NCRFC,0.12,0.05,0.05,1,1/27/2023,Milwaukee River near Cedarburg,87.9425,MKX,Great Lakes Region,WI,obj,JFM
-CFXI4,41.681378,-93.246594,NCRFC,0.05,0.05,0.05,1,1/27/2023,South Skunk River at Colfax,93.246594,DMX,Upper Mississippi Region,IA,obj,JFM
-CHBI2,41.008889,-87.823333,NCRFC,0.13,0.07,0.05,1,1/27/2023,Iroquois River near Chebanse,87.823333,LOT,Upper Mississippi Region,IL,obj,JFM
-CHSI2,37.900742,-89.830211,NCRFC,0.29,0.05,0.05,1,1/27/2023,Mississippi River at Chester,89.830211,LSX,Upper Mississippi Region,IL,obj,JFM
-CIDI4,41.971944,-91.666944,NCRFC,0.06,0.05,0.05,1,1/27/2023,Cedar River at Cedar Rapids,91.666944,DVN,Upper Mississippi Region,IA,obj,JFM
-CJTI4,41.278333,-91.345833,NCRFC,0.05,0.05,0.05,1,1/27/2023,Iowa River at Columbus Jct,91.345833,DVN,Upper Mississippi Region,IA,obj,JFM
-CLDM4,42.811143,-85.483352,NCRFC,0.05,0.05,0.05,1,1/27/2023,Thornapple River at Caledonia,85.483352,GRR,Great Lakes Region,MI,obj,JFM
-CLIW3,42.5974,-88.8289,NCRFC,0.05,0.05,0.05,1,1/27/2023,Turtle Creek near Clinton,88.8289,MKX,Upper Mississippi Region,WI,obj,JFM
-CLKM7,39.373333,-90.904722,NCRFC,0.31,0.05,0.05,1,1/27/2023,Mississippi River at Clarksville Lock and Dam 24,90.904722,LSX,Upper Mississippi Region,MO,obj,JFM
-CLMI2,40.330278,-90.896111,NCRFC,0.39,0.23,0.10,1,1/27/2023,La Moine River at Colmar,90.896111,DVN,Upper Mississippi Region,IL,obj,JFM
-CLXM5,47.611944,-96.814444,NCRFC,0.05,0.05,0.05,1,1/27/2023,Sandhill River at Climax,96.814444,FGF,Souris-Red-Rainy Region,MN,obj,JFM
-CMMI4,41.780556,-90.251944,NCRFC,0.10,0.07,0.05,1,1/27/2023,Mississippi River at Camanche,90.251944,DVN,Upper Mississippi Region,IA,obj,JFM
-CMOI2,41.772222,-89.74555,NCRFC,0.08,0.05,0.05,1,1/27/2023,Rock River at Como,89.74555,DVN,Upper Mississippi Region,IL,obj,JFM
-CMSM4,42.285597,-85.513893,NCRFC,0.05,0.05,0.05,1,1/27/2023,Kalamazoo River at Comstock,85.513893,GRR,Great Lakes Region,MI,obj,JFM
-CNEI4,41.409167,-91.290278,NCRFC,0.26,0.06,0.05,1,1/27/2023,Cedar River near Conesville,91.290278,DVN,Upper Mississippi Region,IA,obj,JFM
-CNGI2,40.623648,-89.241752,NCRFC,0.12,0.07,0.05,1,1/27/2023,Mackinaw River near Congerville,89.241752,ILX,Upper Mississippi Region,IL,obj,JFM
-COLI2,41.286194,-88.359861,NCRFC,0.08,0.05,0.05,1,1/27/2023,Mazon River near Coal City,88.359861,LOT,Upper Mississippi Region,IL,obj,JFM
-CPEI3,41.481813,-85.475192,NCRFC,0.41,0.11,0.05,1,1/27/2023,North Branch Elkhart River at Cosperville,85.475192,IWX,Great Lakes Region,IN,obj,JFM
-CRKM5,47.775556,-96.609167,NCRFC,0.06,0.05,0.05,1,1/27/2023,Red Lake River at Crookston,96.609167,FGF,Souris-Red-Rainy Region,MN,obj,JFM
-CROM4,43.434746,-85.665324,NCRFC,0.08,0.05,0.05,1,1/27/2023,Muskegon River near Croton Dam,85.665324,GRR,Great Lakes Region,MI,obj,JFM
-CRYM4,46.105833,-88.334722,NCRFC,0.05,0.05,0.05,1,1/27/2023,Paint River at Crystal Falls,88.334722,MQT,Great Lakes Region,MI,obj,JFM
-CSSM4,43.584167,-83.176111,NCRFC,0.05,0.05,0.05,1,1/27/2023,Cass River near Cass City,83.176111,DTX,Great Lakes Region,MI,obj,JFM
-DAKI4,42.723582,-94.193489,NCRFC,0.05,0.05,0.05,1,1/27/2023,East Fork Des Moines River at Dakota City,94.193489,DMX,Upper Mississippi Region,IA,obj,JFM
-DANW3,46.076111,-92.246667,NCRFC,0.05,0.05,0.05,1,1/27/2023,St. Croix River near Danbury,92.246667,DLH,Upper Mississippi Region,WI,obj,JFM
-DARW3,42.677778,-90.118611,NCRFC,0.05,0.05,0.05,1,1/27/2023,Pecatonica River at Darlington,90.118611,MKX,Upper Mississippi Region,WI,obj,JFM
-DAVI3,41.389722,-86.706111,NCRFC,0.16,0.05,0.05,1,1/27/2023,Kankakee River at Davis,86.706111,IWX,Upper Mississippi Region,IN,obj,JFM
-DAVM4,43.033611,-83.581389,NCRFC,0.08,0.05,0.05,1,1/27/2023,Kearsley Creek near Davison,83.581389,DTX,Great Lakes Region,MI,obj,JFM
-DAWM5,44.9294,-96.0517,NCRFC,0.05,0.05,0.05,1,1/27/2023,West Branch Lac Qui Parle River at Dawson,96.0517,MPX,Upper Mississippi Region,MN,obj,JFM
-DAYI2,41.384444,-88.789167,NCRFC,0.20,0.08,0.05,1,1/27/2023,Fox River at Dayton,88.789167,LOT,Upper Mississippi Region,IL,obj,JFM
-DBQI4,42.499444,-90.653056,NCRFC,0.17,0.12,0.05,1,1/27/2023,Mississippi River at Dubuque (Railroad Bridge),90.653056,DVN,Upper Mississippi Region,IA,obj,JFM
-DBRI3,41.22,-86.968333,NCRFC,0.16,0.05,0.05,1,1/27/2023,Kankakee River at Dunns Bridge,86.968333,LOT,Upper Mississippi Region,IN,obj,JFM
-DCHI4,43.4211,-91.5088,NCRFC,0.05,0.05,0.05,1,1/27/2023,Upper Iowa River at Dorchester,91.5088,ARX,Upper Mississippi Region,IA,obj,JFM
-DDGW3,44.1318,-91.553,NCRFC,0.05,0.05,0.05,1,1/27/2023,Trempealeau River at Dodge,91.553,ARX,Upper Mississippi Region,WI,obj,JFM
-DEHI4,43.3049,-91.7954,NCRFC,0.05,0.05,0.05,1,1/27/2023,Upper Iowa River at Decorah,91.7954,ARX,Upper Mississippi Region,IA,obj,JFM
-DEKI2,41.931111,-88.759722,NCRFC,0.05,0.05,0.05,1,1/27/2023,South Branch Kishwaukee River at De Kalb,88.759722,LOT,Upper Mississippi Region,IL,obj,JFM
-DELM5,45.041944,-93.789722,NCRFC,0.08,0.05,0.05,1,1/27/2023,South Fork Crow River at Delano,93.789722,MPX,Upper Mississippi Region,MN,obj,JFM
-DEMI4,41.58236,-93.641811,NCRFC,0.09,0.05,0.05,1,1/27/2023,Raccoon River (Central IA) at Des Moines Fleur Dr,93.641811,DMX,Upper Mississippi Region,IA,obj,JFM
-DESI4,41.577767,-93.605495,NCRFC,0.05,0.05,0.05,1,1/27/2023,Des Moines River at Des Moines SE 6th St,93.605495,DMX,Upper Mississippi Region,IA,obj,JFM
-DESN8,48.370556,-101.569722,NCRFC,0.05,0.05,0.05,1,1/27/2023,Des Lacs River at Foxholm,101.569722,BIS,Souris-Red-Rainy Region,ND,obj,JFM
-DETM4,42.372222,-83.255556,NCRFC,0.21,0.05,0.05,1,1/27/2023,Rouge River at Detroit,83.255556,DTX,Great Lakes Region,MI,obj,JFM
-DEWI4,41.766944,-90.534722,NCRFC,0.39,0.32,0.13,1,1/27/2023,Wapsipinicon River near DeWitt,90.534722,DVN,Upper Mississippi Region,IA,obj,JFM
-DEXM4,42.3,-83.898611,NCRFC,0.05,0.05,0.05,1,1/27/2023,Mill Creek near Dexter,83.898611,DTX,Great Lakes Region,MI,obj,JFM
-DILM5,46.961111,-96.661111,NCRFC,0.40,0.05,0.05,1,1/27/2023,Buffalo River (MN) near Dilworth,96.661111,FGF,Souris-Red-Rainy Region,MN,obj,JFM
-DLDI4,42.538611,-90.646389,NCRFC,0.12,0.11,0.05,1,1/27/2023,Mississippi River at Dubuque (LD11),90.646389,DVN,Upper Mississippi Region,IA,obj,JFM
-DLRM4,42.308333,-83.252778,NCRFC,0.05,0.05,0.05,1,1/27/2023,Lower Rouge at DEARBORN,83.252778,DTX,Great Lakes Region,MI,obj,JFM
-DMDM4,42.645,-84.65,NCRFC,0.05,0.05,0.05,1,1/27/2023,Grand River at Dimondale,84.65,GRR,Great Lakes Region,MI,obj,JFM
-DMOI4,41.612291,-93.619945,NCRFC,0.05,0.05,0.05,1,1/27/2023,Des Moines River at Des Moines 2nd Ave,93.619945,DMX,Upper Mississippi Region,IA,obj,JFM
-DMWI4,41.561899,-93.703274,NCRFC,0.05,0.05,0.05,1,1/27/2023,Raccoon River (Central IA) at Des Moines IA 28,93.703274,DMX,Upper Mississippi Region,IA,obj,JFM
-DNDM4,41.956111,-83.658611,NCRFC,0.11,0.07,0.05,1,1/27/2023,River Raisin at Dundee,83.658611,DTX,Great Lakes Region,MI,obj,JFM
-DRCM7,38.803042,-90.628483,NCRFC,0.15,0.08,0.05,1,1/27/2023,Dardenne Creek at St. Peters,90.628483,LSX,Upper Mississippi Region,MO,obj,JFM
-DRTN8,48.572222,-97.147222,NCRFC,0.13,0.05,0.05,1,1/27/2023,Red River of the North at Drayton,97.147222,FGF,Souris-Red-Rainy Region,ND,obj,JFM
-DSPI2,42.087222,-87.887222,NCRFC,0.12,0.05,0.05,1,1/27/2023,Des Plaines River near Des Plaines,87.887222,LOT,Upper Mississippi Region,IL,obj,JFM
-DURW3,44.6309,-91.9713,NCRFC,0.42,0.15,0.09,1,1/27/2023,Chippewa River (WI) at Durand,91.9713,MPX,Upper Mississippi Region,WI,obj,JFM
-DXRI2,41.844167,-89.485833,NCRFC,0.05,0.05,0.05,1,1/27/2023,Rock River at Dixon,89.485833,LOT,Upper Mississippi Region,IL,obj,JFM
-EADM7,38.628889,-90.179722,NCRFC,0.06,0.05,0.05,1,1/27/2023,Mississippi River at St. Louis,90.179722,LSX,Upper Mississippi Region,MO,obj,JFM
-EAGM4,42.82809,-84.759434,NCRFC,0.17,0.05,0.05,1,1/27/2023,Looking Glass River near Eagle,84.759434,GRR,Great Lakes Region,MI,obj,JFM
-ECLW3,44.8097,-91.5029,NCRFC,0.20,0.11,0.05,1,1/27/2023,Chippewa River (WI) at Eau Claire,91.5029,MPX,Upper Mississippi Region,WI,obj,JFM
-EDYI4,41.151024,-92.635977,NCRFC,0.05,0.05,0.05,1,1/27/2023,Des Moines River near Eddyville,92.635977,DMX,Upper Mississippi Region,IA,obj,JFM
-EFWI4,41.988039,-94.376913,NCRFC,0.05,0.05,0.05,1,1/27/2023,North Raccoon River (IA) near Jefferson,94.376913,DMX,Upper Mississippi Region,IA,obj,JFM
-EGFM5,47.926944,-97.028889,NCRFC,0.26,0.05,0.05,1,1/27/2023,Red River of the North at Grand Forks,97.028889,FGF,Souris-Red-Rainy Region,MN,obj,JFM
-EKDI4,42.8435,-91.4011,NCRFC,0.12,0.05,0.05,1,1/27/2023,Turkey River at Elkader,91.4011,ARX,Upper Mississippi Region,IA,obj,JFM
-EKMI3,41.691794,-85.975476,NCRFC,0.14,0.07,0.05,1,1/27/2023,St. Joseph River (MI/IN) at Elkhart,85.975476,IWX,Great Lakes Region,IN,obj,JFM
-ELNM4,42.727257,-84.478032,NCRFC,0.10,0.05,0.05,1,1/27/2023,Red Cedar River at East Lansing,84.478032,GRR,Great Lakes Region,MI,obj,JFM
-EMTI4,43.126075,-94.706092,NCRFC,0.05,0.05,0.05,1,1/27/2023,West Fork Des Moines River at Emmetsburg,94.706092,DMX,Upper Mississippi Region,IA,obj,JFM
-ENDN8,46.621667,-97.573611,NCRFC,0.24,0.05,0.05,1,1/27/2023,Maple River (ND) near Enderlin,97.573611,FGF,Souris-Red-Rainy Region,ND,obj,JFM
-EOKI4,40.3975,-91.374167,NCRFC,0.06,0.05,0.05,1,1/27/2023,Mississippi River at Keokuk,91.374167,DVN,Upper Mississippi Region,IA,obj,JFM
-ERKM7,38.504734,-90.590872,NCRFC,0.30,0.09,0.05,1,1/27/2023,Meramec River near Eureka,90.590872,LSX,Upper Mississippi Region,MO,obj,JFM
-ESVI4,43.399142,-94.845971,NCRFC,0.05,0.05,0.05,1,1/27/2023,West Fork Des Moines River at Estherville,94.845971,DMX,Upper Mississippi Region,IA,obj,JFM
-ETNM4,42.50942,-84.65518,NCRFC,0.05,0.05,0.05,1,1/27/2023,Grand River at Eaton Rapids,84.65518,GRR,Great Lakes Region,MI,obj,JFM
-EVRM4,43.899186,-85.255319,NCRFC,0.05,0.05,0.05,1,1/27/2023,Muskegon River at Evart,85.255319,GRR,Great Lakes Region,MI,obj,JFM
-EWMM7,40.028889,-91.705556,NCRFC,0.27,0.05,0.05,1,1/27/2023,Middle Fabius River near Ewing,91.705556,LSX,Upper Mississippi Region,MO,obj,JFM
-EWNM7,40.018889,-91.621944,NCRFC,0.39,0.05,0.05,1,1/27/2023,North Fabius River near Ewing,91.621944,LSX,Upper Mississippi Region,MO,obj,JFM
-FATW3,42.9278,-88.8425,NCRFC,0.05,0.05,0.05,1,1/27/2023,Rock River at Fort Atkinson,88.8425,MKX,Upper Mississippi Region,WI,obj,JFM
-FEEI2,42.300278,-89.615278,NCRFC,0.12,0.05,0.05,1,1/27/2023,Pecatonica River at Freeport,89.615278,DVN,Upper Mississippi Region,IL,obj,JFM
-FLCW3,44.809722,-91.281667,NCRFC,0.27,0.08,0.05,1,1/27/2023,Eau Claire River near Fall Creek,91.281667,MPX,Upper Mississippi Region,WI,obj,JFM
-FLOW3,45.951389,-88.189167,NCRFC,0.05,0.05,0.05,1,1/27/2023,Menominee River near Florence,88.189167,GRB,Great Lakes Region,WI,obj,JFM
-FLTI2,41.894444,-90.156667,NCRFC,0.12,0.07,0.05,1,1/27/2023,Mississippi River at Fulton,90.156667,DVN,Upper Mississippi Region,IL,obj,JFM
-FLTM4,43.038889,-83.771667,NCRFC,0.05,0.05,0.05,1,1/27/2023,Flint River at Flint,83.771667,DTX,Great Lakes Region,MI,obj,JFM
-FNHI4,42.629426,-92.543522,NCRFC,0.05,0.05,0.05,1,1/27/2023,West Fork Cedar River at Finchford,92.543522,DMX,Upper Mississippi Region,IA,obj,JFM
-FNNM7,38.512222,-90.431389,NCRFC,0.21,0.07,0.06,1,1/27/2023,Meramec River at Fenton,90.431389,LSX,Upper Mississippi Region,MO,obj,JFM
-FODI4,42.508303,-94.203573,NCRFC,0.05,0.05,0.05,1,1/27/2023,Des Moines River at Fort Dodge,94.203573,DMX,Upper Mississippi Region,IA,obj,JFM
-FOXN8,48.372222,-101.505,NCRFC,0.05,0.05,0.05,1,1/27/2023,Souris River near Foxholm,101.505,BIS,Souris-Red-Rainy Region,ND,obj,JFM
-FRKW3,42.873611,-87.995833,NCRFC,0.06,0.05,0.05,1,1/27/2023,Root River at Franklin,87.995833,MKX,Great Lakes Region,WI,obj,JFM
-FRNM4,43.327778,-83.748056,NCRFC,0.13,0.05,0.05,1,1/27/2023,Cass River at Frankenmuth,83.748056,DTX,Great Lakes Region,MI,obj,JFM
-FSMI3,40.870556,-87.306667,NCRFC,0.27,0.05,0.05,1,1/27/2023,Iroquois River near Foresman,87.306667,LOT,Upper Mississippi Region,IN,obj,JFM
-FSRM4,42.577222,-82.951389,NCRFC,0.15,0.07,0.05,1,1/27/2023,Clinton River near Clinton Township,82.951389,DTX,Great Lakes Region,MI,obj,JFM
-FTRM5,46.180556,-94.365556,NCRFC,0.05,0.05,0.05,1,1/27/2023,Mississippi River at Fort Ripley,94.365556,DLH,Upper Mississippi Region,MN,obj,JFM
-GACM4,42.348611,-83.3125,NCRFC,0.07,0.05,0.05,1,1/27/2023,Middle Rouge at Dearborn Heights,83.3125,DTX,Great Lakes Region,MI,obj,JFM
-GALW3,44.0603,-91.2872,NCRFC,0.33,0.20,0.05,1,1/27/2023,Black River (WI) at Galesville,91.2872,ARX,Upper Mississippi Region,WI,obj,JFM
-GDLM4,42.75556,-84.74636,NCRFC,0.05,0.05,0.05,1,1/27/2023,Grand River at Grand Ledge,84.74636,GRR,Great Lakes Region,MI,obj,JFM
-GDRM4,42.963082,-85.677253,NCRFC,0.06,0.05,0.05,1,1/27/2023,Grand River at Grand Rapids,85.677253,GRR,Great Lakes Region,MI,obj,JFM
-GENI2,41.488889,-90.1575,NCRFC,0.11,0.05,0.05,1,1/27/2023,Green River (IL) near Geneseo,90.1575,DVN,Upper Mississippi Region,IL,obj,JFM
-GENW3,43.5766,-91.2316,NCRFC,0.18,0.05,0.05,1,1/27/2023,Mississippi River at Genoa,91.2316,ARX,Upper Mississippi Region,WI,obj,JFM
-GGYM7,40.279269,-91.495936,NCRFC,0.21,0.05,0.05,1,1/27/2023,Mississippi River at Gregory Landing,91.495936,DVN,Upper Mississippi Region,MO,obj,JFM
-GLDI2,40.881389,-91.0225,NCRFC,0.21,0.08,0.05,1,1/27/2023,Mississippi River at Gladstone,91.0225,DVN,Upper Mississippi Region,IL,obj,JFM
-GMIW3,43.3192,-90.8514,NCRFC,0.16,0.05,0.05,1,1/27/2023,Kickapoo River at Gays Mills,90.8514,ARX,Upper Mississippi Region,WI,obj,JFM
-GNNM4,46.277778,-87.436111,NCRFC,0.05,0.05,0.05,1,1/27/2023,Escanaba River at Gwinn,87.436111,MQT,Great Lakes Region,MI,obj,JFM
-GRBI4,42.74,-91.2617,NCRFC,0.14,0.08,0.05,1,1/27/2023,Turkey River at Garber,91.2617,ARX,Upper Mississippi Region,IA,obj,JFM
-GREI2,40.13199,-89.735664,NCRFC,0.06,0.05,0.05,1,1/27/2023,Salt Creek (IL) near Greenview,89.735664,ILX,Upper Mississippi Region,IL,obj,JFM
-GRFI2,38.968056,-90.428889,NCRFC,0.05,0.05,0.05,1,1/27/2023,Mississippi River at Grafton,90.428889,LSX,Upper Mississippi Region,IL,obj,JFM
-GRMI4,41.688322,-93.7355,NCRFC,0.05,0.05,0.05,1,1/27/2023,Beaver Creek (Central IA) near Grimes,93.7355,DMX,Upper Mississippi Region,IA,obj,JFM
-GRNN8,48.424722,-97.411667,NCRFC,0.05,0.05,0.05,1,1/27/2023,Park River at Grafton,97.411667,FGF,Souris-Red-Rainy Region,ND,obj,JFM
-GSHI3,41.5932,-85.8485,NCRFC,0.10,0.05,0.05,1,1/27/2023,Elkhart River at Goshen,85.8485,IWX,Great Lakes Region,IN,obj,JFM
-GTEM5,44.8056,-95.5442,NCRFC,0.05,0.05,0.05,1,1/27/2023,Minnesota River at Granite Falls,95.5442,MPX,Upper Mississippi Region,MN,obj,JFM
-GTTI4,42.785,-91.095,NCRFC,0.14,0.05,0.05,1,1/27/2023,Mississippi River at Guttenberg,91.095,ARX,Upper Mississippi Region,IA,obj,JFM
-GUNI2,42.343889,-87.941111,NCRFC,0.17,0.05,0.05,1,1/27/2023,Des Plaines River near Gurnee,87.941111,LOT,Upper Mississippi Region,IL,obj,JFM
-HBTI4,42.719712,-94.220213,NCRFC,0.05,0.05,0.05,1,1/27/2023,West Fork Des Moines River at Humboldt,94.220213,DMX,Upper Mississippi Region,IA,obj,JFM
-HDDI3,41.507778,-87.51,NCRFC,0.05,0.05,0.05,1,1/27/2023,Hart Ditch at Dyer,87.51,LOT,Upper Mississippi Region,IN,obj,JFM
-HENM5,44.529444,-93.900556,NCRFC,0.05,0.05,0.05,1,1/27/2023,Minnesota River at Henderson,93.900556,MPX,Upper Mississippi Region,MN,obj,JFM
-HGRN8,47.409444,-97.060833,NCRFC,0.06,0.05,0.05,1,1/27/2023,Goose River at Hillsboro,97.060833,FGF,Souris-Red-Rainy Region,ND,obj,JFM
-HHTM4,42.640313,-84.482753,NCRFC,0.22,0.05,0.05,1,1/27/2023,Sycamore Creek near Holt,84.482753,GRR,Great Lakes Region,MI,obj,JFM
-HICN8,46.659722,-96.795556,NCRFC,0.05,0.05,0.05,1,1/27/2023,Red River of the North at Hickson,96.795556,FGF,Souris-Red-Rainy Region,ND,obj,JFM
-HIGM5,48.048611,-95.808333,NCRFC,0.05,0.05,0.05,1,1/27/2023,Red Lake River at High Landing near Goodridge,95.808333,FGF,Souris-Red-Rainy Region,MN,obj,JFM
-HILN8,47.351944,-96.843333,NCRFC,0.06,0.05,0.05,1,1/27/2023,Red River of the North at Halstad,96.843333,FGF,Souris-Red-Rainy Region,ND,obj,JFM
-HLLM5,48.775556,-96.9375,NCRFC,0.16,0.05,0.05,1,1/27/2023,Two Rivers River at Hallock,96.9375,FGF,Souris-Red-Rainy Region,MN,obj,JFM
-HMGM4,42.465278,-83.8,NCRFC,0.13,0.08,0.05,1,1/27/2023,Huron River at Hamburg,83.8,DTX,Great Lakes Region,MI,obj,JFM
-HNDM5,47.268056,-96.797222,NCRFC,0.20,0.05,0.05,1,1/27/2023,Wild Rice River (MN) at Hendrum,96.797222,FGF,Souris-Red-Rainy Region,MN,obj,JFM
-HNNM7,39.7207,-91.362389,NCRFC,0.11,0.05,0.05,1,1/27/2023,Mississippi River at Hannibal,91.362389,LSX,Upper Mississippi Region,MO,obj,JFM
-HNYI2,41.107222,-89.356111,NCRFC,0.32,0.28,0.05,1,1/27/2023,Illinois River near Henry,89.356111,ILX,Upper Mississippi Region,IL,obj,JFM
-HOUM5,43.7686,-91.5697,NCRFC,0.05,0.05,0.05,1,1/27/2023,Root River (MN) at Houston,91.5697,ARX,Upper Mississippi Region,MN,obj,JFM
-HRVM4,46.489167,-87.331111,NCRFC,0.05,0.05,0.05,1,1/27/2023,Chocolay River near Harvey,87.331111,MQT,Great Lakes Region,MI,obj,JFM
-HSTM4,42.615869,-85.236393,NCRFC,0.24,0.05,0.05,1,1/27/2023,Thornapple River at Hastings,85.236393,GRR,Great Lakes Region,MI,obj,JFM
-HSTM5,44.756944,-92.866111,NCRFC,0.10,0.05,0.05,1,1/27/2023,Mississippi River at Hastings - Lock and Dam 2 Tailwater,92.866111,MPX,Upper Mississippi Region,MN,obj,JFM
-HUDI4,42.407764,-92.463245,NCRFC,0.19,0.11,0.05,1,1/27/2023,Black Hawk Creek (Northeast IA) at Hudson,92.463245,DMX,Upper Mississippi Region,IA,obj,JFM
-HUMM4,46.499167,-87.886389,NCRFC,0.05,0.05,0.05,1,1/27/2023,Middle Branch Escanaba River at Humboldt,87.886389,MQT,Great Lakes Region,MI,obj,JFM
-HWDN8,46.9775,-96.891389,NCRFC,0.07,0.05,0.05,1,1/27/2023,Sheyenne River at Harwood,96.891389,FGF,Souris-Red-Rainy Region,ND,obj,JFM
-HWYM5,46.85,-96.329167,NCRFC,0.05,0.05,0.05,1,1/27/2023,Buffalo River (MN) near Hawley,96.329167,FGF,Souris-Red-Rainy Region,MN,obj,JFM
-IDNI4,41.424167,-93.587222,NCRFC,0.05,0.05,0.05,1,1/27/2023,Middle River (Central IA) near Indianola,93.587222,DMX,Upper Mississippi Region,IA,obj,JFM
-IDPI4,42.463611,-91.895,NCRFC,0.05,0.05,0.05,1,1/27/2023,Wapsipinicon River at Independence,91.895,DVN,Upper Mississippi Region,IA,obj,JFM
-ILNI2,41.425556,-91.012778,NCRFC,0.12,0.09,0.06,1,1/27/2023,Mississippi River at Illinois City,91.012778,DVN,Upper Mississippi Region,IL,obj,JFM
-IONM4,42.971977,-85.069172,NCRFC,0.05,0.05,0.05,1,1/27/2023,Grand River at Ionia,85.069172,GRR,Great Lakes Region,MI,obj,JFM
-IOWI4,41.656683,-91.541002,NCRFC,0.05,0.05,0.05,1,1/27/2023,Iowa River at Iowa City,91.541002,DVN,Upper Mississippi Region,IA,obj,JFM
-JACM4,42.283647,-84.408848,NCRFC,0.26,0.06,0.05,1,1/27/2023,Grand River at Jackson,84.408848,GRR,Great Lakes Region,MI,obj,JFM
-JANI4,42.648316,-92.465186,NCRFC,0.05,0.05,0.05,1,1/27/2023,Cedar River at Janesville,92.465186,DMX,Upper Mississippi Region,IA,obj,JFM
-JCKM5,43.620792,-94.98513,NCRFC,0.05,0.05,0.05,1,1/27/2023,West Fork Des Moines River at Jackson,94.98513,FSD,Upper Mississippi Region,MN,obj,JFM
-JDNM5,44.693,-93.6419,NCRFC,0.05,0.05,0.05,1,1/27/2023,Minnesota River at Jordan,93.6419,MPX,Upper Mississippi Region,MN,obj,JFM
-JFFW3,42.996111,-88.806944,NCRFC,0.13,0.07,0.05,1,1/27/2023,Rock River at Jefferson,88.806944,MKX,Upper Mississippi Region,WI,obj,JFM
-JOSI2,41.556111,-90.185278,NCRFC,0.46,0.16,0.05,1,1/27/2023,Rock River near Joslin,90.185278,DVN,Upper Mississippi Region,IL,obj,JFM
-KALI4,41.469739,-91.714613,NCRFC,0.19,0.10,0.05,1,1/27/2023,English River at Kalona,91.714613,DVN,Upper Mississippi Region,IA,obj,JFM
-KEQI4,40.727778,-91.959444,NCRFC,0.05,0.05,0.05,1,1/27/2023,Des Moines River at Keosauqua,91.959444,DVN,Upper Mississippi Region,IA,obj,JFM
-KHBI2,41.106111,-90.959444,NCRFC,0.23,0.10,0.06,1,1/27/2023,Mississippi River at Keithsburg,90.959444,DVN,Upper Mississippi Region,IL,obj,JFM
-KLSN8,48.138333,-100.539444,NCRFC,0.05,0.05,0.05,1,1/27/2023,Wintering River below Karlsruhe,100.539444,BIS,Souris-Red-Rainy Region,ND,obj,JFM
-KNDN8,46.631667,-97.000278,NCRFC,0.09,0.05,0.05,1,1/27/2023,Sheyenne River near Kindred,97.000278,FGF,Souris-Red-Rainy Region,ND,obj,JFM
-KNXI3,41.302778,-86.620556,NCRFC,0.05,0.05,0.05,1,1/27/2023,Yellow River at Knox,86.620556,IWX,Upper Mississippi Region,IN,obj,JFM
-LACW3,43.8136,-91.2589,NCRFC,0.15,0.09,0.05,1,1/27/2023,Mississippi River at La Crosse,91.2589,ARX,Upper Mississippi Region,WI,obj,JFM
-LAFW3,43.5742,-90.6431,NCRFC,0.05,0.05,0.05,1,1/27/2023,Kickapoo River at La Farge,90.6431,ARX,Upper Mississippi Region,WI,obj,JFM
-LANM5,43.7464,-92.9583,NCRFC,0.05,0.05,0.05,1,1/27/2023,Cedar River at Lansing,92.9583,ARX,Upper Mississippi Region,MN,obj,JFM
-LATI2,42.368633,-89.057261,NCRFC,0.18,0.05,0.05,1,1/27/2023,Rock River at Latham Park,89.057261,LOT,Upper Mississippi Region,IL,obj,JFM
-LBNN8,46.446944,-97.678889,NCRFC,0.05,0.05,0.05,1,1/27/2023,Sheyenne River at Lisbon,97.678889,FGF,Souris-Red-Rainy Region,ND,obj,JFM
-LCMI3,41.5775,-87.522222,NCRFC,0.26,0.09,0.06,1,1/27/2023,Little Calumet River at Munster,87.522222,LOT,Upper Mississippi Region,IN,obj,JFM
-LCRM5,43.8667,-91.3083,NCRFC,0.12,0.05,0.05,1,1/27/2023,Mississippi River at La Crescent,91.3083,ARX,Upper Mississippi Region,MN,obj,JFM
-LDRI2,42.200556,-87.918056,NCRFC,0.06,0.05,0.05,1,1/27/2023,Des Plaines River at Lincolnshire,87.918056,LOT,Upper Mississippi Region,IL,obj,JFM
-LECI4,41.574444,-90.403056,NCRFC,0.10,0.08,0.05,1,1/27/2023,Mississippi River at LeClaire,90.403056,DVN,Upper Mississippi Region,IA,obj,JFM
-LEMI2,41.672222,-88.029444,NCRFC,0.24,0.05,0.05,1,1/27/2023,Des Plaines River near Lemont,88.029444,LOT,Upper Mississippi Region,IL,obj,JFM
-LGLW3,45.19,-88.733333,NCRFC,0.05,0.05,0.05,1,1/27/2023,Wolf River (WI) at Langlade,88.733333,GRB,Great Lakes Region,WI,obj,JFM
-LGNN8,48.153056,-101.153333,NCRFC,0.05,0.05,0.05,1,1/27/2023,Souris River at Logan,101.153333,BIS,Souris-Red-Rainy Region,ND,obj,JFM
-LGPM5,45.975,-94.8659,NCRFC,0.05,0.05,0.05,1,1/27/2023,Long Prairie River at Long Prairie,94.8659,MPX,Upper Mississippi Region,MN,obj,JFM
-LGRM7,40.039715,-91.497402,NCRFC,0.06,0.05,0.05,1,1/27/2023,Mississippi River at LaGrange,91.497402,LSX,Upper Mississippi Region,MO,obj,JFM
-LKCM5,44.4667,-92.2639,NCRFC,0.11,0.05,0.05,1,1/27/2023,Mississippi River at Lake City,92.2639,ARX,Upper Mississippi Region,MN,obj,JFM
-LNMI2,40.707778,-90.28,NCRFC,0.36,0.05,0.05,1,1/27/2023,Spoon River (W-IL) at London Mills,90.28,ILX,Upper Mississippi Region,IL,obj,JFM
-LNRI2,41.208333,-88.930833,NCRFC,0.15,0.05,0.05,1,1/27/2023,Vermilion River (N-IL) near Leonore,88.930833,LOT,Upper Mississippi Region,IL,obj,JFM
-LNSI4,43.3603,-91.2131,NCRFC,0.05,0.05,0.05,1,1/27/2023,Mississippi River at Lansing,91.2131,ARX,Upper Mississippi Region,IA,obj,JFM
-LNSM4,42.75059,-84.555257,NCRFC,0.05,0.05,0.05,1,1/27/2023,Grand River at Lansing,84.555257,GRR,Great Lakes Region,MI,obj,JFM
-LNSM5,43.7219,-91.9786,NCRFC,0.05,0.05,0.05,1,1/27/2023,South Branch Root River at Lanesboro,91.9786,ARX,Upper Mississippi Region,MN,obj,JFM
-LNTI4,41.423778,-91.478528,NCRFC,0.06,0.05,0.05,1,1/27/2023,Iowa River near Lone Tree (Tri-County Bridge),91.478528,DVN,Upper Mississippi Region,IA,obj,JFM
-LUSM7,39.4525,-91.046667,NCRFC,0.31,0.05,0.05,1,1/27/2023,Mississippi River at Louisiana,91.046667,LSX,Upper Mississippi Region,MO,obj,JFM
-LWLM4,42.92514,-85.3429,NCRFC,0.05,0.05,0.05,1,1/27/2023,Grand River at Lowell,85.3429,GRR,Great Lakes Region,MI,obj,JFM
-LYNW3,43.2116,-91.095,NCRFC,0.07,0.05,0.05,1,1/27/2023,Mississippi River at Lynxville,91.095,ARX,Upper Mississippi Region,WI,obj,JFM
-MAQI4,42.083353,-90.632912,NCRFC,0.05,0.05,0.05,1,1/27/2023,Maquoketa River near Maquoketa,90.632912,DVN,Upper Mississippi Region,IA,obj,JFM
-MARM4,42.264764,-84.96387,NCRFC,0.05,0.05,0.05,1,1/27/2023,Kalamazoo River at Marshall,84.96387,GRR,Great Lakes Region,MI,obj,JFM
-MAYM5,44.9055,-93.8855,NCRFC,0.10,0.05,0.05,1,1/27/2023,South Fork Crow River near Mayer,93.8855,MPX,Upper Mississippi Region,MN,obj,JFM
-MCAM5,45.866,-93.6906,NCRFC,0.05,0.05,0.05,1,1/27/2023,Rum River near Milaca 8NNE,93.6906,MPX,Upper Mississippi Region,MN,obj,JFM
-MCAW3,45.325833,-87.663333,NCRFC,0.07,0.05,0.05,1,1/27/2023,Menominee River near McAllister,87.663333,GRB,Great Lakes Region,WI,obj,JFM
-MCGI4,43.027,-91.1722,NCRFC,0.16,0.07,0.05,1,1/27/2023,Mississippi River at McGregor,91.1722,ARX,Upper Mississippi Region,IA,obj,JFM
-MCHI4,42.469988,-91.448715,NCRFC,0.07,0.05,0.05,1,1/27/2023,Maquoketa River at Manchester Hwy 20,91.448715,DVN,Upper Mississippi Region,IA,obj,JFM
-MCLM4,42.629167,-82.890278,NCRFC,0.05,0.05,0.05,1,1/27/2023,N. Br. Clinton River near Mount Clemens,82.890278,DTX,Great Lakes Region,MI,obj,JFM
-MCWI4,43.164962,-93.192703,NCRFC,0.14,0.05,0.05,1,1/27/2023,Winnebago River (Northern IA) at Mason City,93.192703,DMX,Upper Mississippi Region,IA,obj,JFM
-MIDM4,43.595278,-84.235556,NCRFC,0.08,0.07,0.05,1,1/27/2023,Tittabawassee River at Midland,84.235556,DTX,Great Lakes Region,MI,obj,JFM
-MILI2,40.63,-87.723889,NCRFC,0.35,0.07,0.05,1,1/27/2023,Sugar Creek  (E-IL) at Milford,87.723889,LOT,Upper Mississippi Region,IL,obj,JFM
-MILW3,43.1,-88.849444,NCRFC,0.15,0.05,0.05,1,1/27/2023,Crawfish River at Milford,88.849444,MKX,Upper Mississippi Region,WI,obj,JFM
-MINN8,48.245833,-101.370833,NCRFC,0.05,0.05,0.05,1,1/27/2023,Souris River at Minot 4NW,101.370833,BIS,Souris-Red-Rainy Region,ND,obj,JFM
-MION8,48.238056,-101.295833,NCRFC,0.05,0.05,0.05,1,1/27/2023,Souris River at Minot-Broadway Bridge,101.295833,BIS,Souris-Red-Rainy Region,ND,obj,JFM
-MIWI4,42.065821,-92.9077,NCRFC,0.05,0.05,0.05,1,1/27/2023,Iowa River at Marshalltown,92.9077,DMX,Upper Mississippi Region,IA,obj,JFM
-MKLM5,48.209722,-96.718056,NCRFC,0.05,0.05,0.05,1,1/27/2023,Snake River (NW MN) above Warren,96.718056,FGF,Souris-Red-Rainy Region,MN,obj,JFM
-MLII2,41.4625,-90.5,NCRFC,0.43,0.17,0.07,1,1/27/2023,Rock River at Moline,90.5,DVN,Upper Mississippi Region,IL,obj,JFM
-MNGI2,41.73355,-88.333336,NCRFC,0.09,0.05,0.05,1,1/27/2023,Fox River at Montgomery,88.333336,LOT,Upper Mississippi Region,IL,obj,JFM
-MNKM5,44.168889,-94.003056,NCRFC,0.05,0.05,0.05,1,1/27/2023,Minnesota River at Mankato,94.003056,MPX,Upper Mississippi Region,MN,obj,JFM
-MOAM5,45.8639,-93.2968,NCRFC,0.11,0.05,0.05,1,1/27/2023,Snake River (MN) at Mora,93.2968,MPX,Upper Mississippi Region,MN,obj,JFM
-MOMI2,41.16,-87.668611,NCRFC,0.11,0.05,0.05,1,1/27/2023,Kankakee River at Momence,87.668611,LOT,Upper Mississippi Region,IL,obj,JFM
-MONM4,41.913333,-83.385,NCRFC,0.16,0.05,0.05,1,1/27/2023,River Raisin at Monroe City,83.385,DTX,Great Lakes Region,MI,obj,JFM
-MORI2,41.354583,-88.4285,NCRFC,0.20,0.11,0.06,1,1/27/2023,Illinois River at Morris,88.4285,LOT,Upper Mississippi Region,IL,obj,JFM
-MORM4,43.502529,-85.342536,NCRFC,0.05,0.05,0.05,1,1/27/2023,Little Muskegon River at Morley,85.342536,GRR,Great Lakes Region,MI,obj,JFM
-MOTM4,41.8009,-85.7561,NCRFC,0.09,0.05,0.05,1,1/27/2023,St. Joseph River (MI/IN) at Mottville,85.7561,IWX,Great Lakes Region,MI,obj,JFM
-MPLN8,46.866111,-97.106111,NCRFC,0.22,0.05,0.05,1,1/27/2023,Maple River (ND) near Mapleton (South of I-94),97.106111,FGF,Souris-Red-Rainy Region,ND,obj,JFM
-MPRM4,43.564444,-84.369167,NCRFC,0.05,0.05,0.05,1,1/27/2023,Pine River near Midland,84.369167,DTX,Great Lakes Region,MI,obj,JFM
-MPTM4,43.62614,-84.70779,NCRFC,0.05,0.05,0.05,1,1/27/2023,Chippewa River below Mt. Pleasant,84.70779,GRR,Great Lakes Region,MI,obj,JFM
-MROI4,41.812726,-92.064792,NCRFC,0.25,0.11,0.05,1,1/27/2023,Iowa River at Marengo,92.064792,DVN,Upper Mississippi Region,IA,obj,JFM
-MRPM4,43.109755,-84.693052,NCRFC,0.50,0.05,0.05,1,1/27/2023,Maple River at Maple Rapids,84.693052,GRR,Great Lakes Region,MI,obj,JFM
-MSCM5,44.1616,-91.8116,NCRFC,0.11,0.05,0.05,1,1/27/2023,Mississippi River at Minnesota City,91.8116,ARX,Upper Mississippi Region,MN,obj,JFM
-MSHM5,44.430278,-95.829444,NCRFC,0.05,0.05,0.05,1,1/27/2023,Redwood River at Marshall,95.829444,FSD,Upper Mississippi Region,MN,obj,JFM
-MSPM5,45.0433,-93.2794,NCRFC,0.05,0.05,0.05,1,1/27/2023,Mississippi River at Fridley abv 37th Ave NE,93.2794,MPX,Upper Mississippi Region,MN,obj,JFM
-MTCM4,42.595833,-82.909722,NCRFC,0.05,0.05,0.05,1,1/27/2023,Clinton River at Mount Clemens,82.909722,DTX,Great Lakes Region,MI,obj,JFM
-MTNM5,44.5461,-94.9961,NCRFC,0.14,0.05,0.05,1,1/27/2023,Minnesota River near Morton,94.9961,MPX,Upper Mississippi Region,MN,obj,JFM
-MTNW3,42.510556,-89.801111,NCRFC,0.16,0.05,0.05,1,1/27/2023,Pecatonica River at Martintown,89.801111,MKX,Upper Mississippi Region,WI,obj,JFM
-MTON8,48.286111,-97.369722,NCRFC,0.05,0.05,0.05,1,1/27/2023,Forest River at Minto,97.369722,FGF,Souris-Red-Rainy Region,ND,obj,JFM
-MURI2,37.758333,-89.327778,NCRFC,0.40,0.16,0.05,1,1/27/2023,Big Muddy River at Murphysboro,89.327778,PAH,Upper Mississippi Region,IL,obj,JFM
-MUSI4,41.390833,-91.055278,NCRFC,0.15,0.09,0.06,1,1/27/2023,Mississippi River at Muscatine,91.055278,DVN,Upper Mississippi Region,IA,obj,JFM
-MUSW3,43.1981,-90.4433,NCRFC,0.05,0.05,0.05,1,1/27/2023,Wisconsin River at Muscoda,90.4433,ARX,Upper Mississippi Region,WI,obj,JFM
-MVOM5,44.933,-95.7336,NCRFC,0.14,0.05,0.05,1,1/27/2023,Minnesota River at Montevideo,95.7336,MPX,Upper Mississippi Region,MN,obj,JFM
-MYFM4,44.656667,-85.436667,NCRFC,0.05,0.05,0.05,1,1/27/2023,Boardman River near Mayfield,85.436667,APX,Great Lakes Region,MI,obj,JFM
-NBOI2,41.191389,-91.055556,NCRFC,0.16,0.10,0.07,1,1/27/2023,Mississippi River at New Boston,91.055556,DVN,Upper Mississippi Region,IL,obj,JFM
-NBPI2,41.97472,-87.72833,NCRFC,0.05,0.05,0.05,1,1/27/2023,North Branch Chicago River at Chicago (Pulaski Rd),87.72833,LOT,Upper Mississippi Region,IL,obj,JFM
-NCAW3,44.0261,-90.0717,NCRFC,0.45,0.26,0.09,1,1/27/2023,Yellow River (WI) at Necedah,90.0717,ARX,Upper Mississippi Region,WI,obj,JFM
-NCEN8,48.989722,-97.556667,NCRFC,0.05,0.05,0.05,1,1/27/2023,Pembina River at Neche,97.556667,FGF,Souris-Red-Rainy Region,ND,obj,JFM
-NDRI2,41.69,-88.166389,NCRFC,0.05,0.05,0.05,1,1/27/2023,Du Page River near Plainfield,88.166389,LOT,Upper Mississippi Region,IL,obj,JFM
-NEIW3,44.5597,-90.615,NCRFC,0.05,0.05,0.05,1,1/27/2023,Black River (WI) at Neillsville,90.615,ARX,Upper Mississippi Region,WI,obj,JFM
-NEWM4,43.416944,-85.808333,NCRFC,0.18,0.05,0.05,1,1/27/2023,Muskegon River at Newaygo,85.808333,GRR,Great Lakes Region,MI,obj,JFM
-NEWW3,44.392311,-88.740229,NCRFC,0.23,0.05,0.05,1,1/27/2023,Wolf River (WI) at New London,88.740229,GRB,Great Lakes Region,WI,obj,JFM
-NHRI4,42.572,-92.618278,NCRFC,0.05,0.05,0.05,1,1/27/2023,Beaver Creek (Northeast IA) at New Hartford,92.618278,DMX,Upper Mississippi Region,IA,obj,JFM
-NIAW3,45.767778,-87.980556,NCRFC,0.05,0.05,0.05,1,1/27/2023,Menominee River at Niagara,87.980556,GRB,Great Lakes Region,WI,obj,JFM
-NILM4,41.829167,-86.259722,NCRFC,0.16,0.05,0.05,1,1/27/2023,St. Joseph River (MI/IN) at Niles,86.259722,IWX,Great Lakes Region,MI,obj,JFM
-NLDM7,39.612222,-91.407222,NCRFC,0.05,0.05,0.05,1,1/27/2023,Salt River (MO) at New London,91.407222,LSX,Upper Mississippi Region,MO,obj,JFM
-NMSW3,42.610833,-88.225833,NCRFC,0.47,0.16,0.05,1,1/27/2023,Fox River near New Munster,88.225833,MKX,Upper Mississippi Region,WI,obj,JFM
-NRFM5,44.4586,-93.1597,NCRFC,0.15,0.05,0.05,1,1/27/2023,Cannon River at Northfield,93.1597,MPX,Upper Mississippi Region,MN,obj,JFM
-NRWI4,41.457907,-93.654968,NCRFC,0.05,0.05,0.05,1,1/27/2023,North River (Central IA) near Norwalk,93.654968,DMX,Upper Mississippi Region,IA,obj,JFM
-NULM5,44.296944,-94.433611,NCRFC,0.05,0.05,0.05,1,1/27/2023,Minnesota River at New Ulm,94.433611,MPX,Upper Mississippi Region,MN,obj,JFM
-NVLW3,42.8575,-88.940833,NCRFC,0.19,0.06,0.05,1,1/27/2023,Rock River at Lake Koshkonong,88.940833,MKX,Upper Mississippi Region,WI,obj,JFM
-NWUM5,44.2894,-94.4386,NCRFC,0.08,0.05,0.05,1,1/27/2023,Cottonwood River (MN) at New Ulm,94.4386,MPX,Upper Mississippi Region,MN,obj,JFM
-OCTW3,44.860556,-87.983889,NCRFC,0.08,0.05,0.05,1,1/27/2023,Oconto River near Oconto,87.983889,GRB,Great Lakes Region,WI,obj,JFM
-ODAW3,46.486614,-90.696297,NCRFC,0.05,0.05,0.05,1,1/27/2023,Bad River (WI) near Odanah,90.696297,DLH,Great Lakes Region,WI,obj,JFM
-OKFI2,40.124167,-89.985,NCRFC,0.23,0.06,0.05,1,1/27/2023,Sangamon River near Oakford,89.985,ILX,Upper Mississippi Region,IL,obj,JFM
-OKVI4,41.103194,-91.063528,NCRFC,0.08,0.05,0.05,1,1/27/2023,Iowa River at Oakville,91.063528,DVN,Upper Mississippi Region,IA,obj,JFM
-OMNM7,38.928889,-90.745833,NCRFC,0.08,0.05,0.05,1,1/27/2023,Cuivre River at Old Monroe,90.745833,LSX,Upper Mississippi Region,MO,obj,JFM
-OOAI4,41.356011,-92.65645,NCRFC,0.05,0.05,0.05,1,1/27/2023,South Skunk River near Oskaloosa,92.65645,DMX,Upper Mississippi Region,IA,obj,JFM
-OSLM5,48.193889,-97.140278,NCRFC,0.31,0.16,0.05,1,1/27/2023,Red River of the North at Oslo,97.140278,FGF,Souris-Red-Rainy Region,MN,obj,JFM
-OTMI4,41.010779,-92.411489,NCRFC,0.09,0.05,0.05,1,1/27/2023,Des Moines River at Ottumwa,92.411489,DMX,Upper Mississippi Region,IA,obj,JFM
-OTWI2,41.344444,-88.839167,NCRFC,0.19,0.08,0.05,1,1/27/2023,Illinois River at Ottawa,88.839167,LOT,Upper Mississippi Region,IL,obj,JFM
-OWOM4,43.015,-84.181111,NCRFC,0.06,0.05,0.05,1,1/27/2023,Shiawassee River at Owosso,84.181111,DTX,Great Lakes Region,MI,obj,JFM
-PALM7,39.816944,-91.546111,NCRFC,0.13,0.05,0.05,1,1/27/2023,North River (MO) at Palmyra,91.546111,LSX,Upper Mississippi Region,MO,obj,JFM
-PBNN8,48.973611,-97.241389,NCRFC,0.09,0.05,0.05,1,1/27/2023,Red River of the North at Pembina,97.241389,FGF,Souris-Red-Rainy Region,ND,obj,JFM
-PCFM7,38.467222,-90.735,NCRFC,0.29,0.05,0.05,1,1/27/2023,Meramec River near Pacific,90.735,LSX,Upper Mississippi Region,MO,obj,JFM
-PCNW3,43.85113,-89.13336,NCRFC,0.05,0.05,0.05,1,1/27/2023,Fox River (North) at Princeton,89.13336,MKX,Great Lakes Region,WI,obj,JFM
-PETI2,40.013333,-89.838333,NCRFC,0.08,0.07,0.05,1,1/27/2023,Sangamon River at Petersburg,89.838333,ILX,Upper Mississippi Region,IL,obj,JFM
-PIAI2,40.703339,-89.561251,NCRFC,0.42,0.12,0.05,1,1/27/2023,Illinois River at Peoria,89.561251,ILX,Upper Mississippi Region,IL,obj,JFM
-PLMI2,37.891389,-89.019444,NCRFC,0.48,0.05,0.05,1,1/27/2023,Big Muddy River at Plumfield,89.019444,PAH,Upper Mississippi Region,IL,obj,JFM
-PLOI4,42.069163,-91.78518,NCRFC,0.05,0.05,0.05,1,1/27/2023,Cedar River at Palo,91.78518,DVN,Upper Mississippi Region,IA,obj,JFM
-PMZM7,39.524167,-92.127778,NCRFC,0.23,0.05,0.05,1,1/27/2023,Middle Fork Salt River near Holliday,92.127778,LSX,Upper Mississippi Region,MO,obj,JFM
-PNCM5,45.841667,-92.933333,NCRFC,0.05,0.05,0.05,1,1/27/2023,Snake River (MN) near Pine City,92.933333,DLH,Upper Mississippi Region,MN,obj,JFM
-PNTI2,40.877778,-88.636111,NCRFC,0.09,0.06,0.05,1,1/27/2023,Vermilion River (N-IL) at Pontiac,88.636111,LOT,Upper Mississippi Region,IL,obj,JFM
-PORM4,42.856423,-84.912218,NCRFC,0.05,0.05,0.05,1,1/27/2023,Grand River at Portland,84.912218,GRR,Great Lakes Region,MI,obj,JFM
-PORW3,43.53635,-89.47383,NCRFC,0.34,0.21,0.09,1,1/27/2023,Wisconsin River at Portage,89.47383,MKX,Upper Mississippi Region,WI,obj,JFM
-PRAI2,40.630578,-89.625928,NCRFC,0.31,0.14,0.05,1,1/27/2023,Illinois River at Peoria Lock and Dam,89.625928,ILX,Upper Mississippi Region,IL,obj,JFM
-PROI4,41.835433,-94.132002,NCRFC,0.06,0.05,0.05,1,1/27/2023,North Raccoon River (IA) near Perry,94.132002,DMX,Upper Mississippi Region,IA,obj,JFM
-PRYI2,42.194444,-88.998889,NCRFC,0.22,0.05,0.05,1,1/27/2023,Kishwaukee River near Perryville,88.998889,LOT,Upper Mississippi Region,IL,obj,JFM
-PVRS2,45.615833,-96.875556,NCRFC,0.05,0.05,0.05,1,1/27/2023,Little Minnesota River near Peever,96.875556,ABR,Upper Mississippi Region,SD,obj,JFM
-PYMI3,41.3402,-86.3044,NCRFC,0.19,0.10,0.07,1,1/27/2023,Yellow River at Plymouth,86.3044,IWX,Upper Mississippi Region,IN,obj,JFM
-QLDI2,39.902245,-91.430302,NCRFC,0.06,0.05,0.05,1,1/27/2023,Mississippi River at Quincy Lock and Dam 21,91.430302,LSX,Upper Mississippi Region,IL,obj,JFM
-RABI2,42.288889,-89.065278,NCRFC,0.05,0.05,0.05,1,1/27/2023,Rock River at Rockford (Auburn Street),89.065278,LOT,Upper Mississippi Region,IL,obj,JFM
-RACW3,42.751389,-87.823611,NCRFC,0.05,0.05,0.05,1,1/27/2023,Root River at Racine,87.823611,MKX,Great Lakes Region,WI,obj,JFM
-RAYW3,42.815556,-87.994722,NCRFC,0.13,0.05,0.05,1,1/27/2023,Root River Canal near Raymond,87.994722,MKX,Great Lakes Region,WI,obj,JFM
-RCHM5,44.0617,-92.4661,NCRFC,0.05,0.05,0.05,1,1/27/2023,South Fork Zumbro River at Rochester,92.4661,ARX,Upper Mississippi Region,MN,obj,JFM
-RCKI2,41.517778,-90.561944,NCRFC,0.16,0.10,0.06,1,1/27/2023,Mississippi River at Rock Island,90.561944,DVN,Upper Mississippi Region,IL,obj,JFM
-RCMM4,42.65086,-86.106703,NCRFC,0.05,0.05,0.05,1,1/27/2023,Kalamazoo River near New Richmond,86.106703,GRR,Great Lakes Region,MI,obj,JFM
-RDOM4,44.676944,-84.2925,NCRFC,0.05,0.05,0.05,1,1/27/2023,Au Sable River near Red Oak,84.2925,APX,Great Lakes Region,MI,obj,JFM
-RDWM5,44.6103,-92.6103,NCRFC,0.08,0.05,0.05,1,1/27/2023,Mississippi River at Red Wing Lock and Dam #3 - Tailwater,92.6103,MPX,Upper Mississippi Region,MN,obj,JFM
-REAW3,43.4494,-90.765,NCRFC,0.05,0.05,0.05,1,1/27/2023,Kickapoo River at Readstown,90.765,ARX,Upper Mississippi Region,WI,obj,JFM
-REDI4,41.589432,-94.151346,NCRFC,0.05,0.05,0.05,1,1/27/2023,South Raccoon River (IA) at Redfield,94.151346,DMX,Upper Mississippi Region,IA,obj,JFM
-REDM5,44.5653,-92.5424,NCRFC,0.05,0.05,0.05,1,1/27/2023,Mississippi River at Red Wing,92.5424,MPX,Upper Mississippi Region,MN,obj,JFM
-RIPI2,40.02477,-90.631795,NCRFC,0.18,0.14,0.05,1,1/27/2023,La Moine River at Ripley,90.631795,LSX,Upper Mississippi Region,IL,obj,JFM
-RKFM5,45.086667,-93.733889,NCRFC,0.07,0.05,0.05,1,1/27/2023,Crow River at Rockford,93.733889,MPX,Upper Mississippi Region,MN,obj,JFM
-RKLM4,46.720833,-89.206944,NCRFC,0.05,0.05,0.05,1,1/27/2023,Ontonagon River near Rockland,89.206944,MQT,Great Lakes Region,MI,obj,JFM
-ROCM4,43.082249,-85.590865,NCRFC,0.08,0.05,0.05,1,1/27/2023,Rogue River at Rockford,85.590865,GRR,Great Lakes Region,MI,obj,JFM
-ROKI2,42.450278,-89.0725,NCRFC,0.16,0.06,0.05,1,1/27/2023,Rock River at Rockton,89.0725,LOT,Upper Mississippi Region,IL,obj,JFM
-ROSM5,48.846389,-95.760278,NCRFC,0.05,0.05,0.05,1,1/27/2023,Roseau River at Roseau,95.760278,FGF,Souris-Red-Rainy Region,MN,obj,JFM
-ROTW3,44.885833,-89.634722,NCRFC,0.08,0.05,0.05,1,1/27/2023,Wisconsin River at Rothschild,89.634722,GRB,Upper Mississippi Region,WI,obj,JFM
-ROWI4,42.759944,-93.621849,NCRFC,0.05,0.05,0.05,1,1/27/2023,Iowa River near Rowan,93.621849,DMX,Upper Mississippi Region,IA,obj,JFM
-ROYW3,44.4126,-88.865124,NCRFC,0.15,0.05,0.05,1,1/27/2023,Little Wolf River at Royalton,88.865124,GRB,Great Lakes Region,WI,obj,JFM
-RRLW3,45.178056,-89.681111,NCRFC,0.06,0.05,0.05,1,1/27/2023,Wisconsin River at Merrill,89.681111,GRB,Upper Mississippi Region,WI,obj,JFM
-RSPW3,43.477222,-89.9162,NCRFC,0.16,0.06,0.05,1,1/27/2023,Baraboo River at Rock Springs,89.9162,MKX,Upper Mississippi Region,WI,obj,JFM
-RUDM4,46.190556,-84.612222,NCRFC,0.05,0.05,0.05,1,1/27/2023,Pine River (E Upper MI) near Rudyard,84.612222,APX,Great Lakes Region,MI,obj,JFM
-RUSI2,42.489167,-87.926389,NCRFC,0.20,0.05,0.05,1,1/27/2023,Des Plaines River near Russell,87.926389,LOT,Upper Mississippi Region,IL,obj,JFM
-RVFI2,41.888333,-87.832778,NCRFC,0.05,0.05,0.05,1,1/27/2023,Des Plaines River at River Forest,87.832778,LOT,Upper Mississippi Region,IL,obj,JFM
-RVRI2,41.821667,-87.821944,NCRFC,0.09,0.07,0.05,1,1/27/2023,Des Plaines River at Riverside,87.821944,LOT,Upper Mississippi Region,IL,obj,JFM
-RVTI2,39.843105,-89.54732,NCRFC,0.06,0.05,0.05,1,1/27/2023,Sangamon River at Riverton,89.54732,ILX,Upper Mississippi Region,IL,obj,JFM
-RWDM5,44.523611,-95.171389,NCRFC,0.05,0.05,0.05,1,1/27/2023,Redwood River at Redwood Falls,95.171389,MPX,Upper Mississippi Region,MN,obj,JFM
-RZLI3,40.933333,-87.128889,NCRFC,0.17,0.06,0.05,1,1/27/2023,Iroquois River at Rensselaer,87.128889,LOT,Upper Mississippi Region,IN,obj,JFM
-SABM5,46.775556,-96.627778,NCRFC,0.41,0.05,0.05,1,1/27/2023,South Branch Buffalo River at Sabin,96.627778,FGF,Souris-Red-Rainy Region,MN,obj,JFM
-SAGM4,43.421944,-83.951944,NCRFC,0.08,0.05,0.05,1,1/27/2023,Saginaw River at Saginaw,83.951944,DTX,Great Lakes Region,MI,obj,JFM
-SAVM5,44.788056,-93.329444,NCRFC,0.28,0.05,0.05,1,1/27/2023,Minnesota River at Savage,93.329444,MPX,Upper Mississippi Region,MN,obj,JFM
-SBNI3,41.720278,-86.267778,NCRFC,0.24,0.06,0.05,1,1/27/2023,St. Joseph River (MI/IN) at South Bend,86.267778,IWX,Great Lakes Region,IN,obj,JFM
-SCNM5,46.703333,-92.418611,NCRFC,0.05,0.05,0.05,1,1/27/2023,St. Louis River at Scanlon,92.418611,DLH,Great Lakes Region,MN,obj,JFM
-SCOM5,45.547222,-94.145556,NCRFC,0.05,0.05,0.05,1,1/27/2023,Mississippi River at St. Cloud,94.145556,MPX,Upper Mississippi Region,MN,obj,JFM
-SCTM4,43.945006,-86.27869,NCRFC,0.05,0.05,0.05,1,1/27/2023,Pere Marquette River near Scottville,86.27869,GRR,Great Lakes Region,MI,obj,JFM
-SEBW3,43.741389,-87.752222,NCRFC,0.05,0.05,0.05,1,1/27/2023,Sheboygan River at Sheboygan,87.752222,MKX,Great Lakes Region,WI,obj,JFM
-SEEM7,37.998611,-91.360833,NCRFC,0.28,0.05,0.05,1,1/27/2023,Meramec River near Steelville,91.360833,LSX,Upper Mississippi Region,MO,obj,JFM
-SEVI2,40.490041,-90.340403,NCRFC,0.25,0.12,0.05,1,1/27/2023,Spoon River (W-IL) at Seville,90.340403,ILX,Upper Mississippi Region,IL,obj,JFM
-SFLM7,40.462508,-91.566964,NCRFC,0.14,0.05,0.05,1,1/27/2023,Des Moines River at St. Francisville,91.566964,DVN,Upper Mississippi Region,MO,obj,JFM
-SHIW3,44.444444,-88.580278,NCRFC,0.22,0.05,0.05,1,1/27/2023,Wolf River (WI) at Shiocton,88.580278,GRB,Great Lakes Region,WI,obj,JFM
-SHLI2,41.606944,-87.597778,NCRFC,0.05,0.05,0.05,1,1/27/2023,Little Calumet River at South Holland,87.597778,LOT,Upper Mississippi Region,IL,obj,JFM
-SHRI4,42.711925,-92.582966,NCRFC,0.10,0.05,0.05,1,1/27/2023,Shell Rock River (Northeast IA) at Shell Rock,92.582966,DMX,Upper Mississippi Region,IA,obj,JFM
-SHRM4,44.436389,-85.698611,NCRFC,0.05,0.05,0.05,1,1/27/2023,Manistee River near Sherman,85.698611,APX,Great Lakes Region,MI,obj,JFM
-SHWN8,48.99,-101.957778,NCRFC,0.05,0.05,0.05,1,1/27/2023,Souris River near Sherwood,101.957778,BIS,Souris-Red-Rainy Region,ND,obj,JFM
-SHYM5,47.4125,-96.763889,NCRFC,0.05,0.05,0.05,1,1/27/2023,Marsh River near Shelly,96.763889,FGF,Souris-Red-Rainy Region,MN,obj,JFM
-SIGI4,41.300845,-92.204626,NCRFC,0.20,0.09,0.05,1,1/27/2023,North Skunk River near Sigourney,92.204626,DVN,Upper Mississippi Region,IA,obj,JFM
-SIRI2,42.438056,-89.175,NCRFC,0.31,0.05,0.05,1,1/27/2023,Pecatonica River near Shirland,89.175,LOT,Upper Mississippi Region,IL,obj,JFM
-SLBI3,41.182778,-87.340278,NCRFC,0.25,0.15,0.07,1,1/27/2023,Kankakee River at Shelby,87.340278,LOT,Upper Mississippi Region,IN,obj,JFM
-SMYM4,43.052809,-85.264739,NCRFC,0.05,0.05,0.05,1,1/27/2023,Flat River at Smyrna,85.264739,GRR,Great Lakes Region,MI,obj,JFM
-SNWM4,46.584167,-88.575833,NCRFC,0.05,0.05,0.05,1,1/27/2023,Sturgeon River near Sidnaw,88.575833,MQT,Great Lakes Region,MI,obj,JFM
-SOGW3,43.3943,-90.7757,NCRFC,0.05,0.05,0.05,1,1/27/2023,Kickapoo River at Soldiers Grove,90.7757,ARX,Upper Mississippi Region,WI,obj,JFM
-SORI2,41.522303,-88.192869,NCRFC,0.08,0.05,0.05,1,1/27/2023,Du Page River at Shorewood,88.192869,LOT,Upper Mississippi Region,IL,obj,JFM
-SPFM5,44.203333,-95.048056,NCRFC,0.12,0.05,0.05,1,1/27/2023,Cottonwood River (MN) above Springfield,95.048056,MPX,Upper Mississippi Region,MN,obj,JFM
-SPLI4,43.2073,-91.9503,NCRFC,0.05,0.05,0.05,1,1/27/2023,Turkey River at Spillville,91.9503,ARX,Upper Mississippi Region,IA,obj,JFM
-STCM5,45.5597,-94.2336,NCRFC,0.05,0.05,0.05,1,1/27/2023,Sauk River at St. Cloud,94.2336,MPX,Upper Mississippi Region,MN,obj,JFM
-STEW3,43.1828,-90.8583,NCRFC,0.05,0.05,0.05,1,1/27/2023,Kickapoo River at Steuben,90.8583,ARX,Upper Mississippi Region,WI,obj,JFM
-STFM5,45.327743,-93.372454,NCRFC,0.05,0.05,0.05,1,1/27/2023,Rum River near St. Francis 4 South,93.372454,MPX,Upper Mississippi Region,MN,obj,JFM
-STLM5,45.056111,-92.803056,NCRFC,0.09,0.06,0.05,1,1/27/2023,St. Croix River at Stillwater,92.803056,MPX,Upper Mississippi Region,MN,obj,JFM
-STPM5,44.944444,-93.088056,NCRFC,0.07,0.06,0.05,1,1/27/2023,Mississippi River at St. Paul,93.088056,MPX,Upper Mississippi Region,MN,obj,JFM
-STRI4,42.25192,-93.996898,NCRFC,0.05,0.05,0.05,1,1/27/2023,Des Moines River near Stratford,93.996898,DMX,Upper Mississippi Region,IA,obj,JFM
-STRM4,44.0725,-84.02,NCRFC,0.21,0.05,0.05,1,1/27/2023,Rifle River near Sterling,84.02,APX,Great Lakes Region,MI,obj,JFM
-SVRM7,39.63457,-91.248203,NCRFC,0.18,0.05,0.05,1,1/27/2023,Mississippi River at Saverton Lock and Dam 22,91.248203,LSX,Upper Mississippi Region,MO,obj,JFM
-SWRN8,48.094722,-101.056111,NCRFC,0.05,0.05,0.05,1,1/27/2023,Souris River at Sawyer,101.056111,BIS,Souris-Red-Rainy Region,ND,obj,JFM
-TACM5,47.388889,-93.380556,NCRFC,0.05,0.05,0.05,1,1/27/2023,Prairie River (MN) near Taconite,93.380556,DLH,Upper Mississippi Region,MN,obj,JFM
-TAYM7,39.896944,-91.580278,NCRFC,0.21,0.05,0.05,1,1/27/2023,South Fabius River near Taylor,91.580278,LSX,Upper Mississippi Region,MO,obj,JFM
-TECM4,41.943056,-83.945278,NCRFC,0.05,0.05,0.05,1,1/27/2023,River Raisin near Tecumseh,83.945278,DTX,Great Lakes Region,MI,obj,JFM
-THNI2,41.568167,-87.608333,NCRFC,0.09,0.05,0.05,1,1/27/2023,Thorn Creek at Thornton,87.608333,LOT,Upper Mississippi Region,IL,obj,JFM
-TMAI4,41.964256,-92.63655,NCRFC,0.05,0.05,0.05,1,1/27/2023,Iowa River near Tama Hwy E49,92.63655,DMX,Upper Mississippi Region,IA,obj,JFM
-TOWN8,48.351389,-100.419444,NCRFC,0.28,0.05,0.05,1,1/27/2023,Souris River near Towner,100.419444,BIS,Souris-Red-Rainy Region,ND,obj,JFM
-TRCM5,43.6847,-93.0394,NCRFC,0.15,0.07,0.05,1,1/27/2023,Turtle Creek near Austin,93.0394,ARX,Upper Mississippi Region,MN,obj,JFM
-TREW3,43.9994,-91.4356,NCRFC,0.13,0.05,0.05,1,1/27/2023,Mississippi River at Trempealeau,91.4356,ARX,Upper Mississippi Region,WI,obj,JFM
-TRVM4,41.9403,-85.6328,NCRFC,0.30,0.07,0.05,1,1/27/2023,St. Joseph River (MI/IN) at Three Rivers,85.6328,IWX,Great Lakes Region,MI,obj,JFM
-TRYM7,39.008889,-90.9775,NCRFC,0.23,0.07,0.05,1,1/27/2023,Cuivre River at Troy,90.9775,LSX,Upper Mississippi Region,MO,obj,JFM
-TWVM5,47.265556,-96.2475,NCRFC,0.05,0.05,0.05,1,1/27/2023,Wild Rice River (MN) at Twin Valley,96.2475,FGF,Souris-Red-Rainy Region,MN,obj,JFM
-TYLW3,46.394722,-90.59,NCRFC,0.17,0.11,0.05,1,1/27/2023,Tyler Forks River near Mellen,90.59,DLH,Great Lakes Region,WI,obj,JFM
-UINI2,39.932155,-91.416115,NCRFC,0.07,0.05,0.05,1,1/27/2023,Mississippi River at Quincy,91.416115,LSX,Upper Mississippi Region,IL,obj,JFM
-UNNM7,38.444167,-90.995556,NCRFC,0.31,0.05,0.05,1,1/27/2023,Bourbeuse River at Union,90.995556,LSX,Upper Mississippi Region,MO,obj,JFM
-VCKM4,42.114768,-85.485551,NCRFC,0.05,0.05,0.05,1,1/27/2023,Portage River near Vicksburg,85.485551,GRR,Great Lakes Region,MI,obj,JFM
-VCRN8,46.915556,-98.010556,NCRFC,0.05,0.05,0.05,1,1/27/2023,Sheyenne River at Valley City,98.010556,FGF,Souris-Red-Rainy Region,ND,obj,JFM
-VINI4,42.170828,-92.023792,NCRFC,0.05,0.05,0.05,1,1/27/2023,Cedar River at Vinton,92.023792,DVN,Upper Mississippi Region,IA,obj,JFM
-VIOW3,43.5061,-90.6739,NCRFC,0.05,0.05,0.05,1,1/27/2023,Kickapoo River at Viola,90.6739,ARX,Upper Mississippi Region,WI,obj,JFM
-VLCM4,45.736667,-87.863333,NCRFC,0.05,0.05,0.05,1,1/27/2023,Menominee River at Vulcan,87.863333,GRB,Great Lakes Region,MI,obj,JFM
-VLLM7,38.546667,-90.485,NCRFC,0.26,0.17,0.08,1,1/27/2023,Meramec River at Valley Park,90.485,LSX,Upper Mississippi Region,MO,obj,JFM
-VLVN8,48.063889,-100.928889,NCRFC,0.05,0.05,0.05,1,1/27/2023,Souris River at Velva,100.928889,BIS,Souris-Red-Rainy Region,ND,obj,JFM
-VNMI4,41.533878,-93.94995,NCRFC,0.05,0.05,0.05,1,1/27/2023,Raccoon River (Central IA) at Van Meter,93.94995,DMX,Upper Mississippi Region,IA,obj,JFM
-VSSM4,43.370833,-83.581111,NCRFC,0.05,0.05,0.05,1,1/27/2023,Cass River at Vassar,83.581111,DTX,Great Lakes Region,MI,obj,JFM
-WABM5,44.3872,-92.0369,NCRFC,0.32,0.08,0.05,1,1/27/2023,Mississippi River at Wabasha,92.0369,ARX,Upper Mississippi Region,MN,obj,JFM
-WAPI4,41.178086,-91.182094,NCRFC,0.14,0.05,0.05,1,1/27/2023,Iowa River at Wapello,91.182094,DVN,Upper Mississippi Region,IA,obj,JFM
-WATW3,43.188056,-88.725833,NCRFC,0.05,0.05,0.05,1,1/27/2023,Rock River at Watertown,88.725833,MKX,Upper Mississippi Region,WI,obj,JFM
-WBCI4,42.432005,-93.805647,NCRFC,0.05,0.05,0.05,1,1/27/2023,Boone River (North Central IA) near Webster City,93.805647,DMX,Upper Mississippi Region,IA,obj,JFM
-WDEW3,43.605,-89.756667,NCRFC,0.10,0.05,0.05,1,1/27/2023,Wisconsin River at Wisconsin Dells,89.756667,MKX,Upper Mississippi Region,WI,obj,JFM
-WDOM5,43.890278,-95.160833,NCRFC,0.05,0.05,0.05,1,1/27/2023,West Fork Des Moines River above Windom,95.160833,FSD,Upper Mississippi Region,MN,obj,JFM
-WFON8,46.891111,-96.916389,NCRFC,0.05,0.05,0.05,1,1/27/2023,Sheyenne River at West Fargo Diversion,96.916389,FGF,Souris-Red-Rainy Region,ND,obj,JFM
-WHNN8,46.266111,-96.598333,NCRFC,0.48,0.07,0.05,1,1/27/2023,Red River of the North at Wahpeton,96.598333,FGF,Souris-Red-Rainy Region,ND,obj,JFM
-WHTM4,43.464179,-86.232567,NCRFC,0.05,0.05,0.05,1,1/27/2023,White River above Whitehall,86.232567,GRR,Great Lakes Region,MI,obj,JFM
-WIDM5,44.0883,-91.6699,NCRFC,0.15,0.05,0.05,1,1/27/2023,Mississippi River at Winona Dam 5a,91.6699,ARX,Upper Mississippi Region,MN,obj,JFM
-WIRW3,44.392222,-89.826944,NCRFC,0.05,0.05,0.05,1,1/27/2023,Wisconsin River at Wisconsin Rapids,89.826944,GRB,Upper Mississippi Region,WI,obj,JFM
-WKEW3,43.004722,-88.243611,NCRFC,0.05,0.05,0.05,1,1/27/2023,Fox River at Waukesha,88.243611,MKX,Upper Mississippi Region,WI,obj,JFM
-WLCN8,48.588889,-100.441667,NCRFC,0.05,0.05,0.05,1,1/27/2023,Willow Creek (ND) near Willow City,100.441667,BIS,Souris-Red-Rainy Region,ND,obj,JFM
-WLHN8,48.913333,-97.916667,NCRFC,0.05,0.05,0.05,1,1/27/2023,Pembina River at Walhalla,97.916667,FGF,Souris-Red-Rainy Region,ND,obj,JFM
-WLKM4,46.246667,-88.0125,NCRFC,0.05,0.05,0.05,1,1/27/2023,Michigamme River near Witch Lake,88.0125,MQT,Great Lakes Region,MI,obj,JFM
-WLMI2,41.346667,-88.186389,NCRFC,0.11,0.05,0.05,1,1/27/2023,Kankakee River near Wilmington,88.186389,LOT,Upper Mississippi Region,IL,obj,JFM
-WMSM4,42.68309,-84.219133,NCRFC,0.05,0.05,0.05,1,1/27/2023,Red Cedar River near Williamston,84.219133,GRR,Great Lakes Region,MI,obj,JFM
-WNAM5,44.0556,-91.6375,NCRFC,0.16,0.08,0.05,1,1/27/2023,Mississippi River at Winona,91.6375,ARX,Upper Mississippi Region,MN,obj,JFM
-WPCW3,44.329237,-88.996354,NCRFC,0.05,0.05,0.05,1,1/27/2023,Waupaca River near Waupaca,88.996354,GRB,Great Lakes Region,WI,obj,JFM
-WRNI2,41.8175,-88.171389,NCRFC,0.08,0.05,0.05,1,1/27/2023,West Branch Du Page River near Warrenville,88.171389,LOT,Upper Mississippi Region,IL,obj,JFM
-WSTN8,48.996389,-100.958056,NCRFC,0.05,0.05,0.05,1,1/27/2023,Souris River near Westhope,100.958056,BIS,Souris-Red-Rainy Region,ND,obj,JFM
-WYLM7,40.392417,-91.597889,NCRFC,0.11,0.05,0.05,1,1/27/2023,Fox River (IA/MO) at Wayland,91.597889,DVN,Upper Mississippi Region,MO,obj,JFM
-ZUMM5,44.2856,-92.43,NCRFC,0.05,0.05,0.05,1,1/27/2023,Zumbro River at Zumbro Falls,92.43,ARX,Upper Mississippi Region,MN,obj,JFM
+lid,lat,lon,minor,moderate,major,code,date_produced
+LNMI2,40.7078,-90.28,0.38,0.06,0.05,1,2/7/2023
+LCMI3,41.5775,-87.522222,0.33,0.12,0.07,1,2/7/2023
+SIRI2,42.438056,-89.175,0.35,0.08,0.05,1,2/7/2023
+EAGM4,42.828056,-84.759444,0.22,0.05,0.05,1,2/7/2023
+AGNI4,43.0827,-94.230556,0.1,0.05,0.05,1,2/7/2023
+GACM4,42.348611,-83.3125,0.05,0.05,0.05,1,2/7/2023
+IRQI2,40.822778,-87.581389,0.55,0.05,0.05,2,2/7/2023
+DMWI4,41.563611,-93.703611,0.05,0.05,0.05,1,2/7/2023
+BCHW3,42.786111,-89.861111,0.16,0.05,0.05,1,2/7/2023
+SAGM4,43.412222,-83.956111,0.14,0.05,0.05,1,2/7/2023
+DMOI4,41.6125,-93.620833,0.05,0.05,0.05,1,2/7/2023
+CMOI2,41.772222,-89.745278,0.14,0.05,0.05,1,2/7/2023
+GDRM4,42.966667,-85.683333,0.05,0.05,0.05,1,2/7/2023
+GNNM4,46.283056,-87.437222,0.07,0.05,0.05,1,2/7/2023
+STRI4,42.2525,-93.996944,0.07,0.05,0.05,1,2/7/2023
+MROI4,41.796667,-92.070833,0.48,0.24,0.05,1,2/7/2023
+CHSI2,37.902222,-89.830833,0.45,0.17,0.07,1,2/7/2023
+RAYW3,42.815278,-87.994722,0.15,0.05,0.05,1,2/7/2023
+FODI4,42.506389,-94.2025,0.1,0.05,0.05,1,2/7/2023
+ARCW3,44.253056,-91.501389,0.05,0.05,0.05,1,2/7/2023
+MILI2,40.63,-87.723889,0.47,0.11,0.05,1,2/7/2023
+RCHM5,44.061667,-92.466389,0.05,0.05,0.05,1,2/7/2023
+MCGI4,43.024722,-91.1725,0.71,0.31,0.1,2,2/7/2023
+ROCM4,43.083333,-85.590833,0.1,0.05,0.05,1,2/7/2023
+SCNM5,46.703333,-92.418611,0.2,0.08,0.05,1,2/7/2023
+PORW3,43.527778,-89.434167,0.61,0.47,0.14,2,2/7/2023
+CLIW3,42.6,-88.8833,0.07,0.05,0.05,1,2/7/2023
+FNNM7,38.512222,-90.431389,0.37,0.11,0.09,1,2/7/2023
+SORI2,41.522222,-88.1925,0.11,0.05,0.05,1,2/7/2023
+WYLM7,40.3925,-91.597222,0.14,0.05,0.05,1,2/7/2023
+PNCM5,45.841667,-92.933333,0.11,0.05,0.05,1,2/7/2023
+VNDI2,38.970278,-89.092222,0.95,0.38,0.14,2,2/7/2023
+BYRM7,38.391944,-90.638611,0.45,0.21,0.05,1,2/7/2023
+ASTM5,43.654167,-92.973889,0.07,0.05,0.05,1,2/7/2023
+JDNM5,44.693056,-93.641667,0.19,0.05,0.05,1,2/7/2023
+LCRM5,43.865833,-91.31,0.49,0.14,0.06,1,2/7/2023
+NCEN8,48.9897,-97.5566,0.15,0.09,0.06,1,2/7/2023
+FNHI4,42.629722,-92.543333,0.05,0.05,0.05,1,2/7/2023
+TAYM7,39.896944,-91.578056,0.27,0.09,0.05,1,2/7/2023
+DEKI2,41.9311,-88.7597,0.05,0.05,0.05,1,2/7/2023
+GENI2,41.488889,-90.158056,0.14,0.05,0.05,1,2/7/2023
+RIPI2,40.020833,-90.6475,0.32,0.27,0.05,1,2/7/2023
+EGFM5,47.926944,-97.028333,0.82,0.24,0.05,2,2/7/2023
+WIDM5,44.0875,-91.670278,0.55,0.11,0.06,2,2/7/2023
+HRVM4,46.490833,-87.355,0.05,0.05,0.05,1,2/7/2023
+ILNI2,41.425556,-91.009444,0.61,0.45,0.27,2,2/7/2023
+MCWI4,43.163056,-93.195278,0.25,0.05,0.05,1,2/7/2023
+NCAW3,44.026111,-90.071667,0.7,0.34,0.14,2,2/7/2023
+FLTI2,41.897778,-90.154444,0.54,0.32,0.2,2,2/7/2023
+AKAM5,45.191667,-93.394444,0.23,0.08,0.05,1,2/7/2023
+NRFM5,44.458611,-93.159722,0.31,0.05,0.05,1,2/7/2023
+SABM5,46.775556,-96.627778,0.85,0.1,0.05,2,2/7/2023
+MOTM4,41.800833,-85.756111,0.09,0.05,0.05,1,2/7/2023
+FGON8,46.861111,-96.783333,0.95,0.44,0.17,2,2/7/2023
+VLVN8,48.061944,-100.931111,0.12,0.05,0.05,1,2/7/2023
+EFWI4,41.9875,-94.376944,0.05,0.05,0.05,1,2/7/2023
+ANSI4,42.083333,-91.267222,0.15,0.06,0.05,1,2/7/2023
+LNTI4,41.423889,-91.478611,0.13,0.05,0.05,1,2/7/2023
+RCMM4,42.650833,-86.106667,0.05,0.05,0.05,1,2/7/2023
+EMTI4,43.126389,-94.706389,0.05,0.05,0.05,1,2/7/2023
+ALMW3,44.327222,-91.919444,0.08,0.06,0.05,1,2/7/2023
+LUSM7,39.451389,-91.046389,0.69,0.26,0.05,2,2/7/2023
+WSTN8,48.996389,-100.958056,0.2,0.05,0.05,1,2/7/2023
+RCKI2,41.518056,-90.564722,0.65,0.52,0.27,3,2/7/2023
+REAW3,43.449444,-90.765,0.26,0.05,0.05,1,2/7/2023
+CMMI4,41.780556,-90.251944,0.5,0.32,0.2,2,2/7/2023
+MCLM4,42.629167,-82.888889,0.05,0.05,0.05,1,2/7/2023
+LANM5,43.746667,-92.958611,0.05,0.05,0.05,1,2/7/2023
+REDM5,44.565833,-92.541111,0.19,0.17,0.13,1,2/7/2023
+OTWI2,41.344444,-88.839167,0.28,0.11,0.05,1,2/7/2023
+MIDM4,43.595278,-84.235556,0.1,0.09,0.05,1,2/7/2023
+BTCM4,42.323889,-85.1975,0.05,0.05,0.05,1,2/7/2023
+BUCM4,42.9025,-85.7627,0.05,0.05,0.05,1,2/7/2023
+LATI2,42.368611,-89.058333,0.3,0.11,0.05,1,2/7/2023
+GDLM4,42.763056,-84.762222,0.05,0.05,0.05,1,2/7/2023
+MPLN8,46.866389,-97.105,0.6,0.26,0.05,2,2/7/2023
+NIAW3,45.767778,-87.980556,0.29,0.1,0.05,1,2/7/2023
+PROI4,41.835556,-94.131944,0.2,0.05,0.05,1,2/7/2023
+DELM5,45.041944,-93.789444,0.2,0.1,0.05,1,2/7/2023
+SLBI3,41.182778,-87.3403,0.32,0.15,0.1,1,2/7/2023
+CDRW3,43.323056,-87.978611,0.05,0.05,0.05,1,2/7/2023
+NWUM5,44.289167,-94.439722,0.17,0.06,0.05,1,2/7/2023
+AFBI2,42.161944,-88.293889,0.39,0.13,0.05,1,2/7/2023
+DESN8,48.370833,-101.569722,0.05,0.05,0.05,1,2/7/2023
+BEAI2,40.0169,-90.4389,0.83,0.49,0.05,2,2/7/2023
+ANNM4,42.286111,-83.733333,0.05,0.05,0.05,1,2/7/2023
+DBRI3,41.221389,-86.964444,0.12,0.05,0.05,1,2/7/2023
+BSSI4,41.203889,-92.887222,0.05,0.05,0.05,1,2/7/2023
+BYRI2,42.1231,-89.2557,0.13,0.08,0.05,1,2/7/2023
+ODAW3,46.4875,-90.695833,0.05,0.05,0.05,1,2/7/2023
+SNWM4,46.584167,-88.575833,0.05,0.05,0.05,1,2/7/2023
+MUSI4,41.390833,-91.055,0.68,0.46,0.27,2,2/7/2023
+LWLM4,42.925,-85.342778,0.05,0.05,0.05,1,2/7/2023
+SEBW3,43.75,-87.716667,0.08,0.05,0.05,1,2/7/2023
+PRYI2,42.194444,-88.998889,0.26,0.05,0.05,1,2/7/2023
+CFXI4,41.681944,-93.246667,0.05,0.05,0.05,1,2/7/2023
+MARM4,42.266667,-84.966667,0.05,0.05,0.05,1,2/7/2023
+MNTI2,40.030833,-88.588889,0.63,0.07,0.05,2,2/7/2023
+AMEI4,42.066667,-93.620278,0.05,0.05,0.05,1,2/7/2023
+PCNW3,43.851111,-89.133889,0.1,0.05,0.05,1,2/7/2023
+FLTM4,43.037778,-83.769444,0.05,0.05,0.05,1,2/7/2023
+LKCM5,44.45,-92.263333,0.38,0.12,0.06,1,2/7/2023
+LGRM7,40.0397,-91.4973,0.43,0.05,0.05,1,2/7/2023
+MSPM5,45.043056,-93.279444,0.06,0.06,0.05,1,2/7/2023
+FLOW3,45.9513,-88.1891,0.4,0.12,0.05,1,2/7/2023
+MAYM5,44.905833,-93.885556,0.31,0.05,0.05,1,2/7/2023
+CNEI4,41.409167,-91.290278,0.44,0.18,0.06,1,2/7/2023
+SEVI2,40.49,-90.340555,0.3,0.15,0.05,1,2/7/2023
+MCHI4,42.47,-91.448333,0.12,0.08,0.05,1,2/7/2023
+JANI4,42.648333,-92.465278,0.05,0.05,0.05,1,2/7/2023
+BERW3,43.953889,-88.952222,0.17,0.05,0.05,1,2/7/2023
+CLKM7,39.3736,-90.906,0.69,0.25,0.15,2,2/7/2023
+DAVI3,41.389722,-86.706111,0.08,0.05,0.05,1,2/7/2023
+OWOM4,43.015,-84.181111,0.1,0.05,0.05,1,2/7/2023
+RKLM4,46.720833,-89.206944,0.05,0.05,0.05,1,2/7/2023
+RSPW3,43.476944,-89.916389,0.42,0.17,0.05,1,2/7/2023
+RDWM5,44.610833,-92.608333,0.25,0.19,0.09,1,2/7/2023
+LGLW3,45.19,-88.733333,0.05,0.05,0.05,1,2/7/2023
+MSHM5,44.430278,-95.845278,0.05,0.05,0.05,1,2/7/2023
+REDI4,41.5894,-94.1513,0.05,0.05,0.05,1,2/7/2023
+LNSM5,43.721944,-91.978889,0.05,0.05,0.05,1,2/7/2023
+LNSM4,42.75,-84.55,0.06,0.05,0.05,1,2/7/2023
+DEWI4,41.766389,-90.540278,0.66,0.56,0.23,3,2/7/2023
+MURI2,37.760556,-89.365556,0.95,0.37,0.1,2,2/7/2023
+MSCM5,44.16,-91.812222,0.45,0.16,0.06,1,2/7/2023
+BLVI4,42.261111,-90.423056,0.39,0.28,0.13,1,2/7/2023
+PRAI2,40.6333,-89.625,0.39,0.24,0.05,1,2/7/2023
+ATKM5,46.540556,-93.707222,0.65,0.34,0.06,2,2/7/2023
+ROKI2,42.450278,-89.0725,0.27,0.19,0.05,1,2/7/2023
+COLI2,41.286111,-88.359722,0.13,0.05,0.05,1,2/7/2023
+FRKW3,42.873611,-87.995833,0.17,0.05,0.05,1,2/7/2023
+BRFW3,44.27,-90.85,0.6,0.29,0.08,2,2/7/2023
+ROSM5,48.848639,-95.76,0.05,0.05,0.05,1,2/7/2023
+MNKM5,44.168889,-94.003056,0.05,0.05,0.05,1,2/7/2023
+SEEM7,38.005278,-91.370556,0.4,0.05,0.05,1,2/7/2023
+CHBI2,41.008889,-87.823333,0.15,0.07,0.06,1,2/7/2023
+LDRI2,42.200556,-87.918056,0.13,0.05,0.05,1,2/7/2023
+OMNM7,38.928889,-90.745833,0.46,0.23,0.07,1,2/7/2023
+MCAM5,45.865833,-93.690556,0.05,0.05,0.05,1,2/7/2023
+MINN8,48.245833,-101.370833,0.11,0.07,0.05,1,2/7/2023
+MONM4,41.913889,-83.3875,0.07,0.05,0.05,1,2/7/2023
+SHIW3,44.438889,-88.583889,0.53,0.05,0.05,2,2/7/2023
+MUSW3,43.177222,-90.427222,0.13,0.06,0.05,1,2/7/2023
+LGPM5,45.975,-94.865556,0.19,0.06,0.05,1,2/7/2023
+MRPM4,43.109722,-84.693056,0.49,0.05,0.05,1,2/7/2023
+SLLM7,38.158611,-91.108611,0.95,0.14,0.05,2,2/7/2023
+BLEW3,43.134167,-89.732222,0.05,0.05,0.05,1,2/7/2023
+CLXM5,47.612222,-96.814444,0.17,0.05,0.05,1,2/7/2023
+EWNM7,40.018889,-91.621944,0.52,0.07,0.05,2,2/7/2023
+LAFW3,43.575278,-90.641667,0.05,0.05,0.05,1,2/7/2023
+ALMM4,43.3869,-84.6482,0.07,0.05,0.05,1,2/7/2023
+WDEW3,43.6167,-89.7833,0.17,0.1,0.06,1,2/7/2023
+CIDI4,41.971944,-91.666944,0.17,0.1,0.06,1,2/7/2023
+BABW3,43.458333,-89.633333,0.5,0.05,0.05,2,2/7/2023
+PALM7,39.816944,-91.545833,0.19,0.07,0.05,1,2/7/2023
+STEW3,43.182778,-90.859167,0.05,0.05,0.05,1,2/7/2023
+HOUM5,43.768611,-91.569722,0.05,0.05,0.05,1,2/7/2023
+CEDW3,43.2798,-87.9429,0.22,0.05,0.05,1,2/7/2023
+ALSM4,46.726389,-88.661944,0.44,0.05,0.05,1,2/7/2023
+BOIW3,42.4979,-89.0211,0.07,0.05,0.05,1,2/7/2023
+GREI2,40.131944,-89.735556,0.1,0.07,0.05,1,2/7/2023
+GUNI2,42.344167,-87.938333,0.25,0.05,0.05,1,2/7/2023
+HILN8,47.351944,-96.843333,0.44,0.16,0.05,1,2/7/2023
+RKFM5,45.086667,-93.733889,0.23,0.1,0.05,1,2/7/2023
+DAVM4,43.033611,-83.581389,0.09,0.05,0.05,1,2/7/2023
+NRWI4,41.458056,-93.655,0.06,0.05,0.05,1,2/7/2023
+BOLI2,41.718056,-88.070556,0.05,0.05,0.05,1,2/7/2023
+PYMI3,41.3403,-86.3044,0.19,0.06,0.05,1,2/7/2023
+BESM4,46.511389,-90.074444,0.11,0.05,0.05,1,2/7/2023
+SCOM5,45.547222,-94.145556,0.25,0.1,0.05,1,2/7/2023
+JCKM5,43.618333,-94.984722,0.05,0.05,0.05,1,2/7/2023
+JFFW3,42.996111,-88.807222,0.31,0.18,0.05,1,2/7/2023
+KNDN8,46.631667,-97.000278,0.36,0.12,0.05,1,2/7/2023
+FRNM4,43.327778,-83.748056,0.16,0.05,0.05,1,2/7/2023
+HSTM5,44.759722,-92.868889,0.31,0.14,0.11,1,2/7/2023
+HSTM4,42.615833,-85.236389,0.18,0.05,0.05,1,2/7/2023
+CEDI4,42.537778,-92.443056,0.41,0.11,0.05,1,2/7/2023
+FSRM4,42.577222,-82.951389,0.08,0.05,0.05,1,2/7/2023
+SAVM5,44.786667,-93.334444,0.7,0.12,0.05,2,2/7/2023
+LNSI4,43.360278,-91.213056,0.11,0.07,0.05,1,2/7/2023
+GRNN8,48.424722,-97.411667,0.08,0.05,0.05,1,2/7/2023
+IDNI4,41.424722,-93.586944,0.05,0.05,0.05,1,2/7/2023
+HWDN8,46.9775,-96.893056,0.38,0.29,0.07,1,2/7/2023
+AVOM5,43.949444,-95.506944,0.06,0.05,0.05,1,2/7/2023
+MORM4,43.5025,-85.3425,0.05,0.05,0.05,1,2/7/2023
+IOWI4,41.656667,-91.540833,0.05,0.05,0.05,1,2/7/2023
+MIWI4,42.065556,-92.908056,0.05,0.05,0.05,1,2/7/2023
+GTEM5,44.819722,-95.532778,0.18,0.05,0.05,1,2/7/2023
+GENW3,43.570556,-91.229444,0.68,0.14,0.07,2,2/7/2023
+ERKM7,38.504722,-90.590833,0.35,0.13,0.08,1,2/7/2023
+HNYI2,41.10724,-89.35625,0.47,0.33,0.05,1,2/7/2023
+CMSM4,42.285556,-85.513889,0.05,0.05,0.05,1,2/7/2023
+PCFM7,38.485833,-90.77,0.32,0.08,0.05,1,2/7/2023
+ALVM5,48.194722,-97.005556,0.05,0.05,0.05,1,2/7/2023
+RZLI3,40.93333,-87.128889,0.27,0.07,0.06,1,2/7/2023
+ROTW3,44.885833,-89.634722,0.13,0.1,0.05,1,2/7/2023
+HNNM7,39.723333,-91.371944,0.51,0.17,0.07,2,2/7/2023
+VLLM7,38.557222,-90.492222,0.38,0.27,0.15,1,2/7/2023
+RRLW3,45.178611,-89.661667,0.19,0.05,0.05,1,2/7/2023
+KALI4,41.466389,-91.715556,0.35,0.19,0.08,1,2/7/2023
+FTRM5,46.180556,-94.365556,0.44,0.12,0.05,1,2/7/2023
+SCTM4,43.945,-86.278611,0.05,0.05,0.05,1,2/7/2023
+DBQI4,42.499444,-90.653056,0.66,0.49,0.19,2,2/7/2023
+BROW3,42.618056,-89.3866,0.29,0.05,0.05,1,2/7/2023
+SOGW3,43.394167,-90.775833,0.12,0.05,0.05,1,2/7/2023
+FSMI3,40.8706,-87.3067,0.33,0.05,0.05,1,2/7/2023
+BANN8,48.505556,-100.434444,0.74,0.61,0.05,3,2/7/2023
+DAWM5,44.92936,-96.0516,0.08,0.06,0.05,1,2/7/2023
+HUMM4,46.499167,-87.886389,0.2,0.05,0.05,1,2/7/2023
+EDYI4,41.151111,-92.636111,0.06,0.05,0.05,1,2/7/2023
+TRYM7,38.968611,-90.992222,0.43,0.1,0.05,1,2/7/2023
+NEWW3,44.392222,-88.740278,0.53,0.05,0.05,2,2/7/2023
+ECLW3,44.809722,-91.502778,0.36,0.15,0.09,1,2/7/2023
+MNGI2,41.7336,-88.3333,0.09,0.05,0.05,1,2/7/2023
+MOAM5,45.863889,-93.296667,0.34,0.11,0.05,1,2/7/2023
+KCAI2,38.61028,-89.3575,0.8,0.05,0.05,2,2/7/2023
+ROWI4,42.760278,-93.621944,0.06,0.05,0.05,1,2/7/2023
+LNRI2,41.208333,-88.930833,0.29,0.07,0.05,1,2/7/2023
+GTTI4,42.7858,-91.0958,0.53,0.18,0.05,2,2/7/2023
+CDLI2,40.0648,-90.1518,0.42,0.14,0.05,1,2/7/2023
+DAYI2,41.383889,-88.789722,0.28,0.11,0.05,1,2/7/2023
+MTCM4,42.595833,-82.908889,0.05,0.05,0.05,1,2/7/2023
+FRGM4,43.25,-84.1,0.14,0.05,0.05,1,2/7/2023
+OSLM5,48.1938,-97.1402,0.89,0.77,0.07,3,2/7/2023
+ETNM4,42.51277,-84.65417,0.05,0.05,0.05,1,2/7/2023
+RVFI2,41.888333,-87.832778,0.05,0.05,0.05,1,2/7/2023
+EOKI4,40.396667,-91.375,0.29,0.25,0.17,1,2/7/2023
+NVLW3,42.8575,-88.940833,0.37,0.2,0.12,1,2/7/2023
+WLHN8,48.913333,-97.916667,0.07,0.05,0.05,1,2/7/2023
+CLMI2,40.330278,-90.896111,0.56,0.4,0.15,2,2/7/2023
+BDGM4,43.347222,-85.939444,0.35,0.05,0.05,1,2/7/2023
+CANM7,40.1439,-91.5159,0.53,0.18,0.05,2,2/7/2023
+LSLI2,41.314444,-89.090833,0.64,0.12,0.05,2,2/7/2023
+NBPI2,41.974722,-87.728333,0.05,0.05,0.05,1,2/7/2023
+CCYI4,43.062222,-92.673611,0.1,0.05,0.05,1,2/7/2023
+EWMM7,40.028889,-91.705556,0.38,0.08,0.05,1,2/7/2023
+CLDM4,42.816667,-85.483333,0.05,0.05,0.05,1,2/7/2023
+TRVM4,41.9403,-85.6328,0.26,0.09,0.05,1,2/7/2023
+UNNM7,38.444444,-91.004167,0.44,0.06,0.05,1,2/7/2023
+DXRI2,41.844722,-89.486111,0.06,0.05,0.05,1,2/7/2023
+MORI2,41.3544,-88.4283,0.27,0.14,0.08,1,2/7/2023
+DAKI4,42.725556,-94.195278,0.05,0.05,0.05,1,2/7/2023
+HDDI3,41.507778,-87.51,0.05,0.05,0.05,1,2/7/2023
+FLCW3,44.8097,-91.281667,0.37,0.11,0.05,1,2/7/2023
+EADM7,38.628889,-90.179722,0.24,0.08,0.05,1,2/7/2023
+BLIM4,41.824167,-83.870556,0.08,0.05,0.05,1,2/7/2023
+BLFI4,43.406944,-91.898333,0.05,0.05,0.05,1,2/7/2023
+DARW3,42.678056,-90.106389,0.05,0.05,0.05,1,2/7/2023
+TRCM5,43.684722,-93.039444,0.22,0.12,0.06,1,2/7/2023
+WKEW3,43.004722,-88.243611,0.07,0.05,0.05,1,2/7/2023
+ROYW3,44.4125,-88.865278,0.31,0.05,0.05,1,2/7/2023
+CEBI4,41.787222,-91.313611,0.2,0.07,0.05,1,2/7/2023
+CAGM7,39.003056,-90.688611,0.62,0.27,0.05,2,2/7/2023
+WDOM5,43.8575,-95.116667,0.05,0.05,0.05,1,2/7/2023
+KHBI2,41.099444,-90.939444,0.71,0.44,0.29,2,2/7/2023
+LBNN8,46.446944,-97.678889,0.05,0.05,0.05,1,2/7/2023
+ESVI4,43.399167,-94.846111,0.08,0.05,0.05,1,2/7/2023
+EVRM4,43.899167,-85.255278,0.07,0.05,0.05,1,2/7/2023
+GRFI2,38.968056,-90.428333,0.39,0.09,0.06,1,2/7/2023
+SBNI3,41.720278,-86.269167,0.2,0.07,0.05,1,2/7/2023
+CJTI4,41.278333,-91.345833,0.12,0.05,0.05,1,2/7/2023
+HNDM5,47.268056,-96.797222,0.71,0.11,0.05,2,2/7/2023
+STCM5,45.559722,-94.233889,0.08,0.05,0.05,1,2/7/2023
+JACM4,42.283333,-84.408889,0.21,0.07,0.05,1,2/7/2023
+HWYM5,46.85,-96.329167,0.22,0.08,0.05,1,2/7/2023
+OOAI4,41.355833,-92.656389,0.05,0.05,0.05,1,2/7/2023
+MPRM4,43.564444,-84.369167,0.05,0.05,0.05,1,2/7/2023
+TYLW3,46.3947,-90.59,0.58,0.31,0.07,2,2/7/2023
+RWDM5,44.523611,-95.172222,0.12,0.05,0.05,1,2/7/2023
+AFTW3,42.6475,-89.064444,0.35,0.11,0.06,1,2/7/2023
+GRMI4,41.6833,-93.7333,0.05,0.05,0.05,1,2/7/2023
+MOMI2,41.16,-87.668611,0.16,0.07,0.05,1,2/7/2023
+ZUMM5,44.285556,-92.43,0.05,0.05,0.05,1,2/7/2023
+ALOI4,42.495278,-92.334167,0.16,0.05,0.05,1,2/7/2023
+CNGI2,40.621111,-89.2415,0.17,0.12,0.05,1,2/7/2023
+WBCI4,42.432222,-93.806111,0.05,0.05,0.05,1,2/7/2023
+HHTM4,42.64,-84.481944,0.27,0.05,0.05,1,2/7/2023
+VLCM4,45.736667,-87.863333,0.21,0.05,0.05,1,2/7/2023
+HGRN8,47.410556,-97.059722,0.33,0.16,0.05,1,2/7/2023
+NILM4,41.840556,-86.265833,0.13,0.05,0.05,1,2/7/2023
+NMSW3,42.610833,-88.225833,0.52,0.09,0.05,2,2/7/2023
+PETI2,40.013333,-89.838333,0.12,0.1,0.05,1,2/7/2023
+ARNM7,38.456667,-90.360556,0.32,0.08,0.05,1,2/7/2023
+FEEI2,42.297222,-89.603889,0.23,0.05,0.05,1,2/7/2023
+TECM4,42.002778,-83.933611,0.05,0.05,0.05,1,2/7/2023
+VINI4,42.170556,-92.023333,0.13,0.05,0.05,1,2/7/2023
+HIGM5,48.048611,-95.808333,0.05,0.05,0.05,1,2/7/2023
+WABM5,44.385,-92.048611,0.89,0.28,0.09,2,2/7/2023
+PMZM7,39.524167,-92.127778,0.35,0.05,0.05,1,2/7/2023
+ABRN8,46.470556,-96.781944,0.58,0.42,0.09,2,2/7/2023
+RUSI2,42.489167,-87.926389,0.26,0.05,0.05,1,2/7/2023
+GRBI4,42.74,-91.261667,0.21,0.12,0.07,1,2/7/2023
+MTON8,48.286111,-97.369444,0.12,0.05,0.05,1,2/7/2023
+VIOW3,43.506111,-90.673611,0.05,0.05,0.05,1,2/7/2023
+HLLM5,48.775556,-96.937222,0.67,0.27,0.05,2,2/7/2023
+SFLM7,40.4625,-91.567222,0.22,0.05,0.05,1,2/7/2023
+KLSN8,48.137778,-100.539722,0.23,0.05,0.05,1,2/7/2023
+AESI4,41.951944,-93.565556,0.05,0.05,0.05,1,2/7/2023
+WPCW3,44.329167,-88.996111,0.05,0.05,0.05,1,2/7/2023
+NDRI2,41.69,-88.166389,0.05,0.05,0.05,1,2/7/2023
+VSSM4,43.365556,-83.582778,0.05,0.05,0.05,1,2/7/2023
+BCRM4,42.331944,-85.154167,0.05,0.05,0.05,1,2/7/2023
+MLII2,41.461944,-90.499444,0.53,0.29,0.14,2,2/7/2023
+THNI2,41.568333,-87.607778,0.1,0.05,0.05,1,2/7/2023
+BDOW3,46.6103,-90.6869,0.11,0.05,0.05,1,2/7/2023
+WLMI2,41.346667,-88.186389,0.13,0.05,0.05,1,2/7/2023
+WRNI2,41.8175,-88.171389,0.08,0.05,0.05,1,2/7/2023
+PVRS2,45.616111,-96.875278,0.15,0.05,0.05,1,2/7/2023
+STPM5,44.944444,-93.088056,0.22,0.17,0.1,1,2/7/2023
+DURW3,44.630993,-91.971327,0.73,0.3,0.11,2,2/7/2023
+GSHI3,41.593333,-85.848333,0.12,0.05,0.05,1,2/7/2023
+HBTI4,42.719722,-94.220278,0.1,0.05,0.05,1,2/7/2023
+DANW3,46.076111,-92.246667,0.09,0.05,0.05,1,2/7/2023
+NEWM4,43.416944,-85.808333,0.33,0.05,0.05,1,2/7/2023
+DMDM4,42.644444,-84.650278,0.05,0.05,0.05,1,2/7/2023
+MION8,48.2375,-101.294167,0.05,0.05,0.05,1,2/7/2023
+SVRM7,39.636111,-91.249444,0.6,0.26,0.13,2,2/7/2023
+ANKM5,45.126667,-93.296667,0.27,0.07,0.05,1,2/7/2023
+TMAI4,41.964167,-92.636667,0.14,0.09,0.05,1,2/7/2023
+RABI2,42.2888,-89.065278,0.06,0.05,0.05,1,2/7/2023
+HENM5,44.529444,-93.900556,0.09,0.05,0.05,1,2/7/2023
+EKMI3,41.677778,-86.002222,0.12,0.1,0.05,1,2/7/2023
+MPTM4,43.626111,-84.707778,0.07,0.05,0.05,1,2/7/2023
+PORM4,42.856389,-84.912222,0.05,0.05,0.05,1,2/7/2023
+ALBW3,42.705833,-89.438056,0.05,0.05,0.05,1,2/7/2023
+OKFI2,40.124167,-89.985,0.26,0.11,0.05,1,2/7/2023
+GMIW3,43.314444,-90.848611,0.39,0.05,0.05,1,2/7/2023
+PIAI2,40.703889,-89.566389,0.59,0.21,0.05,2,2/7/2023
+GALW3,44.060278,-91.287222,0.57,0.41,0.05,2,2/7/2023
+TREW3,43.999444,-91.437778,0.53,0.19,0.06,2,2/7/2023
+DRCM7,38.803333,-90.635,0.3,0.17,0.05,1,2/7/2023
+ENDN8,46.621389,-97.573333,0.74,0.17,0.05,2,2/7/2023
+HAVI2,40.294167,-90.068333,0.95,0.55,0.11,3,2/7/2023
+PBNN8,48.9736,-97.2413,0.68,0.42,0.1,2,2/7/2023
+KTSI3,41.253889,-87.033889,0.11,0.05,0.05,1,2/7/2023
+PNTI2,40.885278,-88.638889,0.11,0.07,0.05,1,2/7/2023
+OTMI4,41.010833,-92.411667,0.18,0.05,0.05,1,2/7/2023
+EKDI4,42.843333,-91.4,0.22,0.1,0.05,1,2/7/2023
+FATW3,42.8833,-88.8333,0.11,0.05,0.05,1,2/7/2023
+NHRI4,42.572222,-92.618333,0.05,0.05,0.05,1,2/7/2023
+TOWN8,48.352778,-100.418889,0.75,0.34,0.05,2,2/7/2023
+DCHI4,43.421111,-91.508611,0.1,0.05,0.05,1,2/7/2023
+RACW3,42.751389,-87.823611,0.05,0.05,0.05,1,2/7/2023
+MYFM4,44.656667,-85.436667,0.05,0.05,0.05,1,2/7/2023
+BBOW3,43.470833,-89.759444,0.06,0.05,0.05,1,2/7/2023
+IDPI4,42.464167,-91.895,0.05,0.05,0.05,1,2/7/2023
+DILM5,46.961111,-96.661111,0.9,0.12,0.05,2,2/7/2023
+SHYM5,47.4125,-96.763889,0.1,0.05,0.05,1,2/7/2023
+LGNN8,48.153333,-101.151111,0.15,0.06,0.05,1,2/7/2023
+VCKM4,42.114722,-85.485556,0.05,0.05,0.05,1,2/7/2023
+OCTW3,44.860556,-87.983889,0.15,0.05,0.05,1,2/7/2023
+ADRM4,41.904167,-83.980556,0.05,0.05,0.05,1,2/7/2023
+BBCW3,44.307778,-90.131389,0.7,0.18,0.09,2,2/7/2023
+PLOI4,42.069167,-91.785,0.13,0.05,0.05,1,2/7/2023
+HMGM4,42.465,-83.800278,0.12,0.06,0.05,1,2/7/2023
+CPEI3,41.481667,-85.475556,0.41,0.11,0.05,1,2/7/2023
+ADAM4,42.955278,-85.476389,0.05,0.05,0.05,1,2/7/2023
+WIRW3,44.399444,-89.830556,0.08,0.05,0.05,1,2/7/2023
+APLW3,44.251111,-88.364444,0.05,0.05,0.05,1,2/7/2023
+TWVM5,47.266667,-96.244444,0.05,0.05,0.05,1,2/7/2023
+STLM5,45.056667,-92.8025,0.32,0.21,0.14,1,2/7/2023
+WNAM5,44.056389,-91.638333,0.63,0.32,0.1,2,2/7/2023
+NULM5,44.296944,-94.433611,0.08,0.05,0.05,1,2/7/2023
+DLDI4,42.54,-90.646111,0.52,0.41,0.14,2,2/7/2023
+WLKM4,46.246667,-88.0125,0.32,0.18,0.05,1,2/7/2023
+RVTI2,39.843056,-89.547222,0.08,0.05,0.05,1,2/7/2023
+JOSI2,41.556111,-90.185278,0.6,0.32,0.08,2,2/7/2023
+CRYM4,46.105833,-88.334722,0.13,0.07,0.05,1,2/7/2023
+UINI2,39.932222,-91.416111,0.48,0.25,0.06,1,2/7/2023
+DRTN8,48.572222,-97.147222,0.6,0.31,0.05,2,2/7/2023
+BURM4,42.103056,-85.083333,0.1,0.05,0.05,1,2/7/2023
+DEHI4,43.303333,-91.796389,0.05,0.05,0.05,1,2/7/2023
+NBOI2,41.1925,-91.057778,0.77,0.53,0.32,3,2/7/2023
+SMYM4,43.052778,-85.264722,0.05,0.05,0.05,1,2/7/2023
+MILW3,43.1,-88.85,0.25,0.05,0.05,1,2/7/2023
+BRLI4,40.798056,-91.094444,0.68,0.41,0.28,2,2/7/2023
+DLRM4,42.308333,-83.252778,0.05,0.05,0.05,1,2/7/2023
+LACW3,43.812222,-91.256944,0.61,0.38,0.08,2,2/7/2023
+DNDM4,41.955278,-83.648889,0.07,0.05,0.05,1,2/7/2023
+MAQI4,42.083333,-90.632778,0.1,0.06,0.05,1,2/7/2023
+STRM4,44.0725,-84.02,0.38,0.05,0.05,1,2/7/2023
+KNXI3,41.3028,-86.6206,0.05,0.05,0.05,1,2/7/2023
+STFM5,45.327544,-93.3727,0.09,0.05,0.05,1,2/7/2023
+GLDI2,40.881389,-91.0225,0.73,0.41,0.28,2,2/7/2023
+AKWI4,41.337222,-93.486389,0.05,0.05,0.05,1,2/7/2023
+OKVI4,41.103056,-91.063611,0.22,0.05,0.05,1,2/7/2023
+IONM4,42.966667,-85.066667,0.06,0.05,0.05,1,2/7/2023
+MVOM5,44.933333,-95.733333,0.35,0.11,0.06,1,2/7/2023
+AMWI4,42.022778,-93.630556,0.05,0.05,0.05,1,2/7/2023
+SHRI4,42.7119,-92.5828,0.25,0.05,0.05,1,2/7/2023
+MTNM5,44.546111,-94.996111,0.38,0.09,0.05,1,2/7/2023
+WMSM4,42.683333,-84.219167,0.05,0.05,0.05,1,2/7/2023
+CRKM5,47.775556,-96.609167,0.46,0.1,0.05,1,2/7/2023
+LYNW3,43.211667,-91.099167,0.34,0.1,0.05,1,2/7/2023
+VCRN8,46.913889,-98.008333,0.05,0.05,0.05,1,2/7/2023
+SHLI2,41.606944,-87.597778,0.05,0.05,0.05,1,2/7/2023
+BSLM5,45.309167,-96.468056,0.05,0.05,0.05,1,2/7/2023
+WHTM4,43.464167,-86.2325,0.05,0.05,0.05,1,2/7/2023
+PLMI2,37.911667,-89.009167,0.95,0.13,0.05,2,2/7/2023
+WHNN8,46.275833,-96.605556,0.66,0.22,0.05,2,2/7/2023
+WFON8,46.891111,-96.916389,0.13,0.05,0.05,1,2/7/2023
+SWRN8,48.094722,-101.049444,0.08,0.05,0.05,1,2/7/2023
+GGYM7,40.279167,-91.495833,0.63,0.29,0.05,2,2/7/2023
+CROM4,43.434722,-85.665278,0.15,0.05,0.05,1,2/7/2023
+DEXM4,42.300278,-83.898333,0.05,0.05,0.05,1,2/7/2023
+BVDI2,42.2561,-88.8631,0.05,0.05,0.05,1,2/7/2023
+LECI4,41.574722,-90.400556,0.51,0.36,0.23,2,2/7/2023
+KEQI4,40.7275,-91.968333,0.06,0.05,0.05,1,2/7/2023
+DETM4,42.372222,-83.255556,0.24,0.05,0.05,1,2/7/2023
+BVTM4,43.879722,-84.474167,0.05,0.05,0.05,1,2/7/2023
+WAPI4,41.178056,-91.181944,0.26,0.05,0.05,1,2/7/2023
+HUDI4,42.4075,-92.463333,0.24,0.17,0.05,1,2/7/2023
+DSPI2,42.087222,-87.887222,0.18,0.05,0.05,1,2/7/2023
+LEMI2,41.672222,-88.029444,0.33,0.05,0.05,1,2/7/2023
+CSSM4,43.586111,-83.180556,0.05,0.05,0.05,1,2/7/2023
+MTNW3,42.505833,-89.757222,0.26,0.05,0.05,1,2/7/2023
+DESI4,41.578333,-93.605556,0.12,0.05,0.05,1,2/7/2023
+TACM5,47.388889,-93.380556,0.05,0.05,0.05,1,2/7/2023
+BRGW3,42.679722,-88.271111,0.11,0.05,0.05,1,2/7/2023
+MKLM5,48.209722,-96.718056,0.05,0.05,0.05,1,2/7/2023
+QLDI2,39.9035,-91.4284,0.44,0.25,0.06,1,2/7/2023
+WATW3,43.174167,-88.736389,0.07,0.05,0.05,1,2/7/2023
+SPFM5,44.203333,-95.048056,0.3,0.05,0.05,1,2/7/2023
+RDOM4,44.676944,-84.2925,0.05,0.05,0.05,1,2/7/2023
+HICN8,46.658333,-96.796389,0.17,0.06,0.05,1,2/7/2023
+WLCN8,48.588889,-100.441667,0.42,0.05,0.05,1,2/7/2023
+VNMI4,41.533889,-93.950278,0.05,0.05,0.05,1,2/7/2023
+SPLI4,43.200556,-91.9525,0.14,0.1,0.07,1,2/7/2023
+ELNM4,42.727222,-84.478056,0.11,0.05,0.05,1,2/7/2023
+SHWN8,48.99,-101.957778,0.08,0.05,0.05,1,2/7/2023
+NLDM7,39.612222,-91.408333,0.05,0.05,0.05,1,2/7/2023
+MCAW3,45.325833,-87.663333,0.5,0.07,0.05,2,2/7/2023
+AGSI4,40.747222,-91.275,0.18,0.1,0.05,1,2/7/2023
+DEMI4,41.5825,-93.641667,0.29,0.05,0.05,1,2/7/2023
+FOXN8,48.371667,-101.505556,0.34,0.08,0.05,1,2/7/2023
+SIGI4,41.300833,-92.204444,0.33,0.21,0.05,1,2/7/2023
+ALNI2,38.866389,-90.146389,0.43,0.06,0.05,1,2/7/2023
+SHRM4,44.436389,-85.698611,0.11,0.05,0.05,1,2/7/2023
+NEIW3,44.559722,-90.615,0.05,0.05,0.05,1,2/7/2023
+RVRI2,41.822222,-87.820833,0.12,0.09,0.05,1,2/7/2023
+RUDM4,46.185833,-84.597778,0.05,0.05,0.05,1,2/7/2023
+DDGW3,44.131944,-91.553889,0.07,0.05,0.05,1,2/7/2023
