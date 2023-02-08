@@ -1,0 +1,431 @@
+lid,name,lat,lon,wfo,rfc,wrr,state,minor,moderate,major,code,date_produced,obj_or_subj,interval
+ABIK1,Smoky Hill River near Abilene,38.90638889,-97.28416667,TOP,MBRFC,Missouri Region,KS,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+ABRN1,Little Nemaha River near Auburn,40.39277778,-95.81277778,OAX,MBRFC,Missouri Region,NE,0.07,0.07,0.05,1,2/8/2023,obj,FMA
+ADAK1,Salt Creek (KS) near Ada,39.13916667,-97.83666667,TOP,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+AGYM7,Platte River near Agency,39.68888889,-94.70416667,EAX,MBRFC,Missouri Region,MO,0.44,0.13,0.05,1,2/8/2023,obj,FMA
+AKRI4,Big Sioux River at Akron,42.8258,-96.5514,FSD,MBRFC,Missouri Region,IA,0.34,0.27,0.16,1,2/8/2023,obj,FMA
+ALDN1,Wood River near Alda,40.8528,-98.4722,GID,MBRFC,Missouri Region,NE,0.23,0.14,0.11,1,2/8/2023,obj,FMA
+ALEK1,Mud Creek (KS) at Abilene,38.92972222,-97.22777778,TOP,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+ALTI4,Floyd River at Alton,42.99805556,-96.0175,FSD,MBRFC,Missouri Region,IA,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+ARNK1,Smoky Hill River near Arnold,38.8075,-100.0222222,DDC,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+ASLN1,Platte River near Ashland,41.06222222,-96.32472222,OAX,MBRFC,Missouri Region,NE,0.07,0.05,0.05,1,2/8/2023,obj,FMA
+ASTN1,Salt Creek near Ashland,41.05166667,-96.33833333,OAX,MBRFC,Missouri Region,NE,0.18,0.06,0.05,1,2/8/2023,obj,FMA
+ATCI4,East Nishnabotna River near Atlantic,41.30611111,-95.08472222,DMX,MBRFC,Missouri Region,IA,0.08,0.05,0.05,1,2/8/2023,obj,FMA
+ATCK1,Missouri River at Atchison,39.56027778,-95.11333333,EAX,MBRFC,Missouri Region,KS,0.15,0.08,0.05,1,2/8/2023,obj,FMA
+ATNS2,James River near Ashton,44.99833333,-98.48055556,ABR,MBRFC,Missouri Region,SD,0.39,0.37,0.28,1,2/8/2023,obj,FMA
+ATWC2,South Platte River at Atwood,40.53888889,-103.2672222,BOU,MBRFC,Missouri Region,CO,0.08,0.07,0.05,1,2/8/2023,obj,FMA
+BANK1,Little Blue River near Barnes,39.72583333,-96.80444444,TOP,MBRFC,Missouri Region,KS,0.13,0.05,0.05,1,2/8/2023,obj,FMA
+BARN1,Big Blue River near Barneston,40.04472222,-96.58722222,OAX,MBRFC,Missouri Region,NE,0.12,0.05,0.05,1,2/8/2023,obj,FMA
+BBRW4,South Fork Shoshone River above Buffalo Bill Reservoir,44.43277778,-109.2516667,RIW,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+BCHM8,Beaver Creek (MT) near Hinsdale,48.42027778,-107.1711111,GGW,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+BCMM8,Battle Creek (North-central MT) near Chinook,48.65,-109.2333333,TFX,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+BDFI4,East Fork 102 River at Bedford,40.66083333,-94.71638889,DMX,MBRFC,Missouri Region,IA,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+BDYN1,Platte River at Brady,41.01944444,-100.3711111,LBF,MBRFC,Missouri Region,NE,0.1,0.08,0.05,1,2/8/2023,obj,FMA
+BEAN1,Big Blue River at Beatrice,40.25611111,-96.74638889,OAX,MBRFC,Missouri Region,NE,0.1,0.05,0.05,1,2/8/2023,obj,FMA
+BEKN1,S. Fork Republican River near Benkelman,40.0094,-101.5422,GLD,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+BENN1,Republican River near Benkelman,40.0347,-101.5428,GLD,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+BEVN1,Beaver Creek near Beaver City,40.12,-99.8931,GID,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+BFYM8,Clarks Fork of the Yellowstone near Belfry,45.00916667,-109.0655556,BYZ,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+BGPN1,North Platte River near Bridgeport,41.67666667,-103.0969444,CYS,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+BHBW4,Big Horn River at Basin,44.38333333,-108.0355556,RIW,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+BIGM7,Big Piney at Ft. Wood - East Gate,37.76027778,-92.05805556,SGF,MBRFC,Missouri Region,MO,0.73,0.29,0.09,2,2/8/2023,obj,FMA
+BILM8,Yellowstone River at Billings,45.8001,-108.468,BYZ,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+BLAN1,Missouri River near Blair,41.55083333,-96.09694444,OAX,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+BLRK1,Big Blue River at Blue Rapids,39.68888889,-96.64166667,TOP,MBRFC,Missouri Region,KS,0.36,0.05,0.05,1,2/8/2023,obj,FMA
+BLRM7,Big Creek near Blairstown,38.555,-93.96527778,EAX,MBRFC,Missouri Region,MO,0.92,0.73,0.05,3,2/8/2023,obj,FMA
+BLTK1,Solomon River at Beloit,39.455,-98.10916667,GID,MBRFC,Missouri Region,KS,0.1,0.05,0.05,1,2/8/2023,obj,FMA
+BLVM7,Blackwater River near Blue Lick,38.99027778,-93.20388889,EAX,MBRFC,Missouri Region,MO,0.83,0.49,0.08,2,2/8/2023,obj,FMA
+BNYM8,Tongue River at Birney Day School near Birney,45.41166667,-106.4572222,BYZ,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+BONM7,Petite Saline Creek near Boonville,38.91722222,-92.70444444,EAX,MBRFC,Missouri Region,MO,0.61,0.44,0.05,2,2/8/2023,obj,FMA
+BOSW4,Laramie River near Bosler,41.55472222,-105.8283333,CYS,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+BOZM7,Missouri River at Boonville,38.98166667,-92.74583333,EAX,MBRFC,Missouri Region,MO,0.54,0.07,0.05,2,2/8/2023,obj,FMA
+BREN8,Cannonball River at Breien,46.3761,-100.9341667,BIS,MBRFC,Missouri Region,ND,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+BRKS2,Big Sioux River near Brookings,44.1803,-96.7492,FSD,MBRFC,Missouri Region,SD,0.28,0.21,0.05,1,2/8/2023,obj,FMA
+BRLM7,Nodaway River near Burlington Junction,40.445,-95.08944444,EAX,MBRFC,Missouri Region,MO,0.07,0.05,0.05,1,2/8/2023,obj,FMA
+BRNK1,Salt Creek (KS) at Barnard,39.19027778,-98.03972222,ICT,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+BRNM7,Grand River near Brunswick,39.43083333,-93.15972222,EAX,MBRFC,Missouri Region,MO,0.6,0.09,0.05,2,2/8/2023,obj,FMA
+BRON1,Missouri River at Brownville,40.39888889,-95.65333333,OAX,MBRFC,Missouri Region,NE,0.22,0.09,0.05,1,2/8/2023,obj,FMA
+BSMM8,Big Sandy Creek (MT) near Havre,48.5267,-109.8415,TFX,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+BTMM8,Boulder River at Big Timber,45.83416667,-109.9380556,BYZ,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+BVCM7,Blue River at Colorado Avenue,39.0367,-94.5226,EAX,MBRFC,Missouri Region,MO,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+BVRN8,Beaver Creek (South Central ND) at Linton,46.26861111,-100.2513889,BIS,MBRFC,Missouri Region,ND,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+BVSN1,Sappa Creek near Beaver City,40.04583333,-99.89,GID,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+BVUK1,Kansas River near Belvue,39.1875,-96.14722222,TOP,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+BWSW4,Belle Fourche River at Wyoming-South Dakota State Line,44.7489,-104.0517,UNR,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+BZNC2,South Platte River near Balzac,40.35777778,-103.5286111,BOU,MBRFC,Missouri Region,CO,0.09,0.08,0.07,1,2/8/2023,obj,FMA
+CACS2,Little Missouri River at Camp Crook,45.54805556,-103.9711111,UNR,MBRFC,Missouri Region,SD,0.07,0.05,0.05,1,2/8/2023,obj,FMA
+CAMN1,Republican River at Cambridge,40.28416667,-100.1433333,GID,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+CAXM7,Wakenda Creek at Carrollton,39.34361111,-93.48555556,EAX,MBRFC,Missouri Region,MO,0.62,0.43,0.12,2,2/8/2023,obj,FMA
+CCMM8,Clear Creek (North-central MT) near Chinook near mouth,48.57888889,-109.3905556,TFX,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+CDBK1,Beaver Creek at Cedar Bluffs,39.98638889,-100.56,GLD,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+CHKI4,Little Sioux River at Cherokee,42.74472222,-95.54944444,FSD,MBRFC,Missouri Region,IA,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+CHPK1,Chapman Creek near Chapman,39.03111111,-97.04,TOP,MBRFC,Missouri Region,KS,0.11,0.05,0.05,1,2/8/2023,obj,FMA
+CHTI4,Chariton River near Chariton,40.95194444,-93.25972222,DMX,MBRFC,Missouri Region,IA,0.08,0.05,0.05,1,2/8/2023,obj,FMA
+CHZM7,Grand River near Chillicothe,39.75444444,-93.55638889,EAX,MBRFC,Missouri Region,MO,0.57,0.41,0.23,2,2/8/2023,obj,FMA
+CLBM8,Missouri River near Culbertson,48.1225,-104.4758333,GGW,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+CLBN1,Shell Creek near Columbus,41.52611111,-97.28166667,OAX,MBRFC,Missouri Region,NE,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+CLDK1,Elk Creek (KS) at Clyde,39.59111111,-97.39111111,TOP,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+CMBS2,James River near Columbia,45.60555556,-98.31166667,ABR,MBRFC,Missouri Region,SD,0.44,0.37,0.24,1,2/8/2023,obj,FMA
+CMSM7,Missouri River near Chamois,38.6808,-91.773,LSX,MBRFC,Missouri Region,MO,0.62,0.07,0.05,2,2/8/2023,obj,FMA
+CMZM7,Sac River near Caplinger Mills,37.86972222,-93.80305556,SGF,MBRFC,Missouri Region,MO,0.56,0.4,0.1,2,2/8/2023,obj,FMA
+CNKK1,Republican River at Concordia,39.58861111,-97.65805556,TOP,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+CORM8,Yellowstone River at Corwin Springs,45.11194444,-110.7936111,BYZ,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+COSS2,Split Rock Creek at Corson,43.61638889,-96.565,FSD,MBRFC,Missouri Region,SD,0.14,0.06,0.05,1,2/8/2023,obj,FMA
+CPRW4,North Platte River at Casper,42.86,-106.3191667,RIW,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+CROW4,Wind River near Crowheart,43.2425,-109.0097222,RIW,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+CRRI4,Little Sioux River at Correctionville,42.46861111,-95.795,FSD,MBRFC,Missouri Region,IA,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+CRTN1,Big Blue River near Crete,40.59638889,-96.96083333,OAX,MBRFC,Missouri Region,NE,0.1,0.05,0.05,1,2/8/2023,obj,FMA
+CSWS2,Big Sioux River near Castlewood,44.73166667,-97.04444444,ABR,MBRFC,Missouri Region,SD,0.61,0.3,0.05,2,2/8/2023,obj,FMA
+CULN1,Frenchman Creek at Culbertson,40.23472222,-100.8777778,GLD,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+CYCK1,Republican River at Clay Center,39.35555556,-97.12611111,TOP,MBRFC,Missouri Region,KS,0.11,0.05,0.05,1,2/8/2023,obj,FMA
+DARN1,Platte River near Darr,40.7768,-99.848,GID,MBRFC,Missouri Region,NE,0.23,0.09,0.08,1,2/8/2023,obj,FMA
+DBRM8,Dearborn River near Craig,47.19861111,-112.0955556,TFX,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+DCTN1,Missouri River at Decatur,42.00722222,-96.24138889,OAX,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+DELK1,Soldier Creek near Delia,39.23833333,-95.88833333,TOP,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+DERS2,Big Sioux River near Dell Rapids,43.79027778,-96.745,FSD,MBRFC,Missouri Region,SD,0.23,0.11,0.06,1,2/8/2023,obj,FMA
+DEWN1,Turkey Creek near DeWitt,40.36722222,-96.88944444,OAX,MBRFC,Missouri Region,NE,0.06,0.06,0.06,1,2/8/2023,obj,FMA
+DKKC2,North Fork Big Thompson River (CO) at Drake,40.43361111,-105.3458333,BOU,MBRFC,Missouri Region,CO,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+DMRM8,Milk River near Dodson,48.40305556,-108.2936111,GGW,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+DNCN1,Platte River near Duncan,41.36833333,-97.49527778,OAX,MBRFC,Missouri Region,NE,0.07,0.05,0.05,1,2/8/2023,obj,FMA
+DNVC2,South Platte River at Denver,39.75972222,-105.0027778,BOU,MBRFC,Missouri Region,CO,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+DRBC2,Clear Creek (CO) at Derby,39.82833333,-104.9583333,BOU,MBRFC,Missouri Region,CO,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+DRGN1,West Fork Big Blue River near Dorchester,40.73083333,-97.17777778,OAX,MBRFC,Missouri Region,NE,0.12,0.05,0.05,1,2/8/2023,obj,FMA
+DSOK1,Kansas River at De Soto,38.98333333,-94.96444444,EAX,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+DTTM8,Teton River near Dutton,47.93027778,-111.5519444,TFX,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+DUBW4,Wind River near Dubois,43.57861111,-109.7591667,RIW,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+DVSI4,Thompson River (IA/MO) at Davis City,40.64027778,-93.80777778,DMX,MBRFC,Missouri Region,IA,0.18,0.05,0.05,1,2/8/2023,obj,FMA
+DVSS2,Vermillion River near Davis,43.23722222,-96.98333333,FSD,MBRFC,Missouri Region,SD,0.39,0.26,0.11,1,2/8/2023,obj,FMA
+DWEN1,Little Blue River near Deweese,40.34972222,-98.05916667,GID,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+ECRW4,Encampment River at Mouth near Encampment,41.30333333,-106.7119444,CYS,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+EDGM8,Clarks Fork of the Yellowstone at Edgar,45.46611111,-108.8430556,BYZ,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+ELLK1,Big Creek at Ellis,38.93694444,-99.56361111,DDC,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+ELWK1,Smoky Hill River at Ellsworth,38.72666667,-98.23333333,ICT,MBRFC,Missouri Region,KS,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+EMSS2,Belle Fourche River near Elm Springs,44.36972222,-102.5655556,UNR,MBRFC,Missouri Region,SD,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+ENTK1,Smoky Hill River at Enterprise,38.90666667,-97.12,TOP,MBRFC,Missouri Region,KS,0.19,0.17,0.05,1,2/8/2023,obj,FMA
+ERNM8,Milk River at Eastern Crossing nr Rudyard,48.98333333,-110.4666667,TFX,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+ESTK1,Stranger Creek at Easton,39.345,-95.10805556,EAX,MBRFC,Missouri Region,KS,0.72,0.56,0.07,3,2/8/2023,obj,FMA
+EWIN1,Elkhorn River at Ewing,42.26833333,-98.33944444,LBF,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+FBNM8,Missouri River at Fort Benton,47.81777778,-110.6675,TFX,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+FFXM7,Tarkio River near Fairfax,40.33944444,-95.40666667,EAX,MBRFC,Missouri Region,MO,0.5,0.49,0.18,1,2/8/2023,obj,FMA
+FKFK1,Black Vermillion River at Frankfort,39.68194444,-96.4425,TOP,MBRFC,Missouri Region,KS,0.44,0.05,0.05,1,2/8/2023,obj,FMA
+FLAW4,Laramie River near Fort Laramie,42.20055556,-104.5383333,CYS,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+FLLN1,Big Nemaha River at Falls City,40.03555556,-95.59583333,OAX,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+FOMC2,South Platte River at Fort Morgan,40.26833333,-103.8011111,BOU,MBRFC,Missouri Region,CO,0.09,0.07,0.05,1,2/8/2023,obj,FMA
+FORS2,James River near Forestburg,43.97388889,-98.07055556,FSD,MBRFC,Missouri Region,SD,0.29,0.25,0.16,1,2/8/2023,obj,FMA
+FRBN1,Little Blue River near Fairbury,40.14638889,-97.19944444,OAX,MBRFC,Missouri Region,NE,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+FRYM8,Yellowstone River at Forsyth,46.26611111,-106.69,BYZ,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+FSKK1,Marmaton River at Fort Scott,37.84888889,-94.7025,SGF,MBRFC,Missouri Region,KS,0.15,0.08,0.07,1,2/8/2023,obj,FMA
+FTDC2,Cache La Poudre River (CO) above Fort Collins,40.66444444,-105.2238889,BOU,MBRFC,Missouri Region,CO,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+FTHS2,Moreau River (SD) near Faith,45.19777778,-102.1561111,UNR,MBRFC,Missouri Region,SD,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+FTNK1,Little Osage River at Fulton,38.00944444,-94.70361111,SGF,MBRFC,Missouri Region,KS,0.56,0.39,0.05,2,2/8/2023,obj,FMA
+FTPS2,Bad River (SD) near Fort Pierre,44.32666667,-100.3838889,ABR,MBRFC,Missouri Region,SD,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+FTRK1,Kansas River at Ft. Riley,39.06166667,-96.76611111,TOP,MBRFC,Missouri Region,KS,0.08,0.05,0.05,1,2/8/2023,obj,FMA
+FULN1,Cedar River (NE) near Fullerton,41.39472222,-98.00361111,GID,MBRFC,Missouri Region,NE,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+FYTM7,Moniteau Creek near Fayette,39.12083333,-92.56111111,EAX,MBRFC,Missouri Region,MO,0.7,0.07,0.05,2,2/8/2023,obj,FMA
+GAZM7,Grand River near Gallatin,39.92694444,-93.9425,EAX,MBRFC,Missouri Region,MO,0.43,0.06,0.05,1,2/8/2023,obj,FMA
+GBBN1,Wood River near Gibbon,40.77138889,-98.7975,GID,MBRFC,Missouri Region,NE,0.13,0.12,0.11,1,2/8/2023,obj,FMA
+GCEN8,James River near Grace City,47.55805556,-98.8625,BIS,MBRFC,Missouri Region,ND,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+GDEK1,N F Solomon River at Glade,39.67305556,-99.30916667,GID,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+GELN1,Loup River near Genoa,41.41805556,-97.72361111,GID,MBRFC,Missouri Region,NE,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+GEON1,Beaver Creek (Loup River tributary) at Genoa,41.44138889,-97.73444444,GID,MBRFC,Missouri Region,NE,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+GIDN1,Wood River at Grand Island Diversion,40.87444444,-98.37777778,GID,MBRFC,Missouri Region,NE,0.08,0.05,0.05,1,2/8/2023,obj,FMA
+GLAK1,Solomon River near Glasco,39.33861111,-97.83583333,TOP,MBRFC,Missouri Region,KS,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+GLDC2,Clear Creek (CO) at Golden,39.75305556,-105.2347222,BOU,MBRFC,Missouri Region,CO,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+GLGM8,Gallatin River near Gallatin Gateway,45.4975,-111.2697222,TFX,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+GLNM8,Yellowstone River at Glendive,47.10555556,-104.7188889,GGW,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+GLNW4,North Platte River near Glenrock,42.83611111,-105.7588889,CYS,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+GLWM8,Milk River near Glasgow,48.14416667,-106.5936111,GGW,MBRFC,Missouri Region,MT,0.09,0.07,0.05,1,2/8/2023,obj,FMA
+GLZM7,Missouri River at Glasgow,39.2222,-92.8486,EAX,MBRFC,Missouri Region,MO,0.49,0.36,0.08,1,2/8/2023,obj,FMA
+GOVK1,Hackberry Creek at Gove,38.9537,-100.4876,GLD,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+GRIN1,Platte River near Grand Island,40.87444444,-98.28166667,GID,MBRFC,Missouri Region,NE,0.12,0.09,0.05,1,2/8/2023,obj,FMA
+GRNN1,Salt Creek near Greenwood,40.96527778,-96.45444444,OAX,MBRFC,Missouri Region,NE,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+GRPC2,Cache La Poudre River (CO) near Greeley,40.41777778,-104.6394444,BOU,MBRFC,Missouri Region,CO,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+GRTK1,Pottawatomie Creek near Garnett,38.33361111,-95.24861111,TOP,MBRFC,Missouri Region,KS,0.13,0.05,0.05,1,2/8/2023,obj,FMA
+GUIN1,Republican River at Guide Rock,40.06361111,-98.33138889,GID,MBRFC,Missouri Region,NE,0.07,0.05,0.05,1,2/8/2023,obj,FMA
+GYBW4,Big Horn River at Greybull,44.48861111,-108.0469444,RIW,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+HAIN1,Arikaree River at Haigler,40.02916667,-101.9675,GLD,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+HANW4,Medicine Bow River near Hanna,42.00972222,-106.5125,CYS,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+HBGK1,Little Blue River near Hollenberg,39.98333333,-97.0044,TOP,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+HBLN1,North Fork Big Nemaha River at Humboldt,40.15694444,-95.94444444,OAX,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+HDYN1,Republican River near Hardy,39.9925,-97.93138889,GID,MBRFC,Missouri Region,KS,0.1,0.05,0.05,1,2/8/2023,obj,FMA
+HENN1,North Platte River near Henry,41.99861111,-104.0533333,CYS,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+HLWM8,Musselshell River near Harlowton,46.42888889,-109.8413889,BYZ,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+HMBI4,Nishnabotna River above Hamburg,40.6017,-95.6422,OAX,MBRFC,Missouri Region,IA,0.08,0.05,0.05,1,2/8/2023,obj,FMA
+HNDC2,South Platte River at Henderson,39.92222222,-104.8688889,BOU,MBRFC,Missouri Region,CO,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+HNKI4,West Nishnabotna River near Hancock,41.39,-95.37138889,OAX,MBRFC,Missouri Region,IA,0.15,0.06,0.05,1,2/8/2023,obj,FMA
+HOKI4,West Fork Ditch near Hornick,42.22694444,-96.07777778,FSD,MBRFC,Missouri Region,IA,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+HRDM8,Little Bighorn River near Hardin,45.73583333,-107.5566667,BYZ,MBRFC,Missouri Region,MT,0.14,0.11,0.05,1,2/8/2023,obj,FMA
+HRLM8,Milk River near Harlem,48.48944444,-108.7577778,TFX,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+HRNM7,Missouri River at Hermann,38.70166667,-91.43138889,LSX,MBRFC,Missouri Region,MO,0.56,0.26,0.12,2,2/8/2023,obj,FMA
+HTNM7,Little Osage River at Horton,37.99472222,-94.36916667,SGF,MBRFC,Missouri Region,MO,0.67,0.22,0.05,2,2/8/2023,obj,FMA
+HURS2,James River at Huron,44.36361111,-98.19888889,FSD,MBRFC,Missouri Region,SD,0.43,0.23,0.21,1,2/8/2023,obj,FMA
+HVRM8,Milk River at Havre,48.56388889,-109.695,TFX,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+HWDI4,Big Sioux River above Hawarden,43.05138889,-96.48944444,FSD,MBRFC,Missouri Region,IA,0.34,0.25,0.11,1,2/8/2023,obj,FMA
+HYSK1,Big Creek near Hays,38.85222222,-99.31805556,DDC,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+HZLM7,Gasconade River near Hazelgreen,37.7592,-92.4517,SGF,MBRFC,Missouri Region,MO,0.25,0.21,0.09,1,2/8/2023,obj,FMA
+HZNN8,Knife River (ND) near Hazen,47.28527778,-101.6216667,BIS,MBRFC,Missouri Region,ND,0.08,0.07,0.05,1,2/8/2023,obj,FMA
+ICLI4,Nodaway River at Clarinda,40.73861111,-95.01305556,OAX,MBRFC,Missouri Region,IA,0.07,0.05,0.05,1,2/8/2023,obj,FMA
+ID8S2,Turtle Creek at Redfield,44.88333333,-98.51277778,ABR,MBRFC,Missouri Region,SD,0.28,0.19,0.11,1,2/8/2023,obj,FMA
+ITHN1,Wahoo Creek at Ithaca,41.1475,-96.53833333,OAX,MBRFC,Missouri Region,NE,0.44,0.36,0.05,1,2/8/2023,obj,FMA
+JCMM7,Moreau River (MO) near Jefferson City,38.52916667,-92.19194444,LSX,MBRFC,Missouri Region,MO,0.74,0.32,0.15,2,2/8/2023,obj,FMA
+JFFM7,Missouri River at Jefferson City,38.58694444,-92.17972222,LSX,MBRFC,Missouri Region,MO,0.32,0.18,0.08,1,2/8/2023,obj,FMA
+JMEI4,Floyd River at James,42.57666667,-96.31194444,FSD,MBRFC,Missouri Region,IA,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+JMSK1,Buffalo Creek (KS River Basin) at Jamestown,39.61472222,-97.85638889,TOP,MBRFC,Missouri Region,KS,0.08,0.05,0.05,1,2/8/2023,obj,FMA
+JNCK1,Lyon Creek near Junction City,38.94916667,-96.85805556,TOP,MBRFC,Missouri Region,KS,0.13,0.05,0.05,1,2/8/2023,obj,FMA
+JRMM7,Gasconade River at Jerome,37.93,-91.9772,SGF,MBRFC,Missouri Region,MO,0.46,0.19,0.08,1,2/8/2023,obj,FMA
+JRMS2,James River near Mitchell,43.65888889,-97.91888889,FSD,MBRFC,Missouri Region,SD,0.31,0.27,0.17,1,2/8/2023,obj,FMA
+JUCK1,Smoky Hill River near Junction City,38.97888889,-96.85722222,TOP,MBRFC,Missouri Region,KS,0.1,0.05,0.05,1,2/8/2023,obj,FMA
+JULC2,South Platte River near Julesburg,40.9792,-102.2542,BOU,MBRFC,Missouri Region,CO,0.07,0.05,0.05,1,2/8/2023,obj,FMA
+KAYM7,Blue River at 63rd Street,39.01416667,-94.52555556,EAX,MBRFC,Missouri Region,MO,0.13,0.05,0.05,1,2/8/2023,obj,FMA
+KBRM7,Blue River at Blue Ridge Blvd Ext,38.89,-94.58111111,EAX,MBRFC,Missouri Region,MO,0.15,0.05,0.05,1,2/8/2023,obj,FMA
+KCCM7,Blue River at Bannister Road,38.95722222,-94.55861111,EAX,MBRFC,Missouri Region,MO,0.07,0.05,0.05,1,2/8/2023,obj,FMA
+KCDM7,Missouri River at Kansas City,39.11166667,-94.58805556,EAX,MBRFC,Missouri Region,MO,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+KCKK1,Kansas River at 23rd Street - Kansas City - KS,39.09,-94.60888889,EAX,MBRFC,Missouri Region,KS,0.08,0.05,0.05,1,2/8/2023,obj,FMA
+KCTM7,Blue River at 12th Street,39.09694444,-94.49111111,EAX,MBRFC,Missouri Region,MO,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+KDKS2,White River (NE-SD) near Kadoka,43.7525,-101.5244444,UNR,MBRFC,Missouri Region,SD,0.23,0.12,0.06,1,2/8/2023,obj,FMA
+KEAN1,Platte River near Kearney,40.65805556,-99.08611111,GID,MBRFC,Missouri Region,NE,0.07,0.05,0.05,1,2/8/2023,obj,FMA
+KERC2,South Platte River near Kersey,40.4125,-104.5630556,BOU,MBRFC,Missouri Region,CO,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+KINW4,Wind River near Kinnear,43.12777778,-108.7236111,RIW,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+KNYM7,Blue River at 71 Highway,38.97277778,-94.545,EAX,MBRFC,Missouri Region,MO,0.11,0.05,0.05,1,2/8/2023,obj,FMA
+KSDM7,Blue River at Stadium Drive,39.05833333,-94.51166667,EAX,MBRFC,Missouri Region,MO,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+KSVM7,Blue River at 17th Street,39.09,-94.49388889,EAX,MBRFC,Missouri Region,MO,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+LAMN8,James River at LaMoure,46.35555556,-98.30416667,BIS,MBRFC,Missouri Region,ND,0.11,0.05,0.05,1,2/8/2023,obj,FMA
+LAWK1,Wakarusa River near Lawrence,38.91111111,-95.26027778,TOP,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+LCGK1,Marais Des Cygnes River at La Cygne,38.34527778,-94.77194444,EAX,MBRFC,Missouri Region,KS,0.49,0.3,0.05,1,2/8/2023,obj,FMA
+LCNN1,Salt Creek at Lincoln (27th Street),40.84694444,-96.68166667,OAX,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+LCPK1,Kansas River at Lecompton,39.05194444,-95.3875,TOP,MBRFC,Missouri Region,KS,0.12,0.05,0.05,1,2/8/2023,obj,FMA
+LDKM8,Missouri River near Landusky,47.63083333,-108.6869444,TFX,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+LDLK1,Beaver Creek at Ludell,39.84861111,-101.0338889,GLD,MBRFC,Missouri Region,KS,0.08,0.05,0.05,1,2/8/2023,obj,FMA
+LESN1,Platte River near Leshara,41.31972222,-96.40444444,OAX,MBRFC,Missouri Region,NE,0.07,0.05,0.05,1,2/8/2023,obj,FMA
+LEVK1,Missouri River at Leavenworth,39.32694444,-94.90916667,EAX,MBRFC,Missouri Region,KS,0.12,0.07,0.05,1,2/8/2023,obj,FMA
+LEWN1,North Platte River at Lewellen,41.3169,-102.1256,LBF,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+LGEM8,Lodge Creek below McRae Creek at International Boundary,49.00527778,-109.7172222,TFX,MBRFC,Missouri Region,MT,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+LGNI4,Boyer River at Logan,41.6425,-95.7825,OAX,MBRFC,Missouri Region,IA,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+LIES2,Grand River (SD) near Little Eagle,45.65777778,-100.8177778,ABR,MBRFC,Missouri Region,SD,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+LINK1,Saline River (KS) at Lincoln,39.02777778,-98.15027778,ICT,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+LISK1,Rock Creek (KS) at Louisville,39.24916667,-96.31472222,TOP,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+LIVM8,Yellowstone River near Livingston,45.59722222,-110.5652778,BYZ,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+LKCM7,Little Blue River (MO) near Lake City,39.10083333,-94.30027778,EAX,MBRFC,Missouri Region,MO,0.31,0.05,0.05,1,2/8/2023,obj,FMA
+LLRW4,Laramie River at Laramie,41.32777778,-105.6072222,CYS,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+LMCN8,Little Muddy River near Williston,48.28444444,-103.5725,BIS,MBRFC,Missouri Region,ND,0.17,0.08,0.05,1,2/8/2023,obj,FMA
+LMRI4,Floyd River at Le Mars,42.80027778,-96.17388889,FSD,MBRFC,Missouri Region,IA,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+LNDK1,Salt Creek (LNDK1) at Lyndon,38.60888889,-95.63805556,TOP,MBRFC,Missouri Region,KS,0.24,0.05,0.05,1,2/8/2023,obj,FMA
+LNEK1,Pottawatomie Creek at Lane,38.44361111,-95.08388889,TOP,MBRFC,Missouri Region,KS,0.14,0.08,0.05,1,2/8/2023,obj,FMA
+LNNI4,Little Sioux River at Linn Grove,42.89555556,-95.24333333,FSD,MBRFC,Missouri Region,IA,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+LNRK1,N F Solomon River at Lenora,39.60916667,-100.0013889,GLD,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+LNSK1,Smoky Hill River at Lindsborg,38.56611111,-97.67277778,ICT,MBRFC,Missouri Region,KS,0.09,0.05,0.05,1,2/8/2023,obj,FMA
+LOGM8,Gallatin River at Logan,45.88527778,-111.4375,TFX,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+LOUN1,Platte River at Louisville,41.01527778,-96.15777778,OAX,MBRFC,Missouri Region,NE,0.08,0.05,0.05,1,2/8/2023,obj,FMA
+LOVC2,Plum Creek (CO) near Sedalia,39.43833333,-104.9825,BOU,MBRFC,Missouri Region,CO,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+LSON1,North Platte River at Lisco,41.49,-102.6247,LBF,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+LUPC2,South Platte River at Fort Lupton,40.11611111,-104.8180556,BOU,MBRFC,Missouri Region,CO,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+LUVM5,Rock River at Luverne,43.6542,-96.2008,FSD,MBRFC,Missouri Region,MN,0.12,0.05,0.05,1,2/8/2023,obj,FMA
+LVNM8,Musselshell River near Lavina,46.28916667,-108.9375,BYZ,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+LWRK1,Kansas River at Lawrence,38.97416667,-95.23583333,TOP,MBRFC,Missouri Region,KS,0.07,0.05,0.05,1,2/8/2023,obj,FMA
+MALM8,Milk River at Malta,48.36194444,-107.8758333,GGW,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+MAPI4,Maple River at Mapleton,42.15694444,-95.80972222,OAX,MBRFC,Missouri Region,IA,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+MCKN1,Driftwood Creek near McCook,40.14583333,-100.6727778,GLD,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+MDAN8,Little Missouri River at Medora,46.91805556,-103.5302778,BIS,MBRFC,Missouri Region,ND,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+MDNN8,Heart River near Mandan,46.83361111,-100.9744444,BIS,MBRFC,Missouri Region,ND,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+MDYM8,Muddy Creek at Vaughn,47.56166667,-111.5425,TFX,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+MENN8,Apple Creek (ND) near Menoken,46.79444444,-100.6569444,BIS,MBRFC,Missouri Region,ND,0.4,0.29,0.05,1,2/8/2023,obj,FMA
+MHKK1,Kansas River at Manhattan,39.17472222,-96.55444444,TOP,MBRFC,Missouri Region,KS,0.09,0.05,0.05,1,2/8/2023,obj,FMA
+MIAM7,Missouri River at Miami,39.32833333,-93.22472222,EAX,MBRFC,Missouri Region,MO,0.46,0.07,0.05,1,2/8/2023,obj,FMA
+MICM8,Tongue River at Miles City,46.38472222,-105.8447222,BYZ,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+MICN1,North Platte River near Mitchell,41.92694444,-103.8133333,CYS,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+MIDS2,Bad River (SD) near Midland,44.06722222,-101.1602778,UNR,MBRFC,Missouri Region,SD,0.1,0.05,0.05,1,2/8/2023,obj,FMA
+MIFI4,Little Sioux River near Milford,43.32777778,-95.20166667,FSD,MBRFC,Missouri Region,IA,0.44,0.25,0.16,1,2/8/2023,obj,FMA
+MILM8,Yellowstone River at Miles City,46.42083333,-105.86,BYZ,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+MKRN1,Republican River at McCook,40.1875,-100.6180556,GLD,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+MLRM8,Big Hole River near Melrose,45.53333333,-112.7,TFX,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+MNGN8,Knife River (ND) at Manning,47.23611111,-102.7694444,BIS,MBRFC,Missouri Region,ND,0.11,0.05,0.05,1,2/8/2023,obj,FMA
+MNTN1,North Platte River near Minatare,41.79,-103.5188889,CYS,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+MOAM7,Osage River at Mari-Osa Campground,38.49388889,-92.00694444,LSX,MBRFC,Missouri Region,MO,0.24,0.16,0.05,1,2/8/2023,obj,FMA
+MOLI4,Chariton River near Moulton,40.6925,-92.77277778,DMX,MBRFC,Missouri Region,IA,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+MPSK1,Solomon River at Minneapolis,39.12027778,-97.71111111,TOP,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+MRLI4,Floyd River at Merrill,42.72138889,-96.24027778,FSD,MBRFC,Missouri Region,IA,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+MRRC2,Bear Creek (CO) at Morrison,39.65305556,-105.1955556,BOU,MBRFC,Missouri Region,CO,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+MRYK1,Big Blue River at Marysville,39.84222222,-96.66083333,TOP,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+MSBM8,Musselshell River near Mosby,46.9947,-107.8883,GGW,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+MSCK1,Delaware River (KS) near Muscotah,39.52138889,-95.5325,EAX,MBRFC,Missouri Region,KS,0.21,0.17,0.05,1,2/8/2023,obj,FMA
+MTHN8,Little Missouri River at Marmarth,46.29777778,-103.918,BIS,MBRFC,Missouri Region,ND,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+MTRK1,Smoky Hill River near Mentor,38.71111111,-97.57138889,ICT,MBRFC,Missouri Region,KS,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+MTVS2,Firesteel Creek near Mt. Vernon,43.77638889,-98.24555556,FSD,MBRFC,Missouri Region,SD,0.2,0.08,0.05,1,2/8/2023,obj,FMA
+MUSM8,Musselshell River at Musselshell,46.51666667,-108.1,BYZ,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+MWCK1,Wildcat Creek at Manhattan Scenic Drive,39.18833333,-96.6425,TOP,MBRFC,Missouri Region,KS,0.1,0.08,0.05,1,2/8/2023,obj,FMA
+MYVM7,102 River at Maryville,40.34583333,-94.83416667,EAX,MBRFC,Missouri Region,MO,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+NAPM7,Missouri River at Napoleon,39.13305556,-94.06388889,EAX,MBRFC,Missouri Region,MO,0.37,0.07,0.05,1,2/8/2023,obj,FMA
+NBDN1,Platte River at North Bend,41.45305556,-96.77583333,OAX,MBRFC,Missouri Region,NE,0.07,0.05,0.05,1,2/8/2023,obj,FMA
+NCMK1,Smoky Hill River near New Cambria,38.86361111,-97.48277778,ICT,MBRFC,Missouri Region,KS,0.14,0.07,0.05,1,2/8/2023,obj,FMA
+NCRK1,Sappa Creek near Norcatur,40.00138889,-99.99166667,GLD,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+NEBN1,Missouri River at Nebraska City,40.6986,-95.8866,OAX,MBRFC,Missouri Region,NE,0.3,0.08,0.05,1,2/8/2023,obj,FMA
+NFKN1,Elkhorn River at Norfolk,42.00388889,-97.42527778,OAX,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+NFSW4,North Fork Shoshone River at Wapiti,44.46972222,-109.4297222,RIW,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+NGTC2,North Platte River near Northgate,40.93666667,-106.3391667,BOU,MBRFC,Missouri Region,CO,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+NKRN1,Maple Creek near Nickerson,41.56083333,-96.54083333,OAX,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+NLIN1,Elkhorn River at Neligh,42.12305556,-98.04361111,OAX,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+NLSK1,Solomon River at Niles,38.96888889,-97.47611111,TOP,MBRFC,Missouri Region,KS,0.24,0.06,0.05,1,2/8/2023,obj,FMA
+NPSN1,South Platte River at North Platte,41.11805556,-100.7727778,LBF,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+NPTN1,North Platte River at North Platte,41.15444444,-100.7588889,LBF,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+NSHM8,Milk River at Nashua,48.13,-106.3638889,GGW,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+NVDM7,Marmaton River near Nevada,37.86194444,-94.39916667,SGF,MBRFC,Missouri Region,MO,0.56,0.25,0.08,2,2/8/2023,obj,FMA
+NVZM7,Chariton River near Novinger,40.23472222,-92.68722222,EAX,MBRFC,Missouri Region,MO,0.29,0.14,0.07,1,2/8/2023,obj,FMA
+OBNK1,Sappa Creek near Oberlin,39.81305556,-100.5338889,GLD,MBRFC,Missouri Region,KS,0.07,0.05,0.05,1,2/8/2023,obj,FMA
+OKYK1,Smoky Hill River near Oakley,38.78527778,-100.8738889,GLD,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+OMHN1,Missouri River at Omaha,41.25888889,-95.92222222,OAX,MBRFC,Missouri Region,NE,0.1,0.05,0.05,1,2/8/2023,obj,FMA
+ORIW4,North Platte River near Orin,42.65277778,-105.1588889,CYS,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+ORNN1,Republican River near Orleans,40.13138889,-99.5,GID,MBRFC,Missouri Region,NE,0.07,0.05,0.05,1,2/8/2023,obj,FMA
+OSBK1,S F Solomon River near Osborne,39.45,-98.7001,GID,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+OSMK1,Marais Des Cygnes River at Osawatomie,38.50333333,-94.96,EAX,MBRFC,Missouri Region,KS,0.33,0.05,0.05,1,2/8/2023,obj,FMA
+OTTM7,Lamine River near Otterville,38.7022,-92.9789,EAX,MBRFC,Missouri Region,MO,0.68,0.54,0.06,3,2/8/2023,obj,FMA
+OTWK1,Marais Des Cygnes River at Ottawa,38.6167,-95.2667,TOP,MBRFC,Missouri Region,KS,0.24,0.08,0.05,1,2/8/2023,obj,FMA
+OVTN1,Platte River near Overton,40.74555556,-99.59,GID,MBRFC,Missouri Region,NE,0.09,0.05,0.05,1,2/8/2023,obj,FMA
+PALN1,Frenchman Creek (NE) at Palisade,40.34916667,-101.1086111,LBF,MBRFC,Missouri Region,NE,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+PASN1,Stinking Water Creek at Palisade,40.36944444,-101.1138889,LBF,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+PATM7,Grand River near Pattonsburg,40.02555556,-94.12694444,EAX,MBRFC,Missouri Region,MO,0.38,0.29,0.2,1,2/8/2023,obj,FMA
+PGEN8,Pipestem Creek near Pingree,47.1675,-98.96861111,BIS,MBRFC,Missouri Region,ND,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+PKRS2,West Fork Vermillion River near Parker,43.41555556,-97.205,FSD,MBRFC,Missouri Region,SD,0.11,0.07,0.05,1,2/8/2023,obj,FMA
+PKVM7,Missouri River above Parkville,39.19138889,-94.76972222,EAX,MBRFC,Missouri Region,MO,0.1,0.06,0.05,1,2/8/2023,obj,FMA
+PLCM7,Platte River near Platte City,39.36888889,-94.78638889,EAX,MBRFC,Missouri Region,MO,0.22,0.11,0.05,1,2/8/2023,obj,FMA
+PLGN1,Elkhorn River at Pilger,41.995,-97.05861111,OAX,MBRFC,Missouri Region,NE,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+PLNS2,Cheyenne River near Plainview,44.52944444,-101.9297222,UNR,MBRFC,Missouri Region,SD,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+PLRM8,Poplar River near Poplar,48.11777778,-105.1927778,GGW,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+POUC2,Cache La Poudre River (CO) at Fort Collins,40.58805556,-105.0922222,BOU,MBRFC,Missouri Region,CO,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+PRCN1,North Fork Elkhorn River near Pierce,42.18333333,-97.48333333,OAX,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+PRIM7,Chariton River near Prairie Hill,39.54,-92.79083333,EAX,MBRFC,Missouri Region,MO,0.65,0.21,0.08,2,2/8/2023,obj,FMA
+PRMI4,South Fork Chariton River near Promise City,40.79361111,-93.14083333,DMX,MBRFC,Missouri Region,IA,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+PSGI4,Soldier River at Pisgah,41.83055556,-95.93111111,OAX,MBRFC,Missouri Region,IA,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+PTIK1,N F Solomon River at Portis,39.555,-98.69194444,GID,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+PTMN1,Missouri River at Plattsmouth,41,-95.868,OAX,MBRFC,Missouri Region,NE,0.12,0.07,0.05,1,2/8/2023,obj,FMA
+PXCK1,Mill Creek (PXCK1) at Paxico,39.06222222,-96.18111111,TOP,MBRFC,Missouri Region,KS,0.25,0.05,0.05,1,2/8/2023,obj,FMA
+QNMK1,Marais Des Cygnes River near Quenemo,38.54666667,-95.52722222,TOP,MBRFC,Missouri Region,KS,0.31,0.12,0.05,1,2/8/2023,obj,FMA
+RAPI4,Rock River at Rock Rapids,43.42305556,-96.16472222,FSD,MBRFC,Missouri Region,IA,0.22,0.12,0.05,1,2/8/2023,obj,FMA
+RBXM7,Roubidoux Creek near Waynesville,37.79194444,-92.18333,SGF,MBRFC,Missouri Region,MO,0.4,0.09,0.05,1,2/8/2023,obj,FMA
+RDNK1,Marais Des Cygnes River near Reading,38.56666667,-95.96388889,TOP,MBRFC,Missouri Region,KS,0.36,0.34,0.05,1,2/8/2023,obj,FMA
+RDOI4,East Nishnabotna River at Red Oak,41.00861111,-95.24138889,OAX,MBRFC,Missouri Region,IA,0.1,0.05,0.05,1,2/8/2023,obj,FMA
+RDPI4,West Nishnabotna River near Randolph,40.87305556,-95.58,OAX,MBRFC,Missouri Region,IA,0.16,0.06,0.05,1,2/8/2023,obj,FMA
+RDPK1,Fancy Creek at Randolph,39.47222222,-96.83222222,TOP,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+REGN8,Cannonball River at Regent,46.42,-102.5611111,BIS,MBRFC,Missouri Region,ND,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+RFDS2,James River near Redfield,44.91055556,-98.47166667,ABR,MBRFC,Missouri Region,SD,0.21,0.2,0.16,1,2/8/2023,obj,FMA
+RICM7,Crooked River near Richmond,39.33277778,-93.98,EAX,MBRFC,Missouri Region,MO,0.58,0.49,0.05,2,2/8/2023,obj,FMA
+RIFM7,Gasconade River near Rich Fountain,38.38888889,-91.82083333,LSX,MBRFC,Missouri Region,MO,0.36,0.25,0.09,1,2/8/2023,obj,FMA
+RKVI4,Rock River at Rock Valley,43.2047,-96.3056,FSD,MBRFC,Missouri Region,IA,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+RLGN8,Cedar Creek (ND) near Raleigh,46.09277778,-101.3336111,BIS,MBRFC,Missouri Region,ND,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+ROCN1,Salt Creek at Roca,40.65777778,-96.66527778,OAX,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+RSDM7,102 River at Rosendale,40.04555556,-94.82888889,EAX,MBRFC,Missouri Region,MO,0.1,0.1,0.05,1,2/8/2023,obj,FMA
+RSLK1,Smoky Hill River below Russell,38.77666667,-98.85444444,ICT,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+RSON1,South Platte River at Roscoe,41.12611111,-101.5766667,LBF,MBRFC,Missouri Region,NE,0.1,0.06,0.05,1,2/8/2023,obj,FMA
+RSSK1,Cross Creek (KS) at Rossville,39.13888889,-95.95527778,TOP,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+RULN1,Missouri River at Rulo,40.05361111,-95.42194444,OAX,MBRFC,Missouri Region,NE,0.18,0.11,0.05,1,2/8/2023,obj,FMA
+RUPM8,Musselshell River near Roundup,46.42805556,-108.5719444,BYZ,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+RUSK1,Saline River (KS) near Russell,38.96583333,-98.85416667,ICT,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+RVNN1,South Loup River at Ravenna,41.03333,-98.9167,GID,MBRFC,Missouri Region,NE,0.18,0.07,0.05,1,2/8/2023,obj,FMA
+RVRN1,Republican River at Riverton,40.0875,-98.75972222,GID,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+RVTW4,Little Wind River near Riverton,42.9975,-108.3691667,RIW,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SACM8,Milk River near Saco,48.50805556,-107.2186111,GGW,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SBFS2,Belle Fourche River near Sturgis,44.51305556,-103.1363889,UNR,MBRFC,Missouri Region,SD,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SCLM7,Missouri River at St. Charles,38.7833,-90.4667,LSX,MBRFC,Missouri Region,MO,0.37,0.15,0.05,1,2/8/2023,obj,FMA
+SCOS2,James River near Scotland,43.18583333,-97.63527778,FSD,MBRFC,Missouri Region,SD,0.28,0.27,0.21,1,2/8/2023,obj,FMA
+SCSK1,Smoky Hill River below Schoenchen,38.71277778,-99.2925,DDC,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SCZM7,Osage River near Schell City,38.05583333,-94.14555556,SGF,MBRFC,Missouri Region,MO,0.31,0.16,0.05,1,2/8/2023,obj,FMA
+SFDS2,James River near Stratford,45.24166667,-98.39111111,ABR,MBRFC,Missouri Region,SD,0.46,0.25,0.16,1,2/8/2023,obj,FMA
+SFLS2,Big Sioux River at Sioux Falls I-90,43.61,-96.74444444,FSD,MBRFC,Missouri Region,SD,0.23,0.06,0.05,1,2/8/2023,obj,FMA
+SHAM8,Musselshell River near Shawmut,46.31861111,-109.4597222,BYZ,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SHBW4,Goose Creek at Sheridan,44.8225,-106.9627778,BYZ,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SHLI4,Floyd River at Sheldon,43.195,-95.84944444,FSD,MBRFC,Missouri Region,IA,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SHLM8,Marias River near Shelby,48.42722222,-111.8897222,TFX,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SHRC2,Bear Creek (CO) at Sheridan,39.6519,-105.033,BOU,MBRFC,Missouri Region,CO,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SIDM8,Yellowstone River near Sidney,47.67805556,-104.1563889,GGW,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SIFS2,Skunk Creek at Sioux Falls,43.53361111,-96.79055556,FSD,MBRFC,Missouri Region,SD,0.07,0.05,0.05,1,2/8/2023,obj,FMA
+SINW4,North Platte River near Sinclair,41.87222222,-107.0569444,CYS,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SIOI4,Perry Creek at Sioux City,42.53555556,-96.41083333,FSD,MBRFC,Missouri Region,IA,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SJSM7,Missouri River at St. Joseph,39.75333333,-94.85694444,EAX,MBRFC,Missouri Region,MO,0.19,0.11,0.05,1,2/8/2023,obj,FMA
+SKTK1,Bow Creek near Stockton,39.55944444,-99.28555556,GID,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SLDM8,Shields River near Livingston,45.73833333,-110.4791667,BYZ,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SLNK1,Mulberry Creek (KS) near Salina,38.84444444,-97.66805556,ICT,MBRFC,Missouri Region,KS,0.16,0.08,0.05,1,2/8/2023,obj,FMA
+SLOW4,Shoshone River near Lovell,44.83861111,-108.4344444,RIW,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SMBM8,Saint Mary River at International boundary,49.01194444,-113.2991667,TFX,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SMHM7,Little Platte River at Smithville,39.38833333,-94.58083333,EAX,MBRFC,Missouri Region,MO,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SMIN1,South Loup River at St. Michael,41.0325,-98.74055556,GID,MBRFC,Missouri Region,NE,0.09,0.05,0.05,1,2/8/2023,obj,FMA
+SNCK1,Turkey Creek (KS) near Seneca,39.9475,-96.10861111,TOP,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SNDK1,Republican River at Scandia,39.7983,-97.7908,TOP,MBRFC,Missouri Region,KS,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+SNKS2,Snake Creek near Ashton,44.95916667,-98.51527778,ABR,MBRFC,Missouri Region,SD,0.21,0.19,0.15,1,2/8/2023,obj,FMA
+SNZM7,Grand River near Sumner,39.64027778,-93.27361111,EAX,MBRFC,Missouri Region,MO,0.81,0.78,0.06,3,2/8/2023,obj,FMA
+SPKN1,Niobrara River near Sparks,42.90222222,-100.3622222,LBF,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SPLN1,Middle Loup River near St. Paul,41.20361111,-98.44611111,GID,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SPOI4,Ocheyedan River near Spencer,43.12888889,-95.21027778,FSD,MBRFC,Missouri Region,IA,0.07,0.05,0.05,1,2/8/2023,obj,FMA
+SPTC2,South Platte River at South Platte,39.40916667,-105.1694444,BOU,MBRFC,Missouri Region,CO,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SPUN1,North Loup River near St. Paul,41.26333333,-98.44888889,GID,MBRFC,Missouri Region,NE,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+SPWI4,Little Sioux River at Spencer,43.13694444,-95.14444444,FSD,MBRFC,Missouri Region,IA,0.3,0.05,0.05,1,2/8/2023,obj,FMA
+SRAM8,Stillwater River (South Central MT) near Absarokee,45.5367,-109.4219,BYZ,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SRAW4,North Platte River at Saratoga,41.455,-106.8055556,CYS,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SRPN1,Big Blue River at Surprise,41.10194444,-97.31083333,OAX,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SSCN1,Missouri River at Sioux City,42.48583333,-96.41361111,FSD,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SSRM8,Sun River near Simms,47.50166667,-111.9311111,TFX,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SSTM7,Platte River at Sharps Station,39.40083333,-94.72666667,EAX,MBRFC,Missouri Region,MO,0.19,0.12,0.06,1,2/8/2023,obj,FMA
+STMN1,Sappa Creek near Stamford,40.11833333,-99.51694444,GID,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+STTM7,Osage River near St. Thomas,38.42138889,-92.20833333,LSX,MBRFC,Missouri Region,MO,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+STTN1,Republican River at Stratton,40.15194444,-101.2286111,GLD,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+STUI4,Floyd River near Struble,42.92361111,-96.17611111,FSD,MBRFC,Missouri Region,IA,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SWDN1,Lincoln Creek near Seward,40.91583333,-97.14527778,OAX,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SWRN1,Big Blue River at Seward,40.90305556,-97.11194444,OAX,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SWTN1,Mud Creek at Sweetwater,41.0375,-98.99305556,GID,MBRFC,Missouri Region,NE,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+SXCI4,Big Sioux River at Sioux City,42.52444444,-96.48,FSD,MBRFC,Missouri Region,IA,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+SXFS2,Big Sioux River at Sioux Falls N. Cliff Avenue,43.56694444,-96.71083333,FSD,MBRFC,Missouri Region,SD,0.17,0.12,0.05,1,2/8/2023,obj,FMA
+TBVM7,Osage River near Taberville,38.00388889,-93.99472222,SGF,MBRFC,Missouri Region,MO,0.34,0.07,0.05,1,2/8/2023,obj,FMA
+TFKM8,Jefferson River near Three Forks,45.89777778,-111.5958333,TFX,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+TFLW4,Lamar River near Tower Falls,44.92777778,-110.3930556,RIW,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+TMPM8,Milk River near Tampico,48.30777778,-106.8225,GGW,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+TNGK1,Stranger Creek near Tonganoxie,39.11638889,-95.01083333,EAX,MBRFC,Missouri Region,KS,0.36,0.05,0.05,1,2/8/2023,obj,FMA
+TNRK1,Kansas River at Turner Bridge,39.09333333,-94.71027778,EAX,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+TOPK1,Soldier Creek near Topeka,39.09944444,-95.72472222,TOP,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+TOSM8,Missouri River at Toston,46.14638889,-111.4202778,TFX,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+TPAK1,Kansas River at Topeka,39.06666667,-95.64944444,TOP,MBRFC,Missouri Region,KS,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+TPOK1,Marais Des Cygnes River near Trading Post,38.21861111,-94.61277778,EAX,MBRFC,Missouri Region,KS,0.32,0.29,0.05,1,2/8/2023,obj,FMA
+TSCK1,Saline River (KS) at Tescott,39.00416667,-97.87388889,TOP,MBRFC,Missouri Region,KS,0.15,0.07,0.05,1,2/8/2023,obj,FMA
+TTZM7,Thompson River (IA/MO) near Trenton,40.06944444,-93.63833333,EAX,MBRFC,Missouri Region,MO,0.24,0.07,0.05,1,2/8/2023,obj,FMA
+TURI4,Little Sioux River near Turin,41.96444444,-95.9725,OAX,MBRFC,Missouri Region,IA,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+TWIM8,Jefferson River near Twin Bridges,45.61416667,-112.3291667,TFX,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+TWNM8,Beaverhead River near Twin Bridges,45.38361111,-112.4519444,TFX,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+UEHN1,Logan Creek at Uehling,41.7167,-96.5167,OAX,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+UION1,Weeping Water Creek at Union,40.79388889,-95.91138889,OAX,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+ULLM8,Smith River (MT) at Truly,47.35555556,-111.44,TFX,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+ULMM8,Missouri River near Ulm,47.435,-111.3852778,TFX,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+URHM7,South Grand River near Urich,38.4525,-94.00388889,EAX,MBRFC,Missouri Region,MO,0.59,0.34,0.05,2,2/8/2023,obj,FMA
+VAUM8,Sun River near Vaughn,47.52583333,-111.5119444,TFX,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+VCWK1,Vermillion Creek near Wamego,39.34777778,-96.21833333,TOP,MBRFC,Missouri Region,KS,0.11,0.05,0.05,1,2/8/2023,obj,FMA
+VERN1,Ponca Creek at Verdel,42.81111111,-98.175,OAX,MBRFC,Missouri Region,NE,0.09,0.05,0.05,1,2/8/2023,obj,FMA
+VERS2,Vermillion River at Vermillion,42.81722222,-96.92388889,FSD,MBRFC,Missouri Region,SD,0.21,0.2,0.05,1,2/8/2023,obj,FMA
+VLYM7,Blackwater River near Valley City,38.87,-93.62194444,EAX,MBRFC,Missouri Region,MO,0.81,0.75,0.19,3,2/8/2023,obj,FMA
+VRDN1,Niobrara River near Verdel,42.739722,-98.222778,OAX,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+VRPS2,East Fork Vermillion River near Parker,43.44527778,-97.10944444,FSD,MBRFC,Missouri Region,SD,0.29,0.25,0.23,1,2/8/2023,obj,FMA
+WAAK1,Saline River (KS) near Wakeeney,39.10777778,-99.86888889,DDC,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+WASS2,Cheyenne River near Wasta,44.08111111,-102.4008333,UNR,MBRFC,Missouri Region,SD,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+WBSS2,Big Sioux River at Watertown Sioux Conifer Road,44.9425,-97.14583333,ABR,MBRFC,Missouri Region,SD,0.49,0.25,0.05,1,2/8/2023,obj,FMA
+WBWS2,Big Sioux River at Watertown Broadway Avenue,44.88944444,-97.11861111,ABR,MBRFC,Missouri Region,SD,0.57,0.49,0.05,2,2/8/2023,obj,FMA
+WDRK1,Prairie Dog Creek near Woodruff,39.97861111,-99.47833333,GID,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+WDRW4,Wind River at Riverton,43.01055556,-108.3761111,RIW,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+WESS2,Elm River near Westport,45.65611111,-98.49666667,ABR,MBRFC,Missouri Region,SD,0.11,0.09,0.05,1,2/8/2023,obj,FMA
+WHGM7,Missouri River at Washington,38.55,-91,LSX,MBRFC,Missouri Region,MO,0.35,0.12,0.06,1,2/8/2023,obj,FMA
+WHIS2,Moreau River (SD) near Whitehorse,45.2558,-100.8425,ABR,MBRFC,Missouri Region,SD,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+WHRS2,White River (NE-SD) near White River,43.71388889,-100.6847222,UNR,MBRFC,Missouri Region,SD,0.18,0.09,0.06,1,2/8/2023,obj,FMA
+WKAS2,Vermillion River near Wakonda,42.99083333,-96.96361111,FSD,MBRFC,Missouri Region,SD,0.4,0.32,0.24,1,2/8/2023,obj,FMA
+WLBN1,Turkey Creek near Wilber,40.48027778,-97.0125,OAX,MBRFC,Missouri Region,NE,0.1,0.05,0.05,1,2/8/2023,obj,FMA
+WLON1,Elkhorn River near Winslow,41.61083333,-96.46833333,OAX,MBRFC,Missouri Region,NE,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+WLTN8,Missouri River near Williston,48.10805556,-103.7141667,BIS,MBRFC,Missouri Region,ND,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+WMGK1,Kansas River at Wamego,39.22444444,-96.32555556,TOP,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+WNAC2,South Platte River near Weldona,40.32111111,-103.9227778,BOU,MBRFC,Missouri Region,CO,0.07,0.05,0.05,1,2/8/2023,obj,FMA
+WODK1,S F Solomon River at Woodston,39.43972222,-99.10138889,GID,MBRFC,Missouri Region,KS,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+WODW4,Laramie River near Woods Landing,41.13805556,-105.9802778,CYS,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+WPHM7,Maries River at Westphalia,38.43194444,-91.98972222,LSX,MBRFC,Missouri Region,MO,0.34,0.17,0.05,1,2/8/2023,obj,FMA
+WPNN1,Elkhorn River at West Point,41.83944444,-96.72722222,OAX,MBRFC,Missouri Region,NE,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+WPTM8,Missouri River near Wolf Point,48.06722222,-105.5330556,GGW,MBRFC,Missouri Region,MT,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+WRCW4,Wind River above Red Creek,43.44166667,-109.4580556,RIW,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+WSHK1,Mill Creek (WSHK1) at Washington,39.82111111,-97.04472222,TOP,MBRFC,Missouri Region,KS,0.1,0.08,0.05,1,2/8/2023,obj,FMA
+WTFN8,Little Missouri River near Watford City,47.59027778,-103.2625,BIS,MBRFC,Missouri Region,ND,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+WTRN1,Elkhorn River at Waterloo,41.29361111,-96.28333333,OAX,MBRFC,Missouri Region,NE,0.06,0.05,0.05,1,2/8/2023,obj,FMA
+WTRS2,Big Sioux River near Watertown,45.00611111,-97.16472222,ABR,MBRFC,Missouri Region,SD,0.13,0.05,0.05,1,2/8/2023,obj,FMA
+WVYM7,Missouri River near Waverly,39.21444444,-93.515,EAX,MBRFC,Missouri Region,MO,0.42,0.06,0.05,1,2/8/2023,obj,FMA
+YLOW4,Yellowstone River at Fishing Bridge,44.5675,-110.38,RIW,MBRFC,Missouri Region,WY,0.05,0.05,0.05,1,2/8/2023,obj,FMA
+YNNS2,James River near Yankton,42.99583333,-97.36944444,FSD,MBRFC,Missouri Region,SD,0.27,0.23,0.18,1,2/8/2023,obj,FMA
+ZAPN8,Spring Creek (ND) at Zap,47.28777778,-102.0005556,BIS,MBRFC,Missouri Region,ND,0.08,0.06,0.05,1,2/8/2023,obj,FMA
