@@ -1,0 +1,207 @@
+lid,name,lat,lon,wfo,rfc,wrr,state,minor,moderate,major,code,date_produced,obj_or_subj,interval
+ADLC2,Arkansas River near Avondale,38.24805800,-104.39913600,PUB,ABRFC,Arkansas-White-Red Region,CO,0.15,0.10,0.06,1,2/20/2023,obj,FMA
+AGAK1,Walnut River at Augusta,37.67055600,-96.98000000,ICT,ABRFC,Arkansas-White-Red Region,KS,0.09,0.05,0.05,1,2/20/2023,obj,FMA
+AGSK1,Whitewater River (KS) at Augusta,37.67970000,-96.99638000,ICT,ABRFC,Arkansas-White-Red Region,KS,0.06,0.05,0.05,1,2/20/2023,obj,FMA
+ALBK1,Walnut Creek (KS) at Albert,38.46166700,-99.01444400,ICT,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+ALMK1,Little Arkansas River at Alta Mills,38.11220000,-97.59194000,ICT,ABRFC,Arkansas-White-Red Region,KS,0.10,0.05,0.05,1,2/20/2023,obj,FMA
+ALXO2,Washita River at Alex,34.92590300,-97.77392700,OUN,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+AMAT2,Canadian River at Amarillo,35.47027800,-101.87916700,AMA,ABRFC,Arkansas-White-Red Region,TX,0.09,0.05,0.05,1,2/20/2023,obj,FMA
+AMCK1,Neosho River near Americus,38.46694400,-96.25027800,TOP,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+AMCO2,Cimarron River near Ames,36.21833000,-98.25444000,OUN,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+ANDO2,Washita River at Anadarko,35.08422800,-98.24338500,OUN,ABRFC,Arkansas-White-Red Region,OK,0.08,0.08,0.07,1,2/20/2023,obj,FMA
+ANTO2,Kiamichi River near Antlers,34.24861100,-95.60500000,TSA,ABRFC,Arkansas-White-Red Region,OK,0.23,0.10,0.05,1,2/20/2023,obj,FMA
+ARCC2,Arkansas River near Rocky Ford,38.06460400,-103.68547200,PUB,ABRFC,Arkansas-White-Red Region,CO,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+ARCK1,Arkansas River at Arkansas City,37.03750000,-97.03916600,ICT,ABRFC,Arkansas-White-Red Region,KS,0.18,0.05,0.05,1,2/20/2023,obj,FMA
+ARCT2,Red River at Arthur City,33.87500000,-95.50166700,TSA,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+ARKK1,Walnut River at Arkansas City,37.05638000,-97.02555000,ICT,ABRFC,Arkansas-White-Red Region,KS,0.08,0.05,0.05,1,2/20/2023,obj,FMA
+ATOK1,Verdigris River at Altoona,37.52977000,-95.67440000,ICT,ABRFC,Arkansas-White-Red Region,KS,0.25,0.06,0.05,1,2/20/2023,obj,FMA
+AVAO2,Salt Fork Arkansas River near Alva,36.81503100,-98.64814000,OUN,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+AVTO2,Bird Creek at Avant,36.48500000,-96.06000000,TSA,ABRFC,Arkansas-White-Red Region,OK,0.37,0.17,0.14,1,2/20/2023,obj,FMA
+BETK1,Buckner Creek near Burdett,38.16277800,-99.64277800,DDC,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+BFFO2,Cimarron River near Buffalo,36.85197500,-99.31538700,OUN,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+BGSO2,Deep Fork River near Beggs,35.67388900,-96.06833300,TSA,ABRFC,Arkansas-White-Red Region,OK,0.16,0.12,0.05,1,2/20/2023,obj,FMA
+BKBT2,Red River near Burkburnett,34.11009300,-98.53172300,OUN,ABRFC,Arkansas-White-Red Region,TX,0.10,0.05,0.05,1,2/20/2023,obj,FMA
+BLKO2,Chikaskia River near Blackwell,36.81142100,-97.27726500,OUN,ABRFC,Arkansas-White-Red Region,OK,0.09,0.07,0.05,1,2/20/2023,obj,FMA
+BLPK1,Ninnescah River near Belle Plaine,37.39160000,-97.33910000,ICT,ABRFC,Arkansas-White-Red Region,KS,0.07,0.05,0.05,1,2/20/2023,obj,FMA
+BLUO2,Blue River (OK) near Blue,33.99704100,-96.24109900,OUN,ABRFC,Arkansas-White-Red Region,OK,0.21,0.15,0.05,1,2/20/2023,obj,FMA
+BRIO2,Canadian River near Bridgeport,35.54366200,-98.31783900,OUN,ABRFC,Arkansas-White-Red Region,OK,0.11,0.05,0.05,1,2/20/2023,obj,FMA
+BRLK1,Neosho River at Burlington,38.19444400,-95.73500000,TOP,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+BTTK1,Pawnee River near Burdett,38.20704000,-99.64355000,DDC,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+BVLO2,Caney River at Bartlesville,36.75555600,-95.97194400,TSA,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+BVRO2,Beaver River at Beaver,36.82222200,-100.51888900,AMA,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+BXTK1,Spring River  near Baxter Springs,37.02361000,-94.72083000,SGF,ABRFC,Arkansas-White-Red Region,KS,0.37,0.12,0.06,1,2/20/2023,obj,FMA
+CAGO2,Washita River near Carnegie,35.11728100,-98.56395000,OUN,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+CANO2,Clear Boggy Creek above Caney Creek near Caney,34.25509000,-96.21276800,OUN,ABRFC,Arkansas-White-Red Region,OK,0.48,0.33,0.13,1,2/20/2023,obj,FMA
+CARO2,North Fork of the Red River near Carter,35.16810800,-99.50731300,OUN,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+CBNK1,Chikaskia River near Corbin,37.12868000,-97.60156900,ICT,ABRFC,Arkansas-White-Red Region,KS,0.25,0.05,0.05,1,2/20/2023,obj,FMA
+CCKO2,Washita River near Chickasha,35.08560000,-97.95970000,OUN,ABRFC,Arkansas-White-Red Region,OK,0.07,0.06,0.05,1,2/20/2023,obj,FMA
+CDNT2,Canadian River at Canadian,35.93500000,-100.37027800,AMA,ABRFC,Arkansas-White-Red Region,TX,0.06,0.05,0.05,1,2/20/2023,obj,FMA
+CFVK1,Verdigris River at Coffeyville,37.06138800,-95.63472200,ICT,ABRFC,Arkansas-White-Red Region,KS,0.24,0.06,0.05,1,2/20/2023,obj,FMA
+CHLT2,Prairie Dog Town Fork of the Red River at Childress 10N,34.56916700,-100.19361100,LUB,ABRFC,Arkansas-White-Red Region,TX,0.11,0.05,0.05,1,2/20/2023,obj,FMA
+CHTM7,Spring River  at Carthage,37.18861000,-94.32583000,SGF,ABRFC,Arkansas-White-Red Region,MO,0.52,0.21,0.05,2,2/20/2023,obj,FMA
+CHYO2,Washita River near Cheyenne,35.62643700,-99.66843900,OUN,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+CLIO2,Washita River near Clinton,35.53088300,-98.96703000,OUN,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+CLRO2,Verdigris River near Claremore,36.30750000,-95.69972200,TSA,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+CLVO2,Canadian River near Calvin,34.97786700,-96.24361700,OUN,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+CMMN5,Cimarron River (NM) above Cimarron,36.51972200,-104.97861100,ABQ,ABRFC,Arkansas-White-Red Region,NM,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+CNCC2,Arkansas River at Canon City,38.43388700,-105.25721300,PUB,ABRFC,Arkansas-White-Red Region,CO,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+CNUK1,Neosho River near Chanute,37.73027700,-95.44055000,ICT,ABRFC,Arkansas-White-Red Region,KS,0.33,0.16,0.05,1,2/20/2023,obj,FMA
+COMO2,Neosho River near Commerce,36.92861100,-94.95722200,TSA,ABRFC,Arkansas-White-Red Region,OK,0.76,0.55,0.06,3,2/20/2023,obj,FMA
+COOK1,Arkansas River at Coolidge,38.02750000,-102.01138900,DDC,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+COWK1,Cowskin Creek at Wichita 119th St,37.70169000,-97.48055000,ICT,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+CTWK1,Cottonwood River at Cottonwood Falls,38.37550000,-96.54194000,ICT,ABRFC,Arkansas-White-Red Region,KS,0.10,0.05,0.05,1,2/20/2023,obj,FMA
+CVLO2,Caney River near Collinsville,36.39472200,-95.81000000,TSA,ABRFC,Arkansas-White-Red Region,OK,0.32,0.23,0.09,1,2/20/2023,obj,FMA
+CWYO2,Illinois River (AR OK) at Chewey,36.10416700,-94.78305600,TSA,ABRFC,Arkansas-White-Red Region,OK,0.51,0.33,0.15,2,2/20/2023,obj,FMA
+DANA4,Petit Jean River at Danville,35.05861100,-93.39555500,LZK,ABRFC,Arkansas-White-Red Region,AR,0.91,0.24,0.05,2,2/20/2023,obj,FMA
+DARA4,Arkansas River at Dardanelle,35.22611100,-93.14944400,LZK,ABRFC,Arkansas-White-Red Region,AR,0.19,0.13,0.05,1,2/20/2023,obj,FMA
+DAWN5,Vermejo River above Dawson,36.68111100,-104.78638900,ABQ,ABRFC,Arkansas-White-Red Region,NM,0.08,0.05,0.05,1,2/20/2023,obj,FMA
+DDCK1,Arkansas River at Dodge City,37.74444400,-100.03277800,DDC,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+DEKT2,Red River near Dekalb - Pecan Point,33.68388900,-94.69416700,SHV,ABRFC,Arkansas-White-Red Region,TX,0.13,0.07,0.05,1,2/20/2023,obj,FMA
+DOVO2,Cimarron River near Dover,35.95170800,-97.91449900,OUN,ABRFC,Arkansas-White-Red Region,OK,0.28,0.08,0.06,1,2/20/2023,obj,FMA
+DRBK1,Arkansas River at Derby,37.54430600,-97.27556900,ICT,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+DURO2,Washita River near Dickson,34.23342700,-96.97584500,OUN,ABRFC,Arkansas-White-Red Region,OK,0.12,0.10,0.09,1,2/20/2023,obj,FMA
+EDEK1,Walnut River near El Dorado,37.81690000,-96.83940000,ICT,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+EDWK1,West Branch Walnut River at El Dorado,37.82666000,-96.84916000,ICT,ABRFC,Arkansas-White-Red Region,KS,0.09,0.09,0.08,1,2/20/2023,obj,FMA
+ELDO2,Baron Fork at Eldon,35.92111100,-94.83833300,TSA,ABRFC,Arkansas-White-Red Region,OK,0.19,0.05,0.05,1,2/20/2023,obj,FMA
+ELNO2,North Canadian River near El Reno,35.56310700,-97.95755000,OUN,ABRFC,Arkansas-White-Red Region,OK,0.08,0.05,0.05,1,2/20/2023,obj,FMA
+ELTT2,Beaver Creek (TX) near Electra,33.90592800,-98.90506700,OUN,ABRFC,Arkansas-White-Red Region,TX,0.10,0.06,0.05,1,2/20/2023,obj,FMA
+EMPK1,Cottonwood River at Emporia,38.38611100,-96.18166700,TOP,ABRFC,Arkansas-White-Red Region,KS,0.21,0.08,0.05,1,2/20/2023,obj,FMA
+ENWK1,Crooked Creek (KS) near Englewood,37.03250000,-100.21111100,DDC,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+EPRK1,Neosho River at Emporia,38.43555600,-96.20916700,TOP,ABRFC,Arkansas-White-Red Region,KS,0.19,0.14,0.05,1,2/20/2023,obj,FMA
+EREK1,Neosho River near Erie,37.54944400,-95.26444400,ICT,ABRFC,Arkansas-White-Red Region,KS,0.37,0.28,0.16,1,2/20/2023,obj,FMA
+FCHC2,Fountain Creek at Pueblo,38.28778000,-104.60108500,PUB,ABRFC,Arkansas-White-Red Region,CO,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+FHAC2,Fountain Creek near Fountain,38.60166500,-104.67025000,PUB,ABRFC,Arkansas-White-Red Region,CO,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+FLRK1,Cottonwood River near Florence,38.23610000,-96.87690000,ICT,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+FLTA4,Red River at Fulton,33.60730000,-93.81380000,SHV,ABRFC,Arkansas-White-Red Region,AR,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+FNEC2,Fountain Creek at Colorado Springs,38.81638200,-104.82275200,PUB,ABRFC,Arkansas-White-Red Region,CO,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+FRGO2,Cimarron River (KS) near Forgan,37.01111100,-100.49138900,DDC,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+FRNK1,Fall River (KS) at Fredonia,37.50833300,-95.83333300,ICT,ABRFC,Arkansas-White-Red Region,KS,0.31,0.08,0.05,1,2/20/2023,obj,FMA
+FRSO2,Muddy Boggy Creek near Farris,34.27148500,-95.91220500,OUN,ABRFC,Arkansas-White-Red Region,OK,0.11,0.10,0.09,1,2/20/2023,obj,FMA
+FWLC2,Arkansas River near Fowler,38.12593700,-103.94420800,PUB,ABRFC,Arkansas-White-Red Region,CO,0.06,0.05,0.05,1,2/20/2023,obj,FMA
+GCKK1,Arkansas River at Garden City,37.95620000,-100.87715000,DDC,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+GLOO2,Glover River at Glover,34.09750000,-94.90194400,SHV,ABRFC,Arkansas-White-Red Region,OK,0.31,0.13,0.08,1,2/20/2023,obj,FMA
+GOLN5,Mora River near Golondrinas,35.89083300,-105.16361100,ABQ,ABRFC,Arkansas-White-Red Region,NM,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+GRVA4,Fourche LaFave River near Gravelly,34.87250000,-93.65666700,LZK,ABRFC,Arkansas-White-Red Region,AR,0.12,0.05,0.05,1,2/20/2023,obj,FMA
+GSVT2,Red River near Gainesville,33.72788300,-97.16001300,OUN,ABRFC,Arkansas-White-Red Region,TX,0.15,0.13,0.05,1,2/20/2023,obj,FMA
+GTBK1,Arkansas River at Great Bend,38.35305600,-98.76472200,ICT,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+GTRO2,Cimarron River near Guthrie,35.92060200,-97.42587500,OUN,ABRFC,Arkansas-White-Red Region,OK,0.08,0.05,0.05,1,2/20/2023,obj,FMA
+GUCO2,Cottonwood Creek (OK) at Guthrie,35.87997200,-97.42930200,OUN,ABRFC,Arkansas-White-Red Region,OK,0.12,0.06,0.05,1,2/20/2023,obj,FMA
+HAVK1,Arkansas River near Haven,37.94614200,-97.77511900,ICT,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+HCHK1,Arkansas River at Hutchinson,38.03805600,-97.93361100,ICT,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+HEAO2,North Fork of the Red River near Headrick,34.63812700,-99.10369100,OUN,ABRFC,Arkansas-White-Red Region,OK,0.09,0.06,0.05,1,2/20/2023,obj,FMA
+HRGA4,Little River at Horatio,33.91944400,-94.38750000,SHV,ABRFC,Arkansas-White-Red Region,AR,0.44,0.35,0.24,1,2/20/2023,obj,FMA
+HRHO2,North Canadian River near Harrah,35.50034100,-97.19391900,OUN,ABRFC,Arkansas-White-Red Region,OK,0.09,0.05,0.05,1,2/20/2023,obj,FMA
+HSKO2,Arkansas River near Haskell,35.82222200,-95.63944400,TSA,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+HTCK1,Cow Creek above Hutchinson,38.14416700,-98.00750000,ICT,ABRFC,Arkansas-White-Red Region,KS,0.20,0.06,0.05,1,2/20/2023,obj,FMA
+HTDK1,Little Arkansas River near Halstead,38.02853100,-97.54054200,ICT,ABRFC,Arkansas-White-Red Region,KS,0.10,0.05,0.05,1,2/20/2023,obj,FMA
+HUSA4,Fourche LaFave River near Houston,35.01222200,-92.72333300,LZK,ABRFC,Arkansas-White-Red Region,AR,0.95,0.11,0.05,2,2/20/2023,obj,FMA
+HVRO2,Wildhorse Creek near Hoover,34.54147400,-97.24724400,OUN,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+IDBO2,Little River near Idabel,33.94111100,-94.75833300,SHV,ABRFC,Arkansas-White-Red Region,OK,0.34,0.25,0.05,1,2/20/2023,obj,FMA
+IDPK1,Verdigris River at Independence,37.22360000,-95.67750000,ICT,ABRFC,Arkansas-White-Red Region,KS,0.39,0.05,0.05,1,2/20/2023,obj,FMA
+INGA4,Red River at Index,33.55194400,-94.04111100,SHV,ABRFC,Arkansas-White-Red Region,AR,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+INOO2,Verdigris River near Inola,36.16472200,-95.61888900,TSA,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+IOLK1,Neosho River at Iola,37.92220000,-95.42750000,ICT,ABRFC,Arkansas-White-Red Region,KS,0.25,0.05,0.05,1,2/20/2023,obj,FMA
+JNKO2,Polecat Creek near Jenks,36.01038900,-95.99386100,TSA,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+JOPM7,Shoal Creek (MO) near Joplin,37.02058000,-94.51375000,SGF,ABRFC,Arkansas-White-Red Region,MO,0.20,0.14,0.10,1,2/20/2023,obj,FMA
+KENO2,Cimarron River (OK) at Kenton,36.92666700,-102.95861100,AMA,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+KIOK1,Medicine Lodge River near Kiowa,37.03861100,-98.47027800,DDC,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+KNGO2,Kingfisher Creek at Kingfisher,35.87060000,-97.93250000,OUN,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+KNRO2,Uncle John Creek at Kingfisher,35.86110000,-97.92417000,OUN,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+KNSO2,Flint Creek (OK) near Kansas,36.18638900,-94.70666700,TSA,ABRFC,Arkansas-White-Red Region,OK,0.28,0.07,0.05,1,2/20/2023,obj,FMA
+KTNT2,Sweetwater Creek at Kelton,35.47305600,-100.12055600,AMA,ABRFC,Arkansas-White-Red Region,TX,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+LAPC2,Purgatoire River near Las Animas,38.03422200,-103.20141700,PUB,ABRFC,Arkansas-White-Red Region,CO,0.12,0.05,0.05,1,2/20/2023,obj,FMA
+LCBT2,Wolf Creek at Lipscomb,36.23861100,-100.27527800,AMA,ABRFC,Arkansas-White-Red Region,TX,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+LCVN5,Mora River at La Cueva,35.94500000,-105.25583300,ABQ,ABRFC,Arkansas-White-Red Region,NM,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+LEDC2,Arkansas River near Leadville,39.24900000,-106.34811100,PUB,ABRFC,Arkansas-White-Red Region,CO,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+LEPO2,Verdigris River near Lenapah,36.85111100,-95.58583300,TSA,ABRFC,Arkansas-White-Red Region,OK,0.17,0.15,0.05,1,2/20/2023,obj,FMA
+LGNN5,Revuelto Creek near Logan,35.34444400,-103.38972200,ABQ,ABRFC,Arkansas-White-Red Region,NM,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+LITA4,Arkansas River at Little Rock,34.74972200,-92.26916700,LZK,ABRFC,Arkansas-White-Red Region,AR,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+LMAC2,Arkansas River at Lamar,38.10579200,-102.61820600,PUB,ABRFC,Arkansas-White-Red Region,CO,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+LNDO2,Washita River at Lindsay,34.81810000,-97.59830000,OUN,ABRFC,Arkansas-White-Red Region,OK,0.16,0.06,0.05,1,2/20/2023,obj,FMA
+LRYK1,Neosho River at Le Roy,38.07694400,-95.63416700,TOP,ABRFC,Arkansas-White-Red Region,KS,0.16,0.16,0.05,1,2/20/2023,obj,FMA
+LXHC2,Arkansas River at La Junta,37.99055600,-103.53194400,PUB,ABRFC,Arkansas-White-Red Region,CO,0.26,0.08,0.05,1,2/20/2023,obj,FMA
+LYNK1,Cow Creek (KS) at Lyons,38.30833300,-98.19305500,ICT,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+MACK1,Rattlesnake Creek (KS) near Macksville,37.87127700,-98.87589900,DDC,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+MDKK1,Ninnescah River near Murdock,37.56166600,-97.85277800,ICT,ABRFC,Arkansas-White-Red Region,KS,0.08,0.05,0.05,1,2/20/2023,obj,FMA
+MGMO2,Salt Fork of the Red River at Mangum,34.85839400,-99.50870100,OUN,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+MKGO2,Arkansas River near Muskogee,35.76944400,-95.29694400,TSA,ABRFC,Arkansas-White-Red Region,OK,0.21,0.11,0.09,1,2/20/2023,obj,FMA
+MLBA4,Mulberry River (AR) near Mulberry,35.57694400,-94.01527800,TSA,ABRFC,Arkansas-White-Red Region,AR,0.07,0.05,0.05,1,2/20/2023,obj,FMA
+MORA4,Arkansas River at Morrilton,35.12694400,-92.73166700,LZK,ABRFC,Arkansas-White-Red Region,AR,0.28,0.16,0.05,1,2/20/2023,obj,FMA
+MULK1,Arkansas River near Mulvane,37.47550000,-97.26130000,ICT,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+NEOK1,Neosho River at Neosho Rapids,38.36805600,-96.00000000,TOP,ABRFC,Arkansas-White-Red Region,KS,0.28,0.27,0.05,1,2/20/2023,obj,FMA
+NKHO2,Little Washita River near Ninnekah,34.96340100,-97.89948600,OUN,ABRFC,Arkansas-White-Red Region,OK,0.10,0.10,0.09,1,2/20/2023,obj,FMA
+NPTC2,Arkansas River near Nepesta,38.18417000,-104.17329700,PUB,ABRFC,Arkansas-White-Red Region,CO,0.11,0.06,0.05,1,2/20/2023,obj,FMA
+NRCO2,Canadian River at Norman,35.19444400,-97.48472200,OUN,ABRFC,Arkansas-White-Red Region,OK,0.13,0.05,0.05,1,2/20/2023,obj,FMA
+OKBO2,North Canadian River at Britton Road at Oklahoma City,35.56555600,-97.36694400,OUN,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+OLBO2,North Canadian River at NW10th Street at Oklahoma City,35.47866800,-97.66337500,OUN,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+OSWK1,Neosho River at Oswego,37.17666000,-95.10500000,ICT,ABRFC,Arkansas-White-Red Region,KS,0.51,0.45,0.09,2,2/20/2023,obj,FMA
+OWSO2,Bird Creek near Owasso,36.24833300,-95.86694400,TSA,ABRFC,Arkansas-White-Red Region,OK,0.32,0.20,0.14,1,2/20/2023,obj,FMA
+OXFK1,Arkansas River at Oxford,37.27448600,-97.16291400,ICT,ABRFC,Arkansas-White-Red Region,KS,0.15,0.05,0.05,1,2/20/2023,obj,FMA
+OZGA4,Arkansas River at Ozark L/D Tailwater,35.47250000,-93.81277800,TSA,ABRFC,Arkansas-White-Red Region,AR,0.32,0.15,0.13,1,2/20/2023,obj,FMA
+PANO2,Poteau River near Panama,35.16555600,-94.65277800,TSA,ABRFC,Arkansas-White-Red Region,OK,0.68,0.59,0.08,3,2/20/2023,obj,FMA
+PAWO2,Black Bear Creek at Pawnee,36.34361100,-96.79916700,TSA,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+PBFA4,Arkansas River at Pine Bluff,34.28861100,-91.99472200,LZK,ABRFC,Arkansas-White-Red Region,AR,0.27,0.11,0.05,1,2/20/2023,obj,FMA
+PDAC2,Arkansas River above Pueblo,38.27166900,-104.71803300,PUB,ABRFC,Arkansas-White-Red Region,CO,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+PDLC2,Arkansas River at Parkdale,38.48721900,-105.37360400,PUB,ABRFC,Arkansas-White-Red Region,CO,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+PECK1,Ninnescah River near Peck,37.45690000,-97.42360000,ICT,ABRFC,Arkansas-White-Red Region,KS,0.11,0.05,0.05,1,2/20/2023,obj,FMA
+PGMC2,Purgatoire River at Madrid,37.12946500,-104.63998900,PUB,ABRFC,Arkansas-White-Red Region,CO,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+PGRC2,Purgatoire River below Trinidad Lake,37.14390800,-104.54776400,PUB,ABRFC,Arkansas-White-Red Region,CO,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+PLVO2,Washita River near Pauls Valley,34.75480200,-97.25141200,OUN,ABRFC,Arkansas-White-Red Region,OK,0.07,0.05,0.05,1,2/20/2023,obj,FMA
+PLYK1,Cottonwood River near Plymouth,38.39780000,-96.35660000,ICT,ABRFC,Arkansas-White-Red Region,KS,0.10,0.05,0.05,1,2/20/2023,obj,FMA
+PNNC2,Fountain Creek near Pinon,38.42944400,-104.59805600,PUB,ABRFC,Arkansas-White-Red Region,CO,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+PPFK1,Neosho River near Parsons,37.34006000,-95.10997000,ICT,ABRFC,Arkansas-White-Red Region,KS,0.52,0.46,0.05,2,2/20/2023,obj,FMA
+PRCO2,Canadian River at Purcell,35.01396100,-97.34752800,OUN,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+PRTC2,Arkansas River at Portland,38.38833400,-105.01609600,PUB,ABRFC,Arkansas-White-Red Region,CO,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+PTAO2,Poteau River near Poteau,35.05972200,-94.60277800,TSA,ABRFC,Arkansas-White-Red Region,OK,0.33,0.25,0.08,1,2/20/2023,obj,FMA
+PTRC2,Purgatoire River at Trinidad,37.17085200,-104.50915200,PUB,ABRFC,Arkansas-White-Red Region,CO,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+PTTK1,South Fork Ninnescah River at Pratt,37.63777000,-98.72111000,DDC,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+QUAO2,Spring River near Quapaw,36.93444400,-94.74611100,TSA,ABRFC,Arkansas-White-Red Region,OK,0.37,0.22,0.08,1,2/20/2023,obj,FMA
+RAMO2,Caney River near Ramona,36.50888900,-95.84166700,TSA,ABRFC,Arkansas-White-Red Region,OK,0.22,0.16,0.05,1,2/20/2023,obj,FMA
+RCNK1,Walnut Creek (KS) at Nekoma,38.47722200,-99.43777800,DDC,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+RIPO2,Cimarron River near Ripley,35.98589300,-96.91225000,OUN,ABRFC,Arkansas-White-Red Region,OK,0.25,0.11,0.08,1,2/20/2023,obj,FMA
+RLSO2,Arkansas River at Ralston,36.50416700,-96.72805600,TSA,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+RNDO2,Deep Red Creek near Randlett,34.22092500,-98.45311000,OUN,ABRFC,Arkansas-White-Red Region,OK,0.61,0.35,0.09,2,2/20/2023,obj,FMA
+SALC2,Arkansas River at Salida,38.54583000,-106.01056900,PUB,ABRFC,Arkansas-White-Red Region,CO,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+SANK1,Pawnee River near Sanford,38.18944400,-99.33111100,DDC,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+SASO2,Little River (OK) near Sasakwa,34.96536200,-96.51251100,OUN,ABRFC,Arkansas-White-Red Region,OK,0.11,0.10,0.06,1,2/20/2023,obj,FMA
+SCVC2,St Charles River at Vineland,38.24555800,-104.48636000,PUB,ABRFC,Arkansas-White-Red Region,CO,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+SEDK1,Little Arkansas River near Sedgwick,37.88305000,-97.42416000,ICT,ABRFC,Arkansas-White-Red Region,KS,0.06,0.05,0.05,1,2/20/2023,obj,FMA
+SEIO2,North Canadian River near Seiling,36.18337300,-98.92120600,OUN,ABRFC,Arkansas-White-Red Region,OK,0.08,0.05,0.05,1,2/20/2023,obj,FMA
+SHAT2,North Fork of the Red River at Shamrock,35.26416700,-100.24138900,AMA,ABRFC,Arkansas-White-Red Region,TX,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+SNCN5,Canadian River near Sanchez,35.65472200,-104.37861100,ABQ,ABRFC,Arkansas-White-Red Region,NM,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+SPCO2,Polecat Creek near Sapulpa,35.98833300,-96.08194400,TSA,ABRFC,Arkansas-White-Red Region,OK,0.35,0.24,0.05,1,2/20/2023,obj,FMA
+SPEO2,Bird Creek near Sperry,36.27833300,-95.95388900,TSA,ABRFC,Arkansas-White-Red Region,OK,0.38,0.29,0.09,1,2/20/2023,obj,FMA
+SPGN5,Cimarron River (NM) at Springer,36.36027800,-104.59805600,ABQ,ABRFC,Arkansas-White-Red Region,NM,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+SPMT2,Palo Duro Creek at Spearman,36.20222200,-101.30555600,AMA,ABRFC,Arkansas-White-Red Region,TX,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+SWDO2,Cottonwood Creek (OK) near Seward,35.81366000,-97.47809700,OUN,ABRFC,Arkansas-White-Red Region,OK,0.11,0.05,0.05,1,2/20/2023,obj,FMA
+SWNO2,North Canadian River near Shawnee,35.33284800,-96.96002300,OUN,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+SYRK1,Arkansas River at Syracuse,37.96666700,-101.75638900,DDC,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+TALO2,Illinois River (AR OK) near Tahlequah,35.92583300,-94.92250000,TSA,ABRFC,Arkansas-White-Red Region,OK,0.59,0.48,0.28,2,2/20/2023,obj,FMA
+TCMO2,Little River (OK) near Tecumseh,35.17257400,-96.93196600,OUN,ABRFC,Arkansas-White-Red Region,OK,0.40,0.13,0.08,1,2/20/2023,obj,FMA
+TGAO2,Canadian River near Taloga,36.05448600,-98.96954100,OUN,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+TIFM7,Elk River (MO) near Tiff City,36.63139000,-94.58667000,SGF,ABRFC,Arkansas-White-Red Region,MO,0.28,0.16,0.06,1,2/20/2023,obj,FMA
+TLSO2,Arkansas River at Tulsa,36.14055600,-96.00611100,TSA,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+TODA4,Arkansas River at Toad Suck Lock and Dam,35.07722200,-92.53972200,LZK,ABRFC,Arkansas-White-Red Region,AR,0.20,0.11,0.05,1,2/20/2023,obj,FMA
+TONO2,Salt Fork Arkansas River at Tonkawa,36.67197900,-97.30948900,OUN,ABRFC,Arkansas-White-Red Region,OK,0.21,0.13,0.05,1,2/20/2023,obj,FMA
+TOWK1,Whitewater River (KS) near Towanda,37.79611000,-97.01416000,ICT,ABRFC,Arkansas-White-Red Region,KS,0.09,0.06,0.05,1,2/20/2023,obj,FMA
+TRLO2,Red River near Terral,33.87871100,-97.93448000,OUN,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+TUCO2,Canadian River near Mustang,35.32416700,-97.72361100,OUN,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+TYLN5,Canadian River near Taylor Springs,36.29750000,-104.49555600,ABQ,ABRFC,Arkansas-White-Red Region,NM,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+VBUA4,Arkansas River at Van Buren,35.43138900,-94.35611100,TSA,ABRFC,Arkansas-White-Red Region,AR,0.26,0.13,0.05,1,2/20/2023,obj,FMA
+VERT2,Pease River near Vernon,34.17958300,-99.32333300,OUN,ABRFC,Arkansas-White-Red Region,TX,0.08,0.06,0.05,1,2/20/2023,obj,FMA
+WAKO2,Beaver Creek (OK) near Waurika,34.16277800,-98.00805600,OUN,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+WANO2,Cimarron River near Waynoka,36.51725600,-98.87953700,OUN,ABRFC,Arkansas-White-Red Region,OK,0.27,0.05,0.05,1,2/20/2023,obj,FMA
+WATO2,North Canadian River near Watonga,35.81198900,-98.42090500,OUN,ABRFC,Arkansas-White-Red Region,OK,0.27,0.11,0.07,1,2/20/2023,obj,FMA
+WAYT2,Prairie Dog Town Fork of the Red River at Wayside,34.83750000,-101.41361100,AMA,ABRFC,Arkansas-White-Red Region,TX,0.08,0.05,0.05,1,2/20/2023,obj,FMA
+WCOM7,Spring River  near Waco,37.24555600,-94.56639000,SGF,ABRFC,Arkansas-White-Red Region,MO,0.46,0.05,0.05,1,2/20/2023,obj,FMA
+WDGO2,North Canadian River near Woodward,36.43670300,-99.27843800,OUN,ABRFC,Arkansas-White-Red Region,OK,0.15,0.05,0.05,1,2/20/2023,obj,FMA
+WELK1,Slate Creek (KS) at Wellington,37.24944000,-97.40330000,ICT,ABRFC,Arkansas-White-Red Region,KS,0.36,0.27,0.05,1,2/20/2023,obj,FMA
+WETO2,North Canadian River near Wetumka,35.26564500,-96.20611700,OUN,ABRFC,Arkansas-White-Red Region,OK,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+WFDK1,Walnut River at Winfield,37.22388000,-96.99583000,ICT,ABRFC,Arkansas-White-Red Region,KS,0.25,0.16,0.05,1,2/20/2023,obj,FMA
+WICT2,Wichita River at Wichita Falls,33.90954200,-98.53366600,OUN,ABRFC,Arkansas-White-Red Region,TX,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+WLGT2,Salt Fork of the Red River at Wellington,34.95750000,-100.22055600,AMA,ABRFC,Arkansas-White-Red Region,TX,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+WLTO2,East Cache Creek near Walters,34.36230700,-98.28254700,OUN,ABRFC,Arkansas-White-Red Region,OK,0.34,0.33,0.22,1,2/20/2023,obj,FMA
+WSVC2,Arkansas River near Wellsville,38.50277500,-105.93973300,PUB,ABRFC,Arkansas-White-Red Region,CO,0.05,0.05,0.05,1,2/20/2023,obj,FMA
+WTTO2,Illinois River (AR OK) near Watts,36.13000000,-94.57194400,TSA,ABRFC,Arkansas-White-Red Region,OK,0.55,0.40,0.10,2,2/20/2023,obj,FMA
+YUKO2,North Canadian River near Yukon,35.53949900,-97.74254400,OUN,ABRFC,Arkansas-White-Red Region,OK,0.12,0.05,0.05,1,2/20/2023,obj,FMA
+ZENK1,Rattlesnake Creek (KS) near Zenith,38.09360000,-98.54610000,DDC,ABRFC,Arkansas-White-Red Region,KS,0.05,0.05,0.05,1,2/20/2023,obj,FMA
